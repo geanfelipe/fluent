@@ -16,9 +16,9 @@
   },
   "profile_created": "2026-10-05",
   "last_updated": "2026-10-05",
-  "current_streak_days": 0,
-  "total_sessions": 0,
-  "total_study_minutes": 0,
+  "current_streak_days": 1,
+  "total_sessions": 1,
+  "total_study_minutes": 50,
   "skills": {
     "writing": {
       "current_level": 0,
@@ -27,10 +27,10 @@
       "total_practice_time": 0
     },
     "speaking": {
-      "current_level": 0,
-      "confidence": 0,
-      "last_practiced": null,
-      "total_practice_time": 0
+      "current_level": 1,
+      "confidence": 17,
+      "last_practiced": "2026-10-05",
+      "total_practice_time": 50
     },
     "vocabulary": {
       "current_level": 0,
@@ -61,6 +61,12 @@
       "name": "Getting Started",
       "earned_date": "2026-10-05",
       "description": "Created your learning profile"
+    },
+    {
+      "id": "session_session-001_0_first_50_minute_voice_speaking",
+      "name": "First 50-minute voice speaking session",
+      "earned_date": "2026-10-05",
+      "description": "First 50-minute voice speaking session"
     }
   ],
   "preferences": {

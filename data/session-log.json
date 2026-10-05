@@ -2,8 +2,49 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 0
+    "total_sessions": 1
   },
-  "sessions": [],
-  "milestones": []
+  "sessions": [
+    {
+      "session_id": "session-001",
+      "date": "2026-10-05",
+      "duration_minutes": 50,
+      "skills_practiced": [
+        "speaking"
+      ],
+      "command_used": "voice-claude-chat",
+      "exercises_completed": 7,
+      "accuracy": 0.571,
+      "score_breakdown": {
+        "speaking": 0.571
+      },
+      "topics_covered": [
+        "salary_negotiation",
+        "professional_achievements",
+        "helping_colleagues",
+        "non_technical_communication",
+        "team_adaptation",
+        "daily_routine",
+        "learning_english_for_work"
+      ],
+      "breakthroughs": [
+        "Explained technical subjects in simple, non-technical language"
+      ],
+      "focus_next_session": [
+        "Do-support with 'have' in negatives",
+        "PT→EN calques: fama, me adaptar, fiquei feliz",
+        "Rapid-fire Q&A format"
+      ],
+      "notes": "Voice session in Claude chat (external), summary imported. Exercise/correct counts are estimates: voice session had no per-item scoring.",
+      "achievements_earned": [],
+      "streak_day": 1
+    }
+  ],
+  "milestones": [
+    {
+      "date": "2026-10-05",
+      "milestone": "First 50-minute voice speaking session",
+      "session_id": "session-001"
+    }
+  ]
 }

@@ -1,8 +1,124 @@
 {
   "metadata": {
     "last_updated": "2026-10-05",
-    "total_patterns_tracked": 0,
+    "total_patterns_tracked": 5,
     "language": "English"
   },
-  "error_patterns": {}
+  "error_patterns": {
+    "vocab_got_glad_happy": {
+      "category": "vocabulary",
+      "subcategory": "collocation",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-05",
+      "last_occurred": "2026-10-05",
+      "next_review": "2026-10-06",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I got very glad.",
+          "correct": "I was really happy.",
+          "context": "describing feelings about an achievement",
+          "date": "2026-10-05"
+        }
+      ],
+      "notes": "Literal translation of 'fiquei muito feliz'. 'Glad' rarely takes 'got/very'."
+    },
+    "false_cognate_fame_reputation": {
+      "category": "vocabulary",
+      "subcategory": "false_cognate",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-05",
+      "last_occurred": "2026-10-05",
+      "next_review": "2026-10-06",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I had a fame.",
+          "correct": "I had a good reputation.",
+          "context": "explaining professional achievements",
+          "date": "2026-10-05"
+        }
+      ],
+      "notes": "PT 'fama' = EN 'reputation' in professional context. 'Fame' = celebrity, uncountable."
+    },
+    "grammar_generic_plural_people": {
+      "category": "grammar",
+      "subcategory": "countable_plural",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-05",
+      "last_occurred": "2026-10-05",
+      "next_review": "2026-10-06",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "non-technical person",
+          "correct": "non-technical people",
+          "context": "working with non-technical people",
+          "date": "2026-10-05"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_have_negative_do_support": {
+      "category": "grammar",
+      "subcategory": "auxiliary_do",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-05",
+      "last_occurred": "2026-10-05",
+      "next_review": "2026-10-06",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I hadn't any knowledge.",
+          "correct": "I didn't have any knowledge.",
+          "context": "adapting to a new team",
+          "date": "2026-10-05"
+        }
+      ],
+      "notes": "'Have' as main verb needs do-support in negatives/questions."
+    },
+    "grammar_adapt_myself_reflexive": {
+      "category": "grammar",
+      "subcategory": "reflexive_calque",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-05",
+      "last_occurred": "2026-10-05",
+      "next_review": "2026-10-06",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I had to adapt myself.",
+          "correct": "I had to adapt to the new environment.",
+          "context": "adapting to a new team",
+          "date": "2026-10-05"
+        }
+      ],
+      "notes": "Calque of 'me adaptar'. EN: adapt TO something."
+    }
+  }
 }
