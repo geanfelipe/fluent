@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 1
+    "total_sessions": 2
   },
   "sessions": [
     {
@@ -38,6 +38,35 @@
       "notes": "Voice session in Claude chat (external), summary imported. Exercise/correct counts are estimates: voice session had no per-item scoring.",
       "achievements_earned": [],
       "streak_day": 1
+    },
+    {
+      "session_id": "session-002",
+      "date": "2026-10-06",
+      "duration_minutes": 8,
+      "skills_practiced": [
+        "speaking"
+      ],
+      "command_used": "voice-claude-chat",
+      "exercises_completed": 10,
+      "accuracy": 0.6,
+      "score_breakdown": {
+        "speaking": 0.6
+      },
+      "topics_covered": [
+        "salary_negotiation",
+        "ielts_speaking_part_2"
+      ],
+      "breakthroughs": [
+        "Sustained a 90-second speaking turn"
+      ],
+      "focus_next_session": [
+        "was/were agreement",
+        "PT calques: ganhar salário, ter fama, me adaptar",
+        "Reduce fillers in long turns"
+      ],
+      "notes": "Voice session in Claude chat (external), summary imported. Fluency 6/10. Exercise counts derived from fluency score (summary was truncated, no per-item scoring). 8 SR items from session-001 were due and NOT reviewed.",
+      "achievements_earned": [],
+      "streak_day": 2
     }
   ],
   "milestones": [
@@ -45,6 +74,11 @@
       "date": "2026-10-05",
       "milestone": "First 50-minute voice speaking session",
       "session_id": "session-001"
+    },
+    {
+      "date": "2026-10-06",
+      "milestone": "First 90-second sustained speaking turn",
+      "session_id": "session-002"
     }
   ]
 }

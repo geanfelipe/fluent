@@ -15,10 +15,10 @@
     "target_date": "2027-07-05"
   },
   "profile_created": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "current_streak_days": 1,
-  "total_sessions": 1,
-  "total_study_minutes": 50,
+  "last_updated": "2026-10-06",
+  "current_streak_days": 2,
+  "total_sessions": 2,
+  "total_study_minutes": 58,
   "skills": {
     "writing": {
       "current_level": 0,
@@ -28,9 +28,9 @@
     },
     "speaking": {
       "current_level": 1,
-      "confidence": 17,
-      "last_practiced": "2026-10-05",
-      "total_practice_time": 50
+      "confidence": 30,
+      "last_practiced": "2026-10-06",
+      "total_practice_time": 58
     },
     "vocabulary": {
       "current_level": 0,
@@ -67,6 +67,12 @@
       "name": "First 50-minute voice speaking session",
       "earned_date": "2026-10-05",
       "description": "First 50-minute voice speaking session"
+    },
+    {
+      "id": "session_session-002_0_first_90_second_sustained_spea",
+      "name": "First 90-second sustained speaking turn",
+      "earned_date": "2026-10-06",
+      "description": "First 90-second sustained speaking turn"
     }
   ],
   "preferences": {

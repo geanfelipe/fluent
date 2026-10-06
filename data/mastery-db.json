@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-05",
+    "last_updated": "2026-10-06",
     "language": "English"
   },
   "skills": {
@@ -12,11 +12,11 @@
     },
     "speaking": {
       "mastery_level": 1,
-      "confidence_score": 0.571,
-      "total_practice_time": 50,
-      "last_practiced": "2026-10-05",
-      "practice_count": 7,
-      "avg_accuracy": 0.571
+      "confidence_score": 0.585,
+      "total_practice_time": 58,
+      "last_practiced": "2026-10-06",
+      "practice_count": 17,
+      "avg_accuracy": 0.585
     },
     "vocabulary": {
       "mastery_level": 0,

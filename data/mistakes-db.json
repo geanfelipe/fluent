@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-10-05",
-    "total_patterns_tracked": 5,
+    "last_updated": "2026-10-06",
+    "total_patterns_tracked": 10,
     "language": "English"
   },
   "error_patterns": {
@@ -119,6 +119,121 @@
         }
       ],
       "notes": "Calque of 'me adaptar'. EN: adapt TO something."
+    },
+    "grammar_was_were_agreement": {
+      "category": "grammar",
+      "subcategory": "subject_verb_agreement",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-06",
+      "last_occurred": "2026-10-06",
+      "next_review": "2026-10-07",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I weren't able / I were",
+          "correct": "I wasn't able / I was",
+          "context": "negotiation",
+          "date": "2026-10-06"
+        }
+      ],
+      "notes": "Past of 'be': I/he/she/it WAS; you/we/they WERE. (Subjunctive 'If I were' is the only exception.)"
+    },
+    "vocab_employer_vs_employee": {
+      "category": "vocabulary",
+      "subcategory": "word_confusion",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-06",
+      "last_occurred": "2026-10-06",
+      "next_review": "2026-10-07",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "a known employer",
+          "correct": "an established employee",
+          "context": "negotiation",
+          "date": "2026-10-06"
+        }
+      ],
+      "notes": "employer = quem contrata; employee = quem é contratado. 'established' > 'known' for reputation."
+    },
+    "collocation_move_forward_with": {
+      "category": "vocabulary",
+      "subcategory": "collocation",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-06",
+      "last_occurred": "2026-10-06",
+      "next_review": "2026-10-07",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "move on in this proposal",
+          "correct": "move forward with this proposal",
+          "context": "negotiation",
+          "date": "2026-10-06"
+        }
+      ],
+      "notes": "'move on' = deixar para trás; 'move forward with' = avançar com."
+    },
+    "grammar_preposition_gerund": {
+      "category": "grammar",
+      "subcategory": "preposition_plus_ing",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-06",
+      "last_occurred": "2026-10-06",
+      "next_review": "2026-10-07",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I'm okay if we can reevaluate",
+          "correct": "I'm okay with reevaluating",
+          "context": "negotiation",
+          "date": "2026-10-06"
+        }
+      ],
+      "notes": "Adjective + preposition + -ing: okay with, open to, interested in."
+    },
+    "collocation_earn_salary": {
+      "category": "vocabulary",
+      "subcategory": "collocation",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-06",
+      "last_occurred": "2026-10-06",
+      "next_review": "2026-10-07",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "gain more salary",
+          "correct": "earn more / negotiate a higher salary",
+          "context": "negotiation",
+          "date": "2026-10-06"
+        }
+      ],
+      "notes": "Calque of 'ganhar salário'. EN: earn money, get a raise, negotiate a higher salary."
     }
   }
 }
