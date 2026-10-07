@@ -17,8 +17,8 @@
   "profile_created": "2026-10-05",
   "last_updated": "2026-10-07",
   "current_streak_days": 3,
-  "total_sessions": 3,
-  "total_study_minutes": 113,
+  "total_sessions": 4,
+  "total_study_minutes": 128,
   "skills": {
     "writing": {
       "current_level": 0,
@@ -33,10 +33,10 @@
       "total_practice_time": 103
     },
     "vocabulary": {
-      "current_level": 0,
-      "confidence": 0,
-      "last_practiced": null,
-      "total_practice_time": 0
+      "current_level": 1,
+      "confidence": 15,
+      "last_practiced": "2026-10-07",
+      "total_practice_time": 9
     },
     "reading": {
       "current_level": 1,
@@ -49,6 +49,12 @@
       "confidence": 0,
       "last_practiced": null,
       "total_practice_time": 0
+    },
+    "grammar": {
+      "current_level": 1,
+      "confidence": 22,
+      "last_practiced": "2026-10-07",
+      "total_practice_time": 6
     }
   },
   "focus_areas": [

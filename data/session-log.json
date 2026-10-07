@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 3
+    "total_sessions": 4
   },
   "sessions": [
     {
@@ -103,6 +103,36 @@
         "was/were drill — fossilization risk"
       ],
       "notes": "Voice session in Claude chat (external), summary imported. Fluency 6/10, accuracy 6/10. Reading counted for 2 philosophy articles (no comprehension score given; assumed completed). Present perfect vs past simple slips mentioned without examples. 20 SR items due, not reviewed.",
+      "achievements_earned": [],
+      "streak_day": 3
+    },
+    {
+      "session_id": "session-004",
+      "date": "2026-10-07",
+      "duration_minutes": 15,
+      "skills_practiced": [
+        "grammar",
+        "vocabulary"
+      ],
+      "command_used": "/fluent-review",
+      "exercises_completed": 10,
+      "accuracy": 0.6,
+      "score_breakdown": {
+        "grammar": 0.75,
+        "vocabulary": 0.5
+      },
+      "topics_covered": [],
+      "breakthroughs": [
+        "was/were correct under pressure (fossilized error broken)",
+        "do-support with 'have' locked in",
+        "move forward with + build a solid reputation: 10/10"
+      ],
+      "focus_next_session": [
+        "Finish review items 11-20",
+        "PT calques: fiquei feliz, levei X tempo, me adaptar, ter fama",
+        "Connectors: so vs furthermore"
+      ],
+      "notes": "Partial review: 10/20 items (learner stopped at item 11, continues tomorrow). Accuracy 75% on 0-10 scale; 6/10 scored 8+. Clear pattern: grammar is solid when attended to; errors are Portuguese calques.",
       "achievements_earned": [],
       "streak_day": 3
     }
