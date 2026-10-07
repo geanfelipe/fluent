@@ -15,10 +15,10 @@
     "target_date": "2027-07-05"
   },
   "profile_created": "2026-10-05",
-  "last_updated": "2026-10-06",
-  "current_streak_days": 2,
-  "total_sessions": 2,
-  "total_study_minutes": 58,
+  "last_updated": "2026-10-07",
+  "current_streak_days": 3,
+  "total_sessions": 3,
+  "total_study_minutes": 113,
   "skills": {
     "writing": {
       "current_level": 0,
@@ -28,9 +28,9 @@
     },
     "speaking": {
       "current_level": 1,
-      "confidence": 30,
-      "last_practiced": "2026-10-06",
-      "total_practice_time": 58
+      "confidence": 39,
+      "last_practiced": "2026-10-07",
+      "total_practice_time": 103
     },
     "vocabulary": {
       "current_level": 0,
@@ -39,10 +39,10 @@
       "total_practice_time": 0
     },
     "reading": {
-      "current_level": 0,
-      "confidence": 0,
-      "last_practiced": null,
-      "total_practice_time": 0
+      "current_level": 1,
+      "confidence": 30,
+      "last_practiced": "2026-10-07",
+      "total_practice_time": 10
     },
     "listening": {
       "current_level": 0,
@@ -73,6 +73,12 @@
       "name": "First 90-second sustained speaking turn",
       "earned_date": "2026-10-06",
       "description": "First 90-second sustained speaking turn"
+    },
+    {
+      "id": "session_session-003_0_first_c1_style_abstract_debate",
+      "name": "First C1-style abstract debate in English",
+      "earned_date": "2026-10-07",
+      "description": "First C1-style abstract debate in English"
     }
   ],
   "preferences": {

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-10-06",
-    "total_patterns_tracked": 10,
+    "last_updated": "2026-10-07",
+    "total_patterns_tracked": 13,
     "language": "English"
   },
   "error_patterns": {
@@ -125,23 +125,29 @@
       "subcategory": "subject_verb_agreement",
       "description": "",
       "severity": "critical",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-06",
-      "last_occurred": "2026-10-06",
-      "next_review": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "last_occurred": "2026-10-07",
+      "next_review": "2026-10-08",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "I weren't able / I were",
           "correct": "I wasn't able / I was",
           "context": "negotiation",
           "date": "2026-10-06"
+        },
+        {
+          "incorrect": "I weren't / I were",
+          "correct": "I wasn't / I was",
+          "context": "six business scenarios",
+          "date": "2026-10-07"
         }
       ],
-      "notes": "Past of 'be': I/he/she/it WAS; you/we/they WERE. (Subjunctive 'If I were' is the only exception.)"
+      "notes": "3rd session in a row. Fossilization risk."
     },
     "vocab_employer_vs_employee": {
       "category": "vocabulary",
@@ -194,23 +200,29 @@
       "subcategory": "preposition_plus_ing",
       "description": "",
       "severity": "minor",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-06",
-      "last_occurred": "2026-10-06",
-      "next_review": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "last_occurred": "2026-10-07",
+      "next_review": "2026-10-08",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "I'm okay if we can reevaluate",
           "correct": "I'm okay with reevaluating",
           "context": "negotiation",
           "date": "2026-10-06"
+        },
+        {
+          "incorrect": "instead of focus on the problem",
+          "correct": "instead of focusing on the problem",
+          "context": "conflict scenario",
+          "date": "2026-10-07"
         }
       ],
-      "notes": "Adjective + preposition + -ing: okay with, open to, interested in."
+      "notes": "Recurring from session-002. Preposition + -ing, always."
     },
     "collocation_earn_salary": {
       "category": "vocabulary",
@@ -234,6 +246,75 @@
         }
       ],
       "notes": "Calque of 'ganhar salário'. EN: earn money, get a raise, negotiate a higher salary."
+    },
+    "pron_past_ed_ending": {
+      "category": "pronunciation",
+      "subcategory": "past_tense_ed",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-07",
+      "last_occurred": "2026-10-07",
+      "next_review": "2026-10-08",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "swapped it out (swap-ED)",
+          "correct": "swapped out (/swɒpt/)",
+          "context": "status meeting",
+          "date": "2026-10-07"
+        }
+      ],
+      "notes": "-ed after voiceless sounds (p,k,s,sh,ch,f) = /t/: swapped, missed. After t/d = /ɪd/: decided."
+    },
+    "fluency_control_over_external": {
+      "category": "vocabulary",
+      "subcategory": "naturalness",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-07",
+      "last_occurred": "2026-10-07",
+      "next_review": "2026-10-08",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "we can't control anything outside us",
+          "correct": "we have no control over external events",
+          "context": "Stoicism debate",
+          "date": "2026-10-07"
+        }
+      ],
+      "notes": ""
+    },
+    "collocation_make_an_offer": {
+      "category": "vocabulary",
+      "subcategory": "collocation",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-07",
+      "last_occurred": "2026-10-07",
+      "next_review": "2026-10-08",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "make them a proposal",
+          "correct": "make them an offer / propose a settlement",
+          "context": "negotiation",
+          "date": "2026-10-07"
+        }
+      ],
+      "notes": ""
     }
   }
 }

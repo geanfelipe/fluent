@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 2
+    "total_sessions": 3
   },
   "sessions": [
     {
@@ -67,6 +67,44 @@
       "notes": "Voice session in Claude chat (external), summary imported. Fluency 6/10. Exercise counts derived from fluency score (summary was truncated, no per-item scoring). 8 SR items from session-001 were due and NOT reviewed.",
       "achievements_earned": [],
       "streak_day": 2
+    },
+    {
+      "session_id": "session-003",
+      "date": "2026-10-07",
+      "duration_minutes": 55,
+      "skills_practiced": [
+        "speaking",
+        "reading"
+      ],
+      "command_used": "voice-claude-chat",
+      "exercises_completed": 12,
+      "accuracy": 0.667,
+      "score_breakdown": {
+        "speaking": 0.6,
+        "reading": 1.0
+      },
+      "topics_covered": [
+        "job_interview",
+        "status_meeting",
+        "negotiation",
+        "presentation",
+        "conflict",
+        "debate",
+        "stoicism_suffering",
+        "marcus_aurelius_control"
+      ],
+      "breakthroughs": [
+        "Sustained long, complex turns in an abstract debate (Stoicism)",
+        "First session hitting the 55+ min daily target"
+      ],
+      "focus_next_session": [
+        "Past-tense -ed pronunciation: /t/ /d/ /ɪd/",
+        "Finish sentences in one breath without restarting",
+        "was/were drill — fossilization risk"
+      ],
+      "notes": "Voice session in Claude chat (external), summary imported. Fluency 6/10, accuracy 6/10. Reading counted for 2 philosophy articles (no comprehension score given; assumed completed). Present perfect vs past simple slips mentioned without examples. 20 SR items due, not reviewed.",
+      "achievements_earned": [],
+      "streak_day": 3
     }
   ],
   "milestones": [
@@ -79,6 +117,11 @@
       "date": "2026-10-06",
       "milestone": "First 90-second sustained speaking turn",
       "session_id": "session-002"
+    },
+    {
+      "date": "2026-10-07",
+      "milestone": "First C1-style abstract debate in English",
+      "session_id": "session-003"
     }
   ]
 }
