@@ -5,7 +5,7 @@
 ## Errors
 | You said | Correct | Type | Severity |
 |---|---|---|---|
-| I weren't / I were | I wasn't / I was | subject-verb agreement (3rd time) | 🔴 |
+| I weren't / I were | I wasn't / I was | subject-verb agreement (2nd time) | 🔴 |
 | swapped it out (swap-ED) | swapped out /swɒpt/ | -ed pronunciation | 🟡 |
 | instead of focus on | instead of focusing on | preposition + gerund (2nd time) | 🟡 |
 | we can't control anything outside us | we have no control over external events | naturalness | 🟢 |
