@@ -15,10 +15,10 @@
     "target_date": "2027-07-05"
   },
   "profile_created": "2026-10-05",
-  "last_updated": "2026-10-07",
-  "current_streak_days": 3,
-  "total_sessions": 4,
-  "total_study_minutes": 128,
+  "last_updated": "2026-10-09",
+  "current_streak_days": 1,
+  "total_sessions": 5,
+  "total_study_minutes": 188,
   "skills": {
     "writing": {
       "current_level": 0,
@@ -28,9 +28,9 @@
     },
     "speaking": {
       "current_level": 1,
-      "confidence": 39,
-      "last_practiced": "2026-10-07",
-      "total_practice_time": 103
+      "confidence": 48,
+      "last_practiced": "2026-10-09",
+      "total_practice_time": 163
     },
     "vocabulary": {
       "current_level": 1,
@@ -85,6 +85,12 @@
       "name": "First C1-style abstract debate in English",
       "earned_date": "2026-10-07",
       "description": "First C1-style abstract debate in English"
+    },
+    {
+      "id": "session_session-005_0_first_full_60_minute_structure",
+      "name": "First full 60-minute structured lesson plan completed",
+      "earned_date": "2026-10-09",
+      "description": "First full 60-minute structured lesson plan completed"
     }
   ],
   "preferences": {

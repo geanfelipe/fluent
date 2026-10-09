@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-10-07",
-    "total_patterns_tracked": 20,
+    "last_updated": "2026-10-09",
+    "total_patterns_tracked": 23,
     "language": "English"
   },
   "error_patterns": {
@@ -39,14 +39,14 @@
       "subcategory": "false_cognate",
       "description": "",
       "severity": "critical",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-07",
-      "last_occurred": "2026-10-07",
-      "next_review": "2026-10-08",
+      "last_seen": "2026-10-09",
+      "last_occurred": "2026-10-09",
+      "next_review": "2026-10-10",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "I had a fame.",
@@ -59,9 +59,15 @@
           "correct": "Our manager has a reputation for being demanding",
           "context": "review: 'tem fama de ser exigente'",
           "date": "2026-10-07"
+        },
+        {
+          "incorrect": "He has the reputation to be demanding",
+          "correct": "He has a reputation for being demanding",
+          "context": "calque killer",
+          "date": "2026-10-09"
         }
       ],
-      "notes": "PT 'fama' = EN 'reputation' in professional context. 'Fame' = celebrity, uncountable."
+      "notes": "Word 'reputation' fixed; structure 'for + -ing' still breaks."
     },
     "grammar_generic_plural_people": {
       "category": "grammar",
@@ -143,14 +149,14 @@
       "subcategory": "subject_verb_agreement",
       "description": "",
       "severity": "critical",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-07",
-      "last_occurred": "2026-10-07",
-      "next_review": "2026-10-08",
+      "last_seen": "2026-10-09",
+      "last_occurred": "2026-10-09",
+      "next_review": "2026-10-10",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "I weren't able / I were",
@@ -163,6 +169,12 @@
           "correct": "I wasn't / I was",
           "context": "six business scenarios",
           "date": "2026-10-07"
+        },
+        {
+          "incorrect": "that momentum were",
+          "correct": "that momentum was",
+          "context": "debate; corrected once, then held",
+          "date": "2026-10-09"
         }
       ],
       "notes": "2nd session in a row. Fossilization risk."
@@ -218,14 +230,14 @@
       "subcategory": "preposition_plus_ing",
       "description": "",
       "severity": "minor",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-07",
-      "last_occurred": "2026-10-07",
-      "next_review": "2026-10-08",
+      "last_seen": "2026-10-09",
+      "last_occurred": "2026-10-09",
+      "next_review": "2026-10-10",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "I'm okay if we can reevaluate",
@@ -238,9 +250,15 @@
           "correct": "instead of focusing on the problem",
           "context": "conflict scenario",
           "date": "2026-10-07"
+        },
+        {
+          "incorrect": "I'm hoping to learn new technologies",
+          "correct": "I'm open to learning new technologies",
+          "context": "calque killer: 'aberto a aprender' (~6 attempts)",
+          "date": "2026-10-09"
         }
       ],
-      "notes": "Recurring from session-002. Preposition + -ing, always."
+      "notes": "Root problem across sessions 002-005: open to / instead of / reputation for / interested in + -ING."
     },
     "collocation_earn_salary": {
       "category": "vocabulary",
@@ -293,20 +311,26 @@
       "subcategory": "naturalness",
       "description": "",
       "severity": "minor",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-07",
-      "last_occurred": "2026-10-07",
-      "next_review": "2026-10-08",
+      "last_seen": "2026-10-09",
+      "last_occurred": "2026-10-09",
+      "next_review": "2026-10-10",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "we can't control anything outside us",
           "correct": "we have no control over external events",
           "context": "Stoicism debate",
           "date": "2026-10-07"
+        },
+        {
+          "incorrect": "control of",
+          "correct": "control over",
+          "context": "debate; corrected once, then held",
+          "date": "2026-10-09"
         }
       ],
       "notes": ""
@@ -431,20 +455,26 @@
       "subcategory": "preposition",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-07",
-      "last_occurred": "2026-10-07",
-      "next_review": "2026-10-08",
+      "last_seen": "2026-10-09",
+      "last_occurred": "2026-10-09",
+      "next_review": "2026-10-10",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "out in vacation",
           "correct": "on vacation",
           "context": "review",
           "date": "2026-10-07"
+        },
+        {
+          "incorrect": "on vacations",
+          "correct": "on vacation",
+          "context": "corrected once, then held",
+          "date": "2026-10-09"
         }
       ],
       "notes": ""
@@ -491,6 +521,75 @@
           "correct": "non-technical",
           "context": "review (2x)",
           "date": "2026-10-07"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_appreciate_it_if": {
+      "category": "grammar",
+      "subcategory": "missing_object",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-09",
+      "last_occurred": "2026-10-09",
+      "next_review": "2026-10-10",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I would appreciate if the company...",
+          "correct": "I would appreciate it if the company...",
+          "context": "performance review role-play",
+          "date": "2026-10-09"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_reflexive_myself": {
+      "category": "grammar",
+      "subcategory": "reflexive_pronoun",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-09",
+      "last_occurred": "2026-10-09",
+      "next_review": "2026-10-10",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I'm proud of me",
+          "correct": "I'm proud of myself",
+          "context": "performance review role-play",
+          "date": "2026-10-09"
+        }
+      ],
+      "notes": "Opposite of 'adapt myself': use myself when subject = object."
+    },
+    "calque_baixar_gather": {
+      "category": "vocabulary",
+      "subcategory": "calque",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-09",
+      "last_occurred": "2026-10-09",
+      "next_review": "2026-10-10",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Downloaded the team information",
+          "correct": "I gathered the information I needed",
+          "context": "role-play: 'baixei as informações'",
+          "date": "2026-10-09"
         }
       ],
       "notes": ""
