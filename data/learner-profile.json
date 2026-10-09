@@ -1,0 +1,108 @@
+{
+  "learner": {
+    "name": "Gean",
+    "native_language": "Portuguese (Brazil)",
+    "other_languages": [
+      "Spanish"
+    ],
+    "target_language": "English",
+    "current_level": "B2",
+    "target_level": "C1",
+    "daily_goal_minutes": 60,
+    "learning_style": "conversational",
+    "motivation": "work",
+    "timeline": "9 months",
+    "target_date": "2027-07-05"
+  },
+  "profile_created": "2026-10-05",
+  "last_updated": "2026-10-09",
+  "current_streak_days": 1,
+  "total_sessions": 5,
+  "total_study_minutes": 188,
+  "skills": {
+    "writing": {
+      "current_level": 0,
+      "confidence": 0,
+      "last_practiced": null,
+      "total_practice_time": 0
+    },
+    "speaking": {
+      "current_level": 1,
+      "confidence": 48,
+      "last_practiced": "2026-10-09",
+      "total_practice_time": 163
+    },
+    "vocabulary": {
+      "current_level": 1,
+      "confidence": 15,
+      "last_practiced": "2026-10-07",
+      "total_practice_time": 9
+    },
+    "reading": {
+      "current_level": 1,
+      "confidence": 30,
+      "last_practiced": "2026-10-07",
+      "total_practice_time": 10
+    },
+    "listening": {
+      "current_level": 0,
+      "confidence": 0,
+      "last_practiced": null,
+      "total_practice_time": 0
+    },
+    "grammar": {
+      "current_level": 1,
+      "confidence": 22,
+      "last_practiced": "2026-10-07",
+      "total_practice_time": 6
+    }
+  },
+  "focus_areas": [
+    "speaking_fluency",
+    "business_english"
+  ],
+  "achievements": [
+    {
+      "id": "profile_created",
+      "name": "Getting Started",
+      "earned_date": "2026-10-05",
+      "description": "Created your learning profile"
+    },
+    {
+      "id": "session_session-001_0_first_50_minute_voice_speaking",
+      "name": "First 50-minute voice speaking session",
+      "earned_date": "2026-10-05",
+      "description": "First 50-minute voice speaking session"
+    },
+    {
+      "id": "session_session-002_0_first_90_second_sustained_spea",
+      "name": "First 90-second sustained speaking turn",
+      "earned_date": "2026-10-06",
+      "description": "First 90-second sustained speaking turn"
+    },
+    {
+      "id": "session_session-003_0_first_c1_style_abstract_debate",
+      "name": "First C1-style abstract debate in English",
+      "earned_date": "2026-10-07",
+      "description": "First C1-style abstract debate in English"
+    },
+    {
+      "id": "session_session-005_0_first_full_60_minute_structure",
+      "name": "First full 60-minute structured lesson plan completed",
+      "earned_date": "2026-10-09",
+      "description": "First full 60-minute structured lesson plan completed"
+    }
+  ],
+  "preferences": {
+    "difficulty_preference": "adaptive",
+    "exercise_types_preferred": [
+      "conversation",
+      "writing",
+      "quick_drills"
+    ],
+    "feedback_style": "immediate_with_explanation",
+    "gamification_enabled": false,
+    "use_emojis": true,
+    "explanation_language": "Portuguese (Brazil)"
+  }
+}

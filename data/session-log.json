@@ -1,0 +1,197 @@
+{
+  "metadata": {
+    "language": "English",
+    "learner_name": "Gean",
+    "total_sessions": 5
+  },
+  "sessions": [
+    {
+      "session_id": "session-001",
+      "date": "2026-10-05",
+      "duration_minutes": 50,
+      "skills_practiced": [
+        "speaking"
+      ],
+      "command_used": "voice-claude-chat",
+      "exercises_completed": 7,
+      "accuracy": 0.571,
+      "score_breakdown": {
+        "speaking": 0.571
+      },
+      "topics_covered": [
+        "salary_negotiation",
+        "professional_achievements",
+        "helping_colleagues",
+        "non_technical_communication",
+        "team_adaptation",
+        "daily_routine",
+        "learning_english_for_work"
+      ],
+      "breakthroughs": [
+        "Explained technical subjects in simple, non-technical language"
+      ],
+      "focus_next_session": [
+        "Do-support with 'have' in negatives",
+        "PT→EN calques: fama, me adaptar, fiquei feliz",
+        "Rapid-fire Q&A format"
+      ],
+      "notes": "Voice session in Claude chat (external), summary imported. Exercise/correct counts are estimates: voice session had no per-item scoring.",
+      "achievements_earned": [],
+      "streak_day": 1
+    },
+    {
+      "session_id": "session-002",
+      "date": "2026-10-06",
+      "duration_minutes": 8,
+      "skills_practiced": [
+        "speaking"
+      ],
+      "command_used": "voice-claude-chat",
+      "exercises_completed": 10,
+      "accuracy": 0.6,
+      "score_breakdown": {
+        "speaking": 0.6
+      },
+      "topics_covered": [
+        "salary_negotiation",
+        "ielts_speaking_part_2"
+      ],
+      "breakthroughs": [
+        "Sustained a 90-second speaking turn"
+      ],
+      "focus_next_session": [
+        "was/were agreement",
+        "PT calques: ganhar salário, ter fama, me adaptar",
+        "Reduce fillers in long turns"
+      ],
+      "notes": "Voice session in Claude chat (external), summary imported. Fluency 6/10. Exercise counts derived from fluency score (summary was truncated, no per-item scoring). 8 SR items from session-001 were due and NOT reviewed.",
+      "achievements_earned": [],
+      "streak_day": 2
+    },
+    {
+      "session_id": "session-003",
+      "date": "2026-10-07",
+      "duration_minutes": 55,
+      "skills_practiced": [
+        "speaking",
+        "reading"
+      ],
+      "command_used": "voice-claude-chat",
+      "exercises_completed": 12,
+      "accuracy": 0.667,
+      "score_breakdown": {
+        "speaking": 0.6,
+        "reading": 1.0
+      },
+      "topics_covered": [
+        "job_interview",
+        "status_meeting",
+        "negotiation",
+        "presentation",
+        "conflict",
+        "debate",
+        "stoicism_suffering",
+        "marcus_aurelius_control"
+      ],
+      "breakthroughs": [
+        "Sustained long, complex turns in an abstract debate (Stoicism)",
+        "First session hitting the 55+ min daily target"
+      ],
+      "focus_next_session": [
+        "Past-tense -ed pronunciation: /t/ /d/ /ɪd/",
+        "Finish sentences in one breath without restarting",
+        "was/were drill — fossilization risk"
+      ],
+      "notes": "Voice session in Claude chat (external), summary imported. Fluency 6/10, accuracy 6/10. Reading counted for 2 philosophy articles (no comprehension score given; assumed completed). Present perfect vs past simple slips mentioned without examples. 20 SR items due, not reviewed.",
+      "achievements_earned": [],
+      "streak_day": 3
+    },
+    {
+      "session_id": "session-004",
+      "date": "2026-10-07",
+      "duration_minutes": 15,
+      "skills_practiced": [
+        "grammar",
+        "vocabulary"
+      ],
+      "command_used": "/fluent-review",
+      "exercises_completed": 10,
+      "accuracy": 0.6,
+      "score_breakdown": {
+        "grammar": 0.75,
+        "vocabulary": 0.5
+      },
+      "topics_covered": [],
+      "breakthroughs": [
+        "was/were correct under pressure (fossilized error broken)",
+        "do-support with 'have' locked in",
+        "move forward with + build a solid reputation: 10/10"
+      ],
+      "focus_next_session": [
+        "Finish review items 11-20",
+        "PT calques: fiquei feliz, levei X tempo, me adaptar, ter fama",
+        "Connectors: so vs furthermore"
+      ],
+      "notes": "Partial review: 10/20 items (learner stopped at item 11, continues tomorrow). Accuracy 75% on 0-10 scale; 6/10 scored 8+. Clear pattern: grammar is solid when attended to; errors are Portuguese calques.",
+      "achievements_earned": [],
+      "streak_day": 3
+    },
+    {
+      "session_id": "session-005",
+      "date": "2026-10-09",
+      "duration_minutes": 60,
+      "skills_practiced": [
+        "speaking"
+      ],
+      "command_used": "voice-claude-chat",
+      "exercises_completed": 10,
+      "accuracy": 0.7,
+      "score_breakdown": {
+        "speaking": 0.7
+      },
+      "topics_covered": [
+        "warm_up",
+        "calque_killer",
+        "vocabulary_in_action",
+        "ed_pronunciation",
+        "performance_review_roleplay",
+        "stoicism_vs_romans_debate"
+      ],
+      "breakthroughs": [
+        "9 Portuguese calques fixed in one session",
+        "2-minute debate turn with clear argument",
+        "Fewer restarts than session-003"
+      ],
+      "focus_next_session": [
+        "Preposition + -ing: open to learning, instead of focusing, a reputation for being, interested in working",
+        "appreciate IT if",
+        "Clear SR backlog with /fluent-review"
+      ],
+      "notes": "Voice session in Claude chat following Day-4 lesson plan; all 6 blocks done. Fluency 7/10, accuracy 7/10. Oct 8 had no recorded session (streak reset). Learner commitment: record 4 prep+ing phrases, one take each.",
+      "achievements_earned": [],
+      "streak_day": 1
+    }
+  ],
+  "milestones": [
+    {
+      "date": "2026-10-05",
+      "milestone": "First 50-minute voice speaking session",
+      "session_id": "session-001"
+    },
+    {
+      "date": "2026-10-06",
+      "milestone": "First 90-second sustained speaking turn",
+      "session_id": "session-002"
+    },
+    {
+      "date": "2026-10-07",
+      "milestone": "First C1-style abstract debate in English",
+      "session_id": "session-003"
+    },
+    {
+      "date": "2026-10-09",
+      "milestone": "First full 60-minute structured lesson plan completed",
+      "session_id": "session-005"
+    }
+  ]
+}
