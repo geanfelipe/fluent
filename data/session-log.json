@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 5
+    "total_sessions": 8
   },
   "sessions": [
     {
@@ -170,6 +170,102 @@
       "notes": "Voice session in Claude chat following Day-4 lesson plan; all 6 blocks done. Fluency 7/10, accuracy 7/10. Oct 8 had no recorded session (streak reset). Learner commitment: record 4 prep+ing phrases, one take each.",
       "achievements_earned": [],
       "streak_day": 1
+    },
+    {
+      "session_id": "session-006",
+      "date": "2026-10-13",
+      "duration_minutes": 25,
+      "skills_practiced": [
+        "grammar",
+        "vocabulary"
+      ],
+      "command_used": "/fluent-review",
+      "exercises_completed": 19,
+      "accuracy": 0.421,
+      "score_breakdown": {
+        "grammar": 0.143,
+        "vocabulary": 0.583
+      },
+      "topics_covered": [],
+      "breakthroughs": [
+        "Spontaneous 'open to negotiating' 10 items after failing 'open to learn'",
+        "Calques fixed: adapt to, proud of myself, gathered, found out, was thrilled, so",
+        "employer vs employee 3/3"
+      ],
+      "focus_next_session": [
+        "'to' as preposition + -ing (open to, look forward to)",
+        "I would appreciate IT if",
+        "move forward with (not move on)"
+      ],
+      "notes": "Review 20/42 (item 18 pronunciation skipped, not scored). Avg 7.1/10 on 19 scored items. Returned after 4-day gap (last session Oct 9); accuracy dipped to 54% at item 5 then recovered to 71%. Learner asked 3 strong meta-questions (to-preposition rule, how/what about, appreciate it if) - good metalinguistic awareness. Avoidance strategy observed on item 2.",
+      "achievements_earned": [],
+      "streak_day": 1
+    },
+    {
+      "session_id": "session-007",
+      "date": "2026-10-13",
+      "duration_minutes": 20,
+      "skills_practiced": [
+        "speaking"
+      ],
+      "command_used": "voice-claude-chat",
+      "exercises_completed": 10,
+      "accuracy": 0.6,
+      "score_breakdown": {
+        "speaking": 0.6
+      },
+      "topics_covered": [
+        "weekend",
+        "work_project",
+        "2_kings",
+        "trip_planning"
+      ],
+      "breakthroughs": [
+        "'instead of hearing' produced spontaneously",
+        "Best answer: 2 Kings — drifting from God's law (long reflective turn)"
+      ],
+      "focus_next_session": [
+        "Preposition + -ing vs infinitive 'to' (drills skipped today)",
+        "I would appreciate it if",
+        "Plural subject-verb agreement (were)"
+      ],
+      "notes": "Voice session, ~20 min. Only Block 1 started; learner chose free conversation over drills. Fluency 7/10, accuracy 6/10. Untested: open to learning, appreciate it if, move forward with, all the information, made the decision, it took you. Commitment: 8 sentences (4 prep+ing, 4 infinitive) before next session.",
+      "achievements_earned": [],
+      "streak_day": 1
+    },
+    {
+      "session_id": "session-008",
+      "date": "2026-10-14",
+      "duration_minutes": 25,
+      "skills_practiced": [
+        "grammar",
+        "vocabulary",
+        "pronunciation"
+      ],
+      "command_used": "/fluent-review",
+      "exercises_completed": 16,
+      "accuracy": 0.438,
+      "score_breakdown": {
+        "grammar": 0.714,
+        "vocabulary": 0.25,
+        "pronunciation": 0.0
+      },
+      "topics_covered": [],
+      "breakthroughs": [
+        "Preposition vs infinitive 'to' discrimination: 3/3 (committed to delivering, want to grow, looking forward to leading)",
+        "'how about starting to work' — avoided double -ing by instinct",
+        "got to + had already started: 10/10",
+        "go out to lunch / grab a coffee / discuss (no about): native-like"
+      ],
+      "focus_next_session": [
+        "Uncountables: information, advice (repeat failure)",
+        "open to + -ing in FREE production (not fill-in)",
+        "-ed pronunciation: asked = /t/",
+        "appreciate IT if"
+      ],
+      "notes": "Review 16/44 (stopped at item 17 on learner request). Avg 7.1/10. Streak 2. Clear declarative vs procedural gap: rule correct in fill-in, fails in free translation under divided attention. Avoidance observed twice (reputation, depreciate). Typos/fatigue at end. Commitment (8 sentences) not delivered yet.",
+      "achievements_earned": [],
+      "streak_day": 2
     }
   ],
   "milestones": [
