@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-10-09",
-    "total_patterns_tracked": 23,
+    "last_updated": "2026-10-14",
+    "total_patterns_tracked": 41,
     "language": "English"
   },
   "error_patterns": {
@@ -39,14 +39,14 @@
       "subcategory": "false_cognate",
       "description": "",
       "severity": "critical",
-      "frequency": 3,
+      "frequency": 4,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-09",
-      "last_occurred": "2026-10-09",
-      "next_review": "2026-10-10",
+      "last_seen": "2026-10-14",
+      "last_occurred": "2026-10-14",
+      "next_review": "2026-10-15",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 3,
+      "consecutive_incorrect": 4,
       "examples": [
         {
           "incorrect": "I had a fame.",
@@ -65,6 +65,12 @@
           "correct": "He has a reputation for being demanding",
           "context": "calque killer",
           "date": "2026-10-09"
+        },
+        {
+          "incorrect": "is recognized for being",
+          "correct": "has a reputation for being",
+          "context": "avoided target 2nd time",
+          "date": "2026-10-14"
         }
       ],
       "notes": "Word 'reputation' fixed; structure 'for + -ing' still breaks."
@@ -149,14 +155,14 @@
       "subcategory": "subject_verb_agreement",
       "description": "",
       "severity": "critical",
-      "frequency": 3,
+      "frequency": 4,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-09",
-      "last_occurred": "2026-10-09",
-      "next_review": "2026-10-10",
+      "last_seen": "2026-10-13",
+      "last_occurred": "2026-10-13",
+      "next_review": "2026-10-14",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 3,
+      "consecutive_incorrect": 4,
       "examples": [
         {
           "incorrect": "I weren't able / I were",
@@ -175,9 +181,15 @@
           "correct": "that momentum was",
           "context": "debate; corrected once, then held",
           "date": "2026-10-09"
+        },
+        {
+          "incorrect": "the kings has was divided",
+          "correct": "the kings were divided",
+          "context": "2 Kings discussion",
+          "date": "2026-10-13"
         }
       ],
-      "notes": "2nd session in a row. Fossilization risk."
+      "notes": "Plural subject → were. 4th session with was/were slips."
     },
     "vocab_employer_vs_employee": {
       "category": "vocabulary",
@@ -207,20 +219,26 @@
       "subcategory": "collocation",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-06",
-      "last_occurred": "2026-10-06",
-      "next_review": "2026-10-07",
+      "last_seen": "2026-10-13",
+      "last_occurred": "2026-10-13",
+      "next_review": "2026-10-14",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "move on in this proposal",
           "correct": "move forward with this proposal",
           "context": "negotiation",
           "date": "2026-10-06"
+        },
+        {
+          "incorrect": "let's move on the plan",
+          "correct": "let's move forward with the plan",
+          "context": "regressed after 10/10",
+          "date": "2026-10-13"
         }
       ],
       "notes": "'move on' = deixar para trás; 'move forward with' = avançar com."
@@ -230,14 +248,14 @@
       "subcategory": "preposition_plus_ing",
       "description": "",
       "severity": "minor",
-      "frequency": 3,
+      "frequency": 4,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-09",
-      "last_occurred": "2026-10-09",
-      "next_review": "2026-10-10",
+      "last_seen": "2026-10-13",
+      "last_occurred": "2026-10-13",
+      "next_review": "2026-10-14",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 3,
+      "consecutive_incorrect": 4,
       "examples": [
         {
           "incorrect": "I'm okay if we can reevaluate",
@@ -256,6 +274,12 @@
           "correct": "I'm open to learning new technologies",
           "context": "calque killer: 'aberto a aprender' (~6 attempts)",
           "date": "2026-10-09"
+        },
+        {
+          "incorrect": "what about to solve the issue?",
+          "correct": "how about focusing on solving the problem?",
+          "context": "review item 3",
+          "date": "2026-10-13"
         }
       ],
       "notes": "Root problem across sessions 002-005: open to / instead of / reputation for / interested in + -ING."
@@ -288,20 +312,26 @@
       "subcategory": "past_tense_ed",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-07",
-      "last_occurred": "2026-10-07",
-      "next_review": "2026-10-08",
+      "last_seen": "2026-10-14",
+      "last_occurred": "2026-10-14",
+      "next_review": "2026-10-15",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "swapped it out (swap-ED)",
           "correct": "swapped out (/swɒpt/)",
           "context": "status meeting",
           "date": "2026-10-07"
+        },
+        {
+          "incorrect": "/ɪd/ = wanted, asked",
+          "correct": "/ɪd/ = wanted, needed, decided (asked = /t/)",
+          "context": "item 13",
+          "date": "2026-10-14"
         }
       ],
       "notes": "-ed after voiceless sounds (p,k,s,sh,ch,f) = /t/: swapped, missed. After t/d = /ɪd/: decided."
@@ -386,20 +416,26 @@
       "subcategory": "calque",
       "description": "",
       "severity": "critical",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-07",
-      "last_occurred": "2026-10-07",
-      "next_review": "2026-10-08",
+      "last_seen": "2026-10-13",
+      "last_occurred": "2026-10-13",
+      "next_review": "2026-10-14",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "I took three months to adapt",
           "correct": "It took me three months to adapt",
           "context": "review: 'levei três meses'",
           "date": "2026-10-07"
+        },
+        {
+          "incorrect": "How long did you take to adapt",
+          "correct": "How long did it take you to adapt",
+          "context": "question form",
+          "date": "2026-10-13"
         }
       ],
       "notes": ""
@@ -455,14 +491,14 @@
       "subcategory": "preposition",
       "description": "",
       "severity": "moderate",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-09",
-      "last_occurred": "2026-10-09",
-      "next_review": "2026-10-10",
+      "last_seen": "2026-10-13",
+      "last_occurred": "2026-10-13",
+      "next_review": "2026-10-14",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "out in vacation",
@@ -475,6 +511,12 @@
           "correct": "on vacation",
           "context": "corrected once, then held",
           "date": "2026-10-09"
+        },
+        {
+          "incorrect": "on vacations",
+          "correct": "on vacation",
+          "context": "2nd time plural",
+          "date": "2026-10-13"
         }
       ],
       "notes": ""
@@ -507,20 +549,26 @@
       "subcategory": "hyphenation",
       "description": "",
       "severity": "minor",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-07",
-      "last_occurred": "2026-10-07",
-      "next_review": "2026-10-08",
+      "last_seen": "2026-10-14",
+      "last_occurred": "2026-10-14",
+      "next_review": "2026-10-15",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "non technical",
           "correct": "non-technical",
           "context": "review (2x)",
           "date": "2026-10-07"
+        },
+        {
+          "incorrect": "non technical analysts / steakholders",
+          "correct": "non-technical analysts / stakeholders",
+          "context": "items 15-16 (4th time)",
+          "date": "2026-10-14"
         }
       ],
       "notes": ""
@@ -530,20 +578,32 @@
       "subcategory": "missing_object",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-09",
-      "last_occurred": "2026-10-09",
-      "next_review": "2026-10-10",
+      "last_seen": "2026-10-14",
+      "last_occurred": "2026-10-14",
+      "next_review": "2026-10-15",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "I would appreciate if the company...",
           "correct": "I would appreciate it if the company...",
           "context": "performance review role-play",
           "date": "2026-10-09"
+        },
+        {
+          "incorrect": "I would thank if the company could review my salary",
+          "correct": "I would appreciate it if the company could review my salary",
+          "context": "formal email",
+          "date": "2026-10-13"
+        },
+        {
+          "incorrect": "I'd appreciate if you could send me the report",
+          "correct": "I'd appreciate it if you could send me the report",
+          "context": "item 4",
+          "date": "2026-10-14"
         }
       ],
       "notes": ""
@@ -590,6 +650,462 @@
           "correct": "I gathered the information I needed",
           "context": "role-play: 'baixei as informações'",
           "date": "2026-10-09"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_open_to_ing": {
+      "category": "grammar",
+      "subcategory": "preposition_to_plus_ing",
+      "description": "",
+      "severity": "critical",
+      "frequency": 2,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-14",
+      "last_occurred": "2026-10-14",
+      "next_review": "2026-10-15",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 2,
+      "examples": [
+        {
+          "incorrect": "I'm open to learn new tools and I'm looking forward to work with you",
+          "correct": "I'm open to learning new tools, and I'm looking forward to working with you",
+          "context": "review item 1",
+          "date": "2026-10-13"
+        },
+        {
+          "incorrect": "he is open to negotiate a higher salary",
+          "correct": "he's open to negotiating a higher salary",
+          "context": "free translation (item 14); fill-in item 1 was 3/3",
+          "date": "2026-10-14"
+        }
+      ],
+      "notes": "Declarative OK, not yet automatized under divided attention."
+    },
+    "vocab_complain_about": {
+      "category": "vocabulary",
+      "subcategory": "word_choice",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 2,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-14",
+      "last_occurred": "2026-10-14",
+      "next_review": "2026-10-15",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 2,
+      "examples": [
+        {
+          "incorrect": "arguing the deadline",
+          "correct": "complaining about the deadline",
+          "context": "'reclamar do prazo'",
+          "date": "2026-10-13"
+        },
+        {
+          "incorrect": "complaining on the system",
+          "correct": "complaining about the system",
+          "context": "item 8",
+          "date": "2026-10-14"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_extreme_adjectives": {
+      "category": "grammar",
+      "subcategory": "gradable_vs_extreme",
+      "description": "",
+      "severity": "minor",
+      "frequency": 2,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-14",
+      "last_occurred": "2026-10-14",
+      "next_review": "2026-10-15",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 2,
+      "examples": [
+        {
+          "incorrect": "very thrilled",
+          "correct": "absolutely thrilled",
+          "context": "review item 5",
+          "date": "2026-10-13"
+        },
+        {
+          "incorrect": "I got exhausted",
+          "correct": "I was absolutely exhausted",
+          "context": "item 9; 'got' calque returned",
+          "date": "2026-10-14"
+        }
+      ],
+      "notes": ""
+    },
+    "prep_get_to_place": {
+      "category": "grammar",
+      "subcategory": "preposition",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-13",
+      "last_occurred": "2026-10-13",
+      "next_review": "2026-10-14",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "When I got the meeting",
+          "correct": "When I got to the meeting",
+          "context": "review item 13",
+          "date": "2026-10-13"
+        }
+      ],
+      "notes": ""
+    },
+    "collocation_make_a_decision": {
+      "category": "vocabulary",
+      "subcategory": "calque",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-13",
+      "last_occurred": "2026-10-13",
+      "next_review": "2026-10-14",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "taken the decision",
+          "correct": "made the decision",
+          "context": "'tomar decisão'",
+          "date": "2026-10-13"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_uncountable_information": {
+      "category": "grammar",
+      "subcategory": "uncountable_nouns",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 3,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-14",
+      "last_occurred": "2026-10-14",
+      "next_review": "2026-10-15",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 3,
+      "examples": [
+        {
+          "incorrect": "all informations",
+          "correct": "all the information",
+          "context": "review item 15",
+          "date": "2026-10-13"
+        },
+        {
+          "incorrect": "taking a time to investigate",
+          "correct": "taking time to investigate",
+          "context": "work discussion",
+          "date": "2026-10-13"
+        },
+        {
+          "incorrect": "more informations and some advises",
+          "correct": "more information and some advice",
+          "context": "item 7 (repeat)",
+          "date": "2026-10-14"
+        }
+      ],
+      "notes": "advise = verb; advice = uncountable noun."
+    },
+    "grammar_need_to_infinitive": {
+      "category": "grammar",
+      "subcategory": "missing_to",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 2,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-14",
+      "last_occurred": "2026-10-14",
+      "next_review": "2026-10-15",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 2,
+      "examples": [
+        {
+          "incorrect": "I need catch up about the projects",
+          "correct": "I need to catch up on the project / get up to speed on the project",
+          "context": "review item 20",
+          "date": "2026-10-13"
+        },
+        {
+          "incorrect": "decided move forward",
+          "correct": "decided to move forward",
+          "context": "item 5",
+          "date": "2026-10-14"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_start_to_vs_ing": {
+      "category": "grammar",
+      "subcategory": "infinitive_vs_gerund_mix",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-13",
+      "last_occurred": "2026-10-13",
+      "next_review": "2026-10-14",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I will start to working",
+          "correct": "I will start working / I will start to work",
+          "context": "free conversation",
+          "date": "2026-10-13"
+        }
+      ],
+      "notes": "Overcorrection of the prep+ing rule: 'start' takes EITHER to+base OR -ing, never both."
+    },
+    "vocab_appreciate_vs_depreciate": {
+      "category": "vocabulary",
+      "subcategory": "confused_words",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 2,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-14",
+      "last_occurred": "2026-10-14",
+      "next_review": "2026-10-15",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 2,
+      "examples": [
+        {
+          "incorrect": "we would depreciate the nature",
+          "correct": "we would appreciate nature",
+          "context": "trip planning",
+          "date": "2026-10-13"
+        },
+        {
+          "incorrect": "lost value during the years / I really value",
+          "correct": "depreciated over the years / I really appreciate",
+          "context": "item 11 avoidance",
+          "date": "2026-10-14"
+        }
+      ],
+      "notes": "depreciate = lose value (accounting!). Also no 'the' before nature in general sense."
+    },
+    "vocab_have_lunch": {
+      "category": "vocabulary",
+      "subcategory": "collocation",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-13",
+      "last_occurred": "2026-10-13",
+      "next_review": "2026-10-14",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "we had a lunch time",
+          "correct": "we had lunch",
+          "context": "weekend",
+          "date": "2026-10-13"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_known_for_ing": {
+      "category": "grammar",
+      "subcategory": "preposition_plus_ing",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-14",
+      "last_occurred": "2026-10-14",
+      "next_review": "2026-10-15",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "He's known to solve hard issues",
+          "correct": "He's known for solving difficult problems",
+          "context": "item 3",
+          "date": "2026-10-14"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_ed_vs_ing_adjectives": {
+      "category": "grammar",
+      "subcategory": "participle_adjectives",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-14",
+      "last_occurred": "2026-10-14",
+      "next_review": "2026-10-15",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "demanded with deadlines",
+          "correct": "demanding about deadlines",
+          "context": "item 3",
+          "date": "2026-10-14"
+        }
+      ],
+      "notes": ""
+    },
+    "false_cognate_directory_board": {
+      "category": "vocabulary",
+      "subcategory": "false_cognate",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-14",
+      "last_occurred": "2026-10-14",
+      "next_review": "2026-10-15",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "the directory decided",
+          "correct": "the board decided",
+          "context": "'diretoria'",
+          "date": "2026-10-14"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_merger_vs_merge": {
+      "category": "vocabulary",
+      "subcategory": "word_class",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-14",
+      "last_occurred": "2026-10-14",
+      "next_review": "2026-10-15",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "the merge",
+          "correct": "the merger",
+          "context": "'a fusão'",
+          "date": "2026-10-14"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_close_the_books": {
+      "category": "vocabulary",
+      "subcategory": "accounting_terms",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-14",
+      "last_occurred": "2026-10-14",
+      "next_review": "2026-10-15",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "closed the ball / the balance",
+          "correct": "closed the books / finalized the balance sheet",
+          "context": "'fechar o balanço'",
+          "date": "2026-10-14"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_ask_someone_for": {
+      "category": "grammar",
+      "subcategory": "verb_pattern",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-14",
+      "last_occurred": "2026-10-14",
+      "next_review": "2026-10-15",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "ask some advices for the layers team",
+          "correct": "ask the legal team for advice",
+          "context": "item 7; lawyers vs layers",
+          "date": "2026-10-14"
+        }
+      ],
+      "notes": ""
+    },
+    "phrasal_get_back_from": {
+      "category": "vocabulary",
+      "subcategory": "phrasal_verb",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-14",
+      "last_occurred": "2026-10-14",
+      "next_review": "2026-10-15",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I came from vacation yesterday",
+          "correct": "I got back from vacation yesterday",
+          "context": "item 16",
+          "date": "2026-10-14"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_get_up_to_speed": {
+      "category": "vocabulary",
+      "subcategory": "phrasal_expression",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-14",
+      "last_occurred": "2026-10-14",
+      "next_review": "2026-10-15",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I need to follow-up the project",
+          "correct": "I need to get up to speed on the project",
+          "context": "item 16 (2nd miss)",
+          "date": "2026-10-14"
         }
       ],
       "notes": ""
