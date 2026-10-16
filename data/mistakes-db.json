@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-10-14",
-    "total_patterns_tracked": 41,
+    "last_updated": "2026-10-16",
+    "total_patterns_tracked": 51,
     "language": "English"
   },
   "error_patterns": {
@@ -792,14 +792,14 @@
       "subcategory": "uncountable_nouns",
       "description": "",
       "severity": "moderate",
-      "frequency": 3,
+      "frequency": 4,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-14",
-      "last_occurred": "2026-10-14",
-      "next_review": "2026-10-15",
+      "last_seen": "2026-10-16",
+      "last_occurred": "2026-10-16",
+      "next_review": "2026-10-17",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 3,
+      "consecutive_incorrect": 4,
       "examples": [
         {
           "incorrect": "all informations",
@@ -818,6 +818,12 @@
           "correct": "more information and some advice",
           "context": "item 7 (repeat)",
           "date": "2026-10-14"
+        },
+        {
+          "incorrect": "very few information",
+          "correct": "very little information",
+          "context": "placement test Q47 (recurring pattern)",
+          "date": "2026-10-16"
         }
       ],
       "notes": "advise = verb; advice = uncountable noun."
@@ -1106,6 +1112,236 @@
           "correct": "I need to get up to speed on the project",
           "context": "item 16 (2nd miss)",
           "date": "2026-10-14"
+        }
+      ],
+      "notes": ""
+    },
+    "collocation_find_a_solution": {
+      "category": "vocabulary",
+      "subcategory": "collocation",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-16",
+      "last_occurred": "2026-10-16",
+      "next_review": "2026-10-17",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "make a solution",
+          "correct": "find / come up with a solution",
+          "context": "placement test Q14",
+          "date": "2026-10-16"
+        }
+      ],
+      "notes": ""
+    },
+    "collocation_how_do_you_feel_about": {
+      "category": "vocabulary",
+      "subcategory": "collocation",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-16",
+      "last_occurred": "2026-10-16",
+      "next_review": "2026-10-17",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "How do you think about that idea?",
+          "correct": "How do you feel about that idea? / What do you think about it?",
+          "context": "placement test Q18",
+          "date": "2026-10-16"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_irregular_past_participle": {
+      "category": "grammar",
+      "subcategory": "irregular_verbs",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-16",
+      "last_occurred": "2026-10-16",
+      "next_review": "2026-10-17",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "She's sended",
+          "correct": "She's sent",
+          "context": "placement test Q20",
+          "date": "2026-10-16"
+        }
+      ],
+      "notes": ""
+    },
+    "collocation_place_an_order": {
+      "category": "vocabulary",
+      "subcategory": "collocation",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-16",
+      "last_occurred": "2026-10-16",
+      "next_review": "2026-10-17",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "quote an order",
+          "correct": "place an order",
+          "context": "placement test Q22",
+          "date": "2026-10-16"
+        }
+      ],
+      "notes": ""
+    },
+    "collocation_meet_a_deadline": {
+      "category": "vocabulary",
+      "subcategory": "collocation",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-16",
+      "last_occurred": "2026-10-16",
+      "next_review": "2026-10-17",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "reach the deadline",
+          "correct": "meet the deadline",
+          "context": "placement test Q25",
+          "date": "2026-10-16"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_present_perfect_result": {
+      "category": "grammar",
+      "subcategory": "present_perfect",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-16",
+      "last_occurred": "2026-10-16",
+      "next_review": "2026-10-17",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I left the office actually",
+          "correct": "I've left the office, actually",
+          "context": "placement test Q37 (present result)",
+          "date": "2026-10-16"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_perk_meaning": {
+      "category": "vocabulary",
+      "subcategory": "word_meaning",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-16",
+      "last_occurred": "2026-10-16",
+      "next_review": "2026-10-17",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "My favourite perk is my salary",
+          "correct": "a perk = a benefit on top of salary (e.g., flexible hours)",
+          "context": "placement test Q39",
+          "date": "2026-10-16"
+        }
+      ],
+      "notes": ""
+    },
+    "phrasal_come_up_with": {
+      "category": "vocabulary",
+      "subcategory": "phrasal_verb",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-16",
+      "last_occurred": "2026-10-16",
+      "next_review": "2026-10-17",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "come across with a better algorithm",
+          "correct": "come up with a better algorithm",
+          "context": "placement test Q42",
+          "date": "2026-10-16"
+        }
+      ],
+      "notes": ""
+    },
+    "idiom_down_to_earth": {
+      "category": "vocabulary",
+      "subcategory": "idiom",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-16",
+      "last_occurred": "2026-10-16",
+      "next_review": "2026-10-17",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "down to world",
+          "correct": "down to earth",
+          "context": "placement test Q53",
+          "date": "2026-10-16"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_gauge": {
+      "category": "vocabulary",
+      "subcategory": "c1_verb",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-16",
+      "last_occurred": "2026-10-16",
+      "next_review": "2026-10-17",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "(blank)",
+          "correct": "gauge the reaction",
+          "context": "placement test Q60",
+          "date": "2026-10-16"
         }
       ],
       "notes": ""
