@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 8
+    "total_sessions": 9
   },
   "sessions": [
     {
@@ -266,6 +266,37 @@
       "notes": "Review 16/44 (stopped at item 17 on learner request). Avg 7.1/10. Streak 2. Clear declarative vs procedural gap: rule correct in fill-in, fails in free translation under divided attention. Avoidance observed twice (reputation, depreciate). Typos/fatigue at end. Commitment (8 sentences) not delivered yet.",
       "achievements_earned": [],
       "streak_day": 2
+    },
+    {
+      "session_id": "session-009",
+      "date": "2026-10-16",
+      "duration_minutes": 46,
+      "skills_practiced": [
+        "grammar",
+        "vocabulary"
+      ],
+      "command_used": "external-assessment",
+      "exercises_completed": 60,
+      "accuracy": 0.817,
+      "score_breakdown": {
+        "grammar": 0.9,
+        "vocabulary": 0.733
+      },
+      "topics_covered": [
+        "placement_test"
+      ],
+      "breakthroughs": [
+        "Placement test: 49/60 (~82%), confirmed B2",
+        "Strong on tenses, conditionals (3rd), passives, question tags, C1 items: outweigh, broaden horizons, get point across, fill in"
+      ],
+      "focus_next_session": [
+        "Business collocations: meet a deadline, place an order, find/come up with a solution",
+        "little vs few (uncountables)",
+        "Irregular past participles"
+      ],
+      "notes": "External placement test (60 items, 45:41). Result B2. 10 wrong + 1 blank. 6 of 11 misses are collocations — the main B2→C1 gap. Q47 'few information' is the same uncountable pattern as review sessions.",
+      "achievements_earned": [],
+      "streak_day": 1
     }
   ],
   "milestones": [
