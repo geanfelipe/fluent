@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 9
+    "total_sessions": 10
   },
   "sessions": [
     {
@@ -295,6 +295,39 @@
         "Irregular past participles"
       ],
       "notes": "External placement test (60 items, 45:41). Result B2. 10 wrong + 1 blank. 6 of 11 misses are collocations — the main B2→C1 gap. Q47 'few information' is the same uncountable pattern as review sessions.",
+      "achievements_earned": [],
+      "streak_day": 1
+    },
+    {
+      "session_id": "session-010",
+      "date": "2026-10-19",
+      "duration_minutes": 30,
+      "skills_practiced": [
+        "grammar",
+        "vocabulary"
+      ],
+      "command_used": "/fluent-review",
+      "exercises_completed": 19,
+      "accuracy": 0.474,
+      "score_breakdown": {
+        "grammar": 0.5,
+        "vocabulary": 0.444
+      },
+      "topics_covered": [],
+      "breakthroughs": [
+        "was/were fixed (10/10)",
+        "It took me + adapt to (10/10)",
+        "First free-production 'open to testing' + 'looking forward to listening'",
+        "First correct 'appreciate IT if'",
+        "Senior-sounding question: 'Is this CSV process used in production as a fallback...?' (9/10)",
+        "query the database / both options fixed from real meeting"
+      ],
+      "focus_next_session": [
+        "Uncountables: little information, some advice (3 consecutive misses)",
+        "Question inversion + explain X to me",
+        "need TO under load; hyphens in writing"
+      ],
+      "notes": "Review 20/77 (item 5 pronunciation skipped 2nd time, unscored). Avg 6.8/10 on 19 scored items. Items 18-20 used learner's real meeting errors. Lesson 1 (status updates) baseline taken before review: 6/10 — no fillers, gave ETA, but calque 'raising the classes' and missing DONE/BLOCKER. Round 2 pending.",
       "achievements_earned": [],
       "streak_day": 1
     }

@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_updated": "2026-10-16",
+    "last_updated": "2026-10-19",
     "language": "English",
     "tracking_started": "2026-10-05"
   },
   "overall_stats": {
-    "total_sessions": 9,
-    "total_exercises": 154,
-    "total_correct": 101,
-    "total_incorrect": 53,
-    "accuracy_rate": 0.656,
-    "total_study_minutes": 304,
-    "average_session_duration": 34
+    "total_sessions": 10,
+    "total_exercises": 173,
+    "total_correct": 110,
+    "total_incorrect": 63,
+    "accuracy_rate": 0.636,
+    "total_study_minutes": 334,
+    "average_session_duration": 33
   },
   "accuracy_trend": [
     {
@@ -48,6 +48,11 @@
       "date": "2026-10-16",
       "accuracy": 0.817,
       "exercises": 60
+    },
+    {
+      "date": "2026-10-19",
+      "accuracy": 0.474,
+      "exercises": 19
     }
   ],
   "skill_progress": {
@@ -65,12 +70,12 @@
       "incorrect_count": 18
     },
     "vocabulary": {
-      "sessions": 4,
-      "accuracy": 0.517,
-      "last_practiced": "2026-10-16",
-      "exercises_completed": 56,
-      "correct_count": 34,
-      "incorrect_count": 22
+      "sessions": 5,
+      "accuracy": 0.502,
+      "last_practiced": "2026-10-19",
+      "exercises_completed": 65,
+      "correct_count": 38,
+      "incorrect_count": 27
     },
     "reading": {
       "sessions": 1,
@@ -86,12 +91,12 @@
       "last_practiced": null
     },
     "grammar": {
-      "sessions": 4,
-      "accuracy": 0.626,
-      "last_practiced": "2026-10-16",
-      "exercises_completed": 48,
-      "correct_count": 36,
-      "incorrect_count": 12
+      "sessions": 5,
+      "accuracy": 0.601,
+      "last_practiced": "2026-10-19",
+      "exercises_completed": 58,
+      "correct_count": 41,
+      "incorrect_count": 17
     },
     "pronunciation": {
       "sessions": 1,
@@ -114,6 +119,12 @@
       "sessions": 4,
       "total_minutes": 116,
       "accuracy": 0.569
+    },
+    {
+      "week_start": "2026-10-19",
+      "sessions": 1,
+      "total_minutes": 30,
+      "accuracy": 0.474
     }
   ]
 }

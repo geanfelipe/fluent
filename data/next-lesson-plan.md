@@ -1,51 +1,39 @@
-> PRIVACY: generic labels only — no client, company, system or colleague names.
+> PRIVACY: generic labels only — no client, company, system, colleague names, nationalities or accents. Real details stay in the conversation.
 
-# Next Lesson — Meeting Prep (30 min) — IN PROGRESS
+# 2-Week Plan — Meeting English (10 lessons × 30 min) — IN PROGRESS
 
-Status: started 2026-10-14, paused at **Step 1, Round 1** (Gean hasn't answered yet). Resume there.
-Format: English, with short Portuguese notes. ONE step at a time; wait for the answer; correct (grammar, naturalness, how senior it sounds) before moving on.
+**Status (2026-10-19):** Lesson 1, Step 1 baseline done (6/10). **Resume at L1 Round 2:** the PM asks "how is your refactoring plan going?" and the learner answers with DONE → NEXT → BLOCKER using real facts.
 
-| Step | Focus | Time |
+Format: English with short Portuguese notes. One step at a time; wait for the answer; correct grammar, naturalness and how senior it sounds.
+Every lesson: warm-up drill (5) → core skill (10) → role-play as the lead or PM, fast and slightly ambiguous (10) → "say this tomorrow", 3 sentences (5).
+
+| # | Focus | Core skill | Role-play |
+|---|---|---|---|
+| L1 | Status updates | DONE → NEXT → BLOCKER, under 45 s, no filler | PM: "How's your refactoring plan going?" |
+| L2 | Questions | Auxiliary + subject; inversion after wh-words | Lead in a design discussion; learner asks 5 questions |
+| L3 | Restarts & prepositions | Plan before speaking; in production, the same as, need to, query | Stand-up with fast follow-ups |
+| L4 | Word forms & fillers | refactoring plan, scheduled task, explain X to me; fillers → signposts | Review of the learner's work |
+| L5 | Consolidation | Listening #1: messy transcript → 2-sentence summary; error tracker check | Mixed stand-up + review |
+| L6 | Clarifying | Paraphrase + targeted clarification (fast speech) | Lead gives a fast, ambiguous task |
+| L7 | Pushing back | Polite disagreement with evidence (baseline, test results) | PM pushes an unrealistic deadline |
+| L8 | Closing a call | Recap action items, owners, dates | End of a design meeting |
+| L9 | Explaining a problem | Context → Problem → Impact → Proposal in 60 s | QA challenges the test design |
+| L10 | Final simulation | Listening #2; full stand-up + design; progress report vs Week 1 | Lead + PM together |
+
+## DONE → NEXT → BLOCKER template
+- DONE: "So far, I've ..." (present perfect, concrete outputs)
+- NEXT: "Next, I'm going to ... I expect to finish by ..."
+- BLOCKER: "One open point: I need ... from ..." / "No blockers."
+
+## Error tracker (baseline from real meetings, week of Oct 13)
+| Pattern | Baseline | Latest |
 |---|---|---|
-| 1 | Vocabulary in context (3 rounds) | 10 min |
-| 2 | Real mistakes + drills | 5 min |
-| 3 | Functional meeting phrases | 5 min |
-| 4 | Role-play: the lead | 8 min |
-| 5 | 3 sentences for today's testing session with a teammate | 2 min |
+| Vague status update / fillers | high | L1 baseline: no fillers, ETA given; missing DONE/BLOCKER |
+| Question without auxiliary/subject | 3 | Oct 19: 2/3 correct |
+| explain me | 1 | Oct 19: repeated once |
+| Restarts / repeated verbs | 2 | — |
+| Prepositions / fixed expressions (in production, the same as, need to) | 7 | Oct 19: in production ✅, query ✅, both ✅, the same as ✗, need to 1/2 |
+| Word forms (refactoring, scheduled task) | 3 | Oct 19: ✅✅ |
 
-## Step 1 — Vocabulary (Gean writes one sentence per term about his OWN work)
-- **Round 1:** bracing for · band-aid · overkill · edge case · backfill
-- **Round 2:** fallback · baseline · break (reconciliation) · double counting · check in (code)
-- **Round 3:** toggle · rollback · piggyback on · scope creep
-
-Round 1 definitions already given:
-| Term | Meaning | Example |
-|---|---|---|
-| bracing for | preparing for something difficult | We're bracing for a lot of breaks after the refactor. |
-| band-aid | quick fix that hides the root cause | That patch is just a band-aid; the root cause is in the mapper. |
-| overkill | more than necessary | A full regression suite for a one-line change is overkill. |
-| edge case | rare scenario at the limits | What about trades with a zero notional? That's an edge case. |
-| backfill | load/fix historical data afterwards | We'll need to backfill three months of historical data. |
-
-## Step 2 — Real mistakes (see work-context.md)
-- explain me → explain **X to me**
-- on production → **in** production
-- refactory plan → **refactoring** plan
-- Questions without auxiliary → **Is/Does/Can** + subject + verb
-Drill: transformations + quick-fire PT→EN about his project.
-
-## Step 3 — Functional phrases
-- Clarify (without full repeat): "Sorry, I missed the part about ___ — could you go over that bit again?" / "When you say ___, do you mean ___?"
-- Paraphrase: "So, if I understand correctly, ___. Is that right?" / "Just to make sure we're on the same page: ___."
-- Confirm action items: "Let me recap my action items: first ___, then ___. Did I miss anything?"
-- Push back with evidence: "I see your point, but the baseline shows ___." / "I'd push back on that slightly — in the last run we had ___ breaks."
-
-## Step 4 — Role-play
-Claude plays **the lead**: assigns tasks fast and ambiguously (dead scheduled tasks, acceptance tests with CSV input, baseline capture, feature toggle for weekly→monthly reporting). Gean must confirm, clarify, paraphrase, and recap action items. Correct after each answer.
-
-## Step 5 — 3 sentences for the testing session with a teammate
-(To be built at the end, using the vocabulary and phrases above.)
-
-## Also pending (from earlier sessions)
-- Review backlog (`/fluent-review`).
-- Recurring weak points: preposition + -ing in free speech, uncountables (information, advice), "I would appreciate IT if", -ed pronunciation (asked = /t/).
+## Domain vocabulary
+Domain-specific terms are kept in the conversation only (privacy). Generic dev terms: baseline, regression, fixture, suite, toggle, rollback, backfill, fallback, band-aid, edge case, SLA.
