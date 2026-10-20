@@ -2,7 +2,7 @@
 
 # 2-Week Plan — Meeting English (10 lessons × 30 min) — IN PROGRESS
 
-**Status (2026-10-19):** Lesson 1, Step 1 baseline done (6/10). **Resume at L1 Round 2:** the PM asks "how is your refactoring plan going?" and the learner answers with DONE → NEXT → BLOCKER using real facts.
+**Status (2026-10-20):** ✅ L1 done (voice, 33 min; fluency 7, accuracy 7, seniority 7). **Next: L2 (questions with auxiliaries + inversion, explain X TO me).**
 
 Format: English with short Portuguese notes. One step at a time; wait for the answer; correct grammar, naturalness and how senior it sounds.
 Every lesson: warm-up drill (5) → core skill (10) → role-play as the lead or PM, fast and slightly ambiguous (10) → "say this tomorrow", 3 sentences (5).
@@ -28,10 +28,10 @@ Every lesson: warm-up drill (5) → core skill (10) → role-play as the lead or
 ## Error tracker (baseline from real meetings, week of Oct 13)
 | Pattern | Baseline | Latest |
 |---|---|---|
-| Vague status update / fillers | high | L1 baseline: no fillers, ETA given; missing DONE/BLOCKER |
-| Question without auxiliary/subject | 3 | Oct 19: 2/3 correct |
-| explain me | 1 | Oct 19: repeated once |
-| Restarts / repeated verbs | 2 | — |
+| Vague status update / fillers | high | Oct 20 (L1): R1 5 fillers → R2 0 fillers → R3 ~10 repetitions, no date |
+| Question without auxiliary/subject | 3 | Oct 19: 2/3 · Oct 20: right in drills, wrong under pressure ("What exactly I need...") |
+| explain me | 1 | Oct 19: 1 miss · Oct 20: 2 misses, then right |
+| Restarts / repeated verbs | 2 | Oct 20: R3 ~10 repetitions in a 45 s answer |
 | Prepositions / fixed expressions (in production, the same as, need to) | 7 | Oct 19: in production ✅, query ✅, both ✅, the same as ✗, need to 1/2 |
 | Word forms (refactoring, scheduled task) | 3 | Oct 19: ✅✅ |
 

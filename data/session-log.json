@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 11
+    "total_sessions": 12
   },
   "sessions": [
     {
@@ -361,6 +361,41 @@
         "Hyphenated compound adjectives (long-term, two-day, month-end)"
       ],
       "notes": "Review 20/85. Avg 6.3/10 on 19 scored items. Learner prefers pronunciation practice in voice lessons only; skip pronunciation items in text review. Learner asked why 'before moving forward' (answered: before = preposition + -ing or conjunction + clause).",
+      "achievements_earned": [],
+      "streak_day": 2
+    },
+    {
+      "session_id": "session-012",
+      "date": "2026-10-20",
+      "duration_minutes": 33,
+      "skills_practiced": [
+        "speaking",
+        "pronunciation"
+      ],
+      "command_used": "voice-claude-chat",
+      "exercises_completed": 27,
+      "accuracy": 0.778,
+      "score_breakdown": {
+        "speaking": 0.7,
+        "pronunciation": 1.0
+      },
+      "topics_covered": [
+        "status_update_done_next_blocker",
+        "auxiliary_questions",
+        "ed_pronunciation",
+        "standup_roleplay"
+      ],
+      "breakthroughs": [
+        "Round 2 status update: ~20 s, 0 fillers, clean DONE → NEXT",
+        "advice, complain to/about, need to, 'Is this being used in production?' all correct",
+        "All -ed words passed the transcription check"
+      ],
+      "focus_next_session": [
+        "Wh- inversion under pressure + explain TO me",
+        "Add a real date to NEXT; name the blocker",
+        "Reduce restarts in long answers (Round 3)"
+      ],
+      "notes": "Voice lesson, plan Lesson 1 of 10 (status updates). Fluency 7, accuracy 7, seniority 7. Status rounds: R1 ~35 s/5 fillers/seniority 5; R2 ~20 s/0 fillers/7; R3 ~45 s/~10 repetitions/7, no date. Exercise counts estimated from accuracy 7/10. Next: Lesson 2 (questions).",
       "achievements_earned": [],
       "streak_day": 2
     }
