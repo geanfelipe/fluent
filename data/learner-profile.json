@@ -16,10 +16,10 @@
     "occupation": "Software developer (remote, financial systems)"
   },
   "profile_created": "2026-10-05",
-  "last_updated": "2026-10-19",
-  "current_streak_days": 1,
-  "total_sessions": 10,
-  "total_study_minutes": 334,
+  "last_updated": "2026-10-20",
+  "current_streak_days": 2,
+  "total_sessions": 11,
+  "total_study_minutes": 364,
   "skills": {
     "writing": {
       "current_level": 0,
@@ -35,9 +35,9 @@
     },
     "vocabulary": {
       "current_level": 1,
-      "confidence": 42,
-      "last_practiced": "2026-10-19",
-      "total_practice_time": 74
+      "confidence": 36,
+      "last_practiced": "2026-10-20",
+      "total_practice_time": 89
     },
     "reading": {
       "current_level": 1,
@@ -53,9 +53,9 @@
     },
     "grammar": {
       "current_level": 1,
-      "confidence": 51,
-      "last_practiced": "2026-10-19",
-      "total_practice_time": 65
+      "confidence": 45,
+      "last_practiced": "2026-10-20",
+      "total_practice_time": 80
     },
     "pronunciation": {
       "current_level": 1,
@@ -113,7 +113,8 @@
     "feedback_style": "immediate_with_explanation",
     "gamification_enabled": false,
     "use_emojis": true,
-    "explanation_language": "Portuguese (Brazil)"
+    "explanation_language": "Portuguese (Brazil)",
+    "pronunciation_practice": "voice_lessons_only"
   },
   "work_context_file": "data/work-context.md",
   "next_lesson_plan_file": "data/next-lesson-plan.md"

@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 10
+    "total_sessions": 11
   },
   "sessions": [
     {
@@ -330,6 +330,39 @@
       "notes": "Review 20/77 (item 5 pronunciation skipped 2nd time, unscored). Avg 6.8/10 on 19 scored items. Items 18-20 used learner's real meeting errors. Lesson 1 (status updates) baseline taken before review: 6/10 — no fillers, gave ETA, but calque 'raising the classes' and missing DONE/BLOCKER. Round 2 pending.",
       "achievements_earned": [],
       "streak_day": 1
+    },
+    {
+      "session_id": "session-011",
+      "date": "2026-10-20",
+      "duration_minutes": 30,
+      "skills_practiced": [
+        "grammar",
+        "vocabulary"
+      ],
+      "command_used": "/fluent-review",
+      "exercises_completed": 19,
+      "accuracy": 0.263,
+      "score_breakdown": {
+        "grammar": 0.3,
+        "vocabulary": 0.222
+      },
+      "topics_covered": [],
+      "breakthroughs": [
+        "First full 'has a reputation for delivering'",
+        "First 'up to speed' (prep pending)",
+        "information without -s for the first time",
+        "Full 'I would appreciate it if' with would + it",
+        "Senior sentence: 'We need to revisit the deadline with the PM before moving forward with the refactoring' (10/10)",
+        "board, known for + -ing, -ed vs -ing adjectives, get back from: all correct"
+      ],
+      "focus_next_session": [
+        "advice (uncountable) + ask someone FOR something",
+        "complain TO someone ABOUT something",
+        "Hyphenated compound adjectives (long-term, two-day, month-end)"
+      ],
+      "notes": "Review 20/85. Avg 6.3/10 on 19 scored items. Learner prefers pronunciation practice in voice lessons only; skip pronunciation items in text review. Learner asked why 'before moving forward' (answered: before = preposition + -ing or conjunction + clause).",
+      "achievements_earned": [],
+      "streak_day": 2
     }
   ],
   "milestones": [

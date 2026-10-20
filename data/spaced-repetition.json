@@ -1,35 +1,37 @@
 {
   "metadata": {
     "algorithm": "SM-2",
-    "last_updated": "2026-10-19",
-    "total_items_tracked": 97,
+    "last_updated": "2026-10-20",
+    "total_items_tracked": 109,
     "language": "English"
   },
   "review_queue": {
     "today": [
       "vocab_reputation",
-      "grammar_generic_plural_people",
+      "vocab_non_technical_stakeholders",
       "grammar_have_negative_do_support",
       "vocab_meaningful_contribution",
       "vocab_solid_experience",
       "vocab_good_fit",
       "vocab_established_employee",
       "vocab_negotiate_higher_salary",
+      "vocab_employer_vs_employee",
       "vocab_swap_out",
       "vocab_within_scope",
       "vocab_settle_the_debt",
       "vocab_raw_material_metaphor",
       "vocab_rejoice_in_suffering",
       "pron_past_ed_ending",
+      "collocation_make_an_offer",
       "vocab_discover_vs_find_out",
       "connector_so_vs_furthermore",
       "vocab_budget_constraints",
       "vocab_fair_given_efforts",
+      "grammar_reflexive_myself",
       "vocab_how_about_vs_what_about",
       "vocab_catch_up_touch_base",
       "vocab_pay_off_debts",
       "vocab_tough_on",
-      "vocab_complain_about",
       "prep_get_to_place",
       "collocation_make_a_decision",
       "vocab_struck_me",
@@ -39,19 +41,9 @@
       "vocab_methodical",
       "grammar_start_to_vs_ing",
       "vocab_have_lunch",
-      "vocab_board_of_directors",
       "vocab_merger",
-      "vocab_close_the_books_term",
-      "vocab_advice_vs_advise",
       "vocab_over_the_years",
       "vocab_grab_a_coffee",
-      "grammar_known_for_ing",
-      "grammar_ed_vs_ing_adjectives",
-      "false_cognate_directory_board",
-      "vocab_merger_vs_merge",
-      "vocab_close_the_books",
-      "grammar_ask_someone_for",
-      "phrasal_get_back_from",
       "collocation_find_a_solution",
       "collocation_how_do_you_feel_about",
       "grammar_irregular_past_participle",
@@ -61,26 +53,7 @@
       "vocab_perk_meaning",
       "phrasal_come_up_with",
       "idiom_down_to_earth",
-      "vocab_gauge"
-    ],
-    "tomorrow": [
-      "vocab_non_technical_stakeholders",
-      "false_cognate_fame_reputation",
-      "vocab_revisit_the_rate",
-      "vocab_employer_vs_employee",
-      "grammar_preposition_gerund",
-      "vocab_build_in_buffer",
-      "fluency_control_over_external",
-      "collocation_make_an_offer",
-      "grammar_past_perfect_sequence",
-      "writing_hyphen_compound_adj",
-      "vocab_get_up_to_speed",
-      "grammar_appreciate_it_if",
-      "grammar_reflexive_myself",
-      "calque_baixar_gather",
-      "grammar_extreme_adjectives",
-      "grammar_uncountable_information",
-      "grammar_need_to_infinitive",
+      "vocab_gauge",
       "vocab_touch_the_code",
       "vocab_time_off_standup",
       "vocab_zero_breaks",
@@ -95,9 +68,45 @@
       "grammar_question_inversion",
       "collocation_the_same_as"
     ],
+    "tomorrow": [
+      "grammar_generic_plural_people",
+      "vocab_revisit_the_rate",
+      "vocab_build_in_buffer",
+      "fluency_control_over_external",
+      "writing_hyphen_compound_adj",
+      "vocab_get_up_to_speed",
+      "vocab_complain_about",
+      "grammar_uncountable_information",
+      "grammar_need_to_infinitive",
+      "vocab_board_of_directors",
+      "vocab_close_the_books_term",
+      "vocab_advice_vs_advise",
+      "grammar_known_for_ing",
+      "grammar_ed_vs_ing_adjectives",
+      "false_cognate_directory_board",
+      "vocab_merger_vs_merge",
+      "vocab_close_the_books",
+      "grammar_ask_someone_for",
+      "phrasal_get_back_from",
+      "vocab_a_fix",
+      "vocab_struggle_with",
+      "vocab_legal_team",
+      "vocab_fill_you_in",
+      "grammar_before_ing_or_clause",
+      "grammar_parallelism",
+      "grammar_adverb_position",
+      "grammar_missing_small_words",
+      "grammar_word_order_noun_adjective",
+      "grammar_absolute_vs_absolutely",
+      "vocab_find_vs_find_out",
+      "false_cognate_conciliation"
+    ],
     "this_week": [
+      "false_cognate_fame_reputation",
       "collocation_move_forward_with",
       "vocab_open_to_ing",
+      "grammar_appreciate_it_if",
+      "grammar_extreme_adjectives",
       "vocab_appreciate_vs_depreciate"
     ],
     "later": [
@@ -106,10 +115,13 @@
       "grammar_adapt_myself_reflexive",
       "vocab_once_proven_impact",
       "grammar_was_were_agreement",
+      "grammar_preposition_gerund",
       "collocation_earn_salary",
       "vocab_hard_vs_demanding",
       "calque_it_took_me",
-      "prep_on_vacation"
+      "grammar_past_perfect_sequence",
+      "prep_on_vacation",
+      "calque_baixar_gather"
     ]
   },
   "items": {
@@ -264,16 +276,16 @@
       "category": "vocabulary",
       "difficulty": "",
       "created_date": "2026-10-05",
-      "due_date": "2026-10-20",
-      "interval_days": 1,
-      "repetitions": 1,
+      "due_date": "2026-10-26",
+      "interval_days": 6,
+      "repetitions": 2,
       "easiness_factor": 1.3,
-      "consecutive_correct": 1,
+      "consecutive_correct": 2,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-10-19",
-      "last_quality": 3,
-      "mastery_level": 0,
-      "total_reviews": 5,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 4,
+      "mastery_level": 1,
+      "total_reviews": 6,
       "priority": "high",
       "review_history": [
         {
@@ -300,6 +312,11 @@
           "date": "2026-10-19",
           "quality": 3,
           "score": 0
+        },
+        {
+          "date": "2026-10-20",
+          "quality": 4,
+          "score": 0
         }
       ]
     },
@@ -311,16 +328,16 @@
       "category": "grammar",
       "difficulty": "",
       "created_date": "2026-10-05",
-      "due_date": "2026-10-19",
-      "interval_days": 6,
-      "repetitions": 2,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 2,
-      "consecutive_incorrect": 0,
-      "last_reviewed": "2026-10-13",
-      "last_quality": 4,
+      "due_date": "2026-10-21",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.18,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 2,
       "mastery_level": 1,
-      "total_reviews": 2,
+      "total_reviews": 3,
       "priority": "high",
       "review_history": [
         {
@@ -331,6 +348,11 @@
         {
           "date": "2026-10-13",
           "quality": 4,
+          "score": 0
+        },
+        {
+          "date": "2026-10-20",
+          "quality": 2,
           "score": 0
         }
       ]
@@ -498,16 +520,16 @@
       "category": "negotiation",
       "difficulty": "C1",
       "created_date": "2026-10-06",
-      "due_date": "2026-10-20",
+      "due_date": "2026-10-21",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.04,
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-10-19",
-      "last_quality": 2,
+      "repetitions": 1,
+      "easiness_factor": 2.14,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 5,
       "mastery_level": 0,
-      "total_reviews": 3,
+      "total_reviews": 4,
       "priority": "high",
       "review_history": [
         {
@@ -523,6 +545,11 @@
         {
           "date": "2026-10-19",
           "quality": 2,
+          "score": 0
+        },
+        {
+          "date": "2026-10-20",
+          "quality": 5,
           "score": 0
         }
       ]
@@ -742,16 +769,16 @@
       "category": "grammar",
       "difficulty": "",
       "created_date": "2026-10-06",
-      "due_date": "2026-10-20",
-      "interval_days": 6,
-      "repetitions": 2,
-      "easiness_factor": 1.74,
-      "consecutive_correct": 2,
+      "due_date": "2026-10-31",
+      "interval_days": 11,
+      "repetitions": 3,
+      "easiness_factor": 1.6,
+      "consecutive_correct": 3,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-10-14",
-      "last_quality": 5,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 3,
       "mastery_level": 1,
-      "total_reviews": 4,
+      "total_reviews": 5,
       "priority": "high",
       "review_history": [
         {
@@ -772,6 +799,11 @@
         {
           "date": "2026-10-14",
           "quality": 5,
+          "score": 0
+        },
+        {
+          "date": "2026-10-20",
+          "quality": 3,
           "score": 0
         }
       ]
@@ -848,16 +880,16 @@
       "category": "project_management",
       "difficulty": "C1",
       "created_date": "2026-10-07",
-      "due_date": "2026-10-20",
+      "due_date": "2026-10-21",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 1.82,
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-10-19",
-      "last_quality": 1,
+      "repetitions": 1,
+      "easiness_factor": 1.68,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 3,
       "mastery_level": 0,
-      "total_reviews": 3,
+      "total_reviews": 4,
       "priority": "high",
       "review_history": [
         {
@@ -873,6 +905,11 @@
         {
           "date": "2026-10-19",
           "quality": 1,
+          "score": 0
+        },
+        {
+          "date": "2026-10-20",
+          "quality": 3,
           "score": 0
         }
       ]
@@ -1006,16 +1043,16 @@
       "category": "vocabulary",
       "difficulty": "",
       "created_date": "2026-10-07",
-      "due_date": "2026-10-20",
+      "due_date": "2026-10-21",
       "interval_days": 1,
-      "repetitions": 0,
+      "repetitions": 1,
       "easiness_factor": 2.14,
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-10-19",
-      "last_quality": 2,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 4,
       "mastery_level": 1,
-      "total_reviews": 3,
+      "total_reviews": 4,
       "priority": "high",
       "review_history": [
         {
@@ -1031,6 +1068,11 @@
         {
           "date": "2026-10-19",
           "quality": 2,
+          "score": 0
+        },
+        {
+          "date": "2026-10-20",
+          "quality": 4,
           "score": 0
         }
       ]
@@ -1181,16 +1223,16 @@
       "category": "grammar",
       "difficulty": "",
       "created_date": "2026-10-07",
-      "due_date": "2026-10-20",
-      "interval_days": 6,
-      "repetitions": 2,
+      "due_date": "2026-11-04",
+      "interval_days": 15,
+      "repetitions": 3,
       "easiness_factor": 2.36,
-      "consecutive_correct": 2,
+      "consecutive_correct": 3,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-10-14",
+      "last_reviewed": "2026-10-20",
       "last_quality": 4,
-      "mastery_level": 1,
-      "total_reviews": 2,
+      "mastery_level": 2,
+      "total_reviews": 3,
       "priority": "high",
       "review_history": [
         {
@@ -1200,6 +1242,11 @@
         },
         {
           "date": "2026-10-14",
+          "quality": 4,
+          "score": 0
+        },
+        {
+          "date": "2026-10-20",
           "quality": 4,
           "score": 0
         }
@@ -1282,16 +1329,16 @@
       "category": "spelling",
       "difficulty": "",
       "created_date": "2026-10-07",
-      "due_date": "2026-10-20",
+      "due_date": "2026-10-21",
       "interval_days": 1,
       "repetitions": 0,
-      "easiness_factor": 1.74,
+      "easiness_factor": 1.42,
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
-      "last_reviewed": "2026-10-19",
-      "last_quality": 1,
+      "consecutive_incorrect": 3,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 2,
       "mastery_level": 0,
-      "total_reviews": 3,
+      "total_reviews": 4,
       "priority": "high",
       "review_history": [
         {
@@ -1307,6 +1354,11 @@
         {
           "date": "2026-10-19",
           "quality": 1,
+          "score": 0
+        },
+        {
+          "date": "2026-10-20",
+          "quality": 2,
           "score": 0
         }
       ]
@@ -1356,16 +1408,16 @@
       "category": "business_english",
       "difficulty": "C1",
       "created_date": "2026-10-09",
-      "due_date": "2026-10-20",
+      "due_date": "2026-10-21",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 1.32,
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 3,
-      "last_reviewed": "2026-10-19",
-      "last_quality": 2,
+      "repetitions": 1,
+      "easiness_factor": 1.3,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 3,
       "mastery_level": 0,
-      "total_reviews": 3,
+      "total_reviews": 4,
       "priority": "high",
       "review_history": [
         {
@@ -1381,6 +1433,11 @@
         {
           "date": "2026-10-19",
           "quality": 2,
+          "score": 0
+        },
+        {
+          "date": "2026-10-20",
+          "quality": 3,
           "score": 0
         }
       ]
@@ -1433,16 +1490,16 @@
       "category": "grammar",
       "difficulty": "",
       "created_date": "2026-10-09",
-      "due_date": "2026-10-20",
-      "interval_days": 1,
-      "repetitions": 1,
-      "easiness_factor": 1.64,
-      "consecutive_correct": 1,
+      "due_date": "2026-10-26",
+      "interval_days": 6,
+      "repetitions": 2,
+      "easiness_factor": 1.74,
+      "consecutive_correct": 2,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-10-19",
-      "last_quality": 4,
-      "mastery_level": 0,
-      "total_reviews": 3,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 5,
+      "mastery_level": 1,
+      "total_reviews": 4,
       "priority": "high",
       "review_history": [
         {
@@ -1458,6 +1515,11 @@
         {
           "date": "2026-10-19",
           "quality": 4,
+          "score": 0
+        },
+        {
+          "date": "2026-10-20",
+          "quality": 5,
           "score": 0
         }
       ]
@@ -1502,16 +1564,16 @@
       "category": "vocabulary",
       "difficulty": "",
       "created_date": "2026-10-09",
-      "due_date": "2026-10-20",
-      "interval_days": 6,
-      "repetitions": 2,
+      "due_date": "2026-11-04",
+      "interval_days": 15,
+      "repetitions": 3,
       "easiness_factor": 2.5,
-      "consecutive_correct": 2,
+      "consecutive_correct": 3,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-10-14",
+      "last_reviewed": "2026-10-20",
       "last_quality": 4,
-      "mastery_level": 1,
-      "total_reviews": 2,
+      "mastery_level": 2,
+      "total_reviews": 3,
       "priority": "high",
       "review_history": [
         {
@@ -1521,6 +1583,11 @@
         },
         {
           "date": "2026-10-14",
+          "quality": 4,
+          "score": 0
+        },
+        {
+          "date": "2026-10-20",
           "quality": 4,
           "score": 0
         }
@@ -1614,21 +1681,26 @@
       "category": "vocabulary",
       "difficulty": "",
       "created_date": "2026-10-13",
-      "due_date": "2026-10-15",
+      "due_date": "2026-10-21",
       "interval_days": 1,
-      "repetitions": 1,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 1,
-      "consecutive_incorrect": 0,
-      "last_reviewed": "2026-10-14",
-      "last_quality": 4,
+      "repetitions": 0,
+      "easiness_factor": 1.96,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 1,
       "mastery_level": 0,
-      "total_reviews": 1,
+      "total_reviews": 2,
       "priority": "high",
       "review_history": [
         {
           "date": "2026-10-14",
           "quality": 4,
+          "score": 0
+        },
+        {
+          "date": "2026-10-20",
+          "quality": 1,
           "score": 0
         }
       ]
@@ -1641,16 +1713,16 @@
       "category": "grammar",
       "difficulty": "",
       "created_date": "2026-10-13",
-      "due_date": "2026-10-20",
-      "interval_days": 1,
-      "repetitions": 1,
-      "easiness_factor": 2.28,
-      "consecutive_correct": 1,
+      "due_date": "2026-10-26",
+      "interval_days": 6,
+      "repetitions": 2,
+      "easiness_factor": 2.14,
+      "consecutive_correct": 2,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-10-19",
-      "last_quality": 5,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 3,
       "mastery_level": 0,
-      "total_reviews": 2,
+      "total_reviews": 3,
       "priority": "high",
       "review_history": [
         {
@@ -1661,6 +1733,11 @@
         {
           "date": "2026-10-19",
           "quality": 5,
+          "score": 0
+        },
+        {
+          "date": "2026-10-20",
+          "quality": 3,
           "score": 0
         }
       ]
@@ -1727,16 +1804,16 @@
       "category": "grammar",
       "difficulty": "",
       "created_date": "2026-10-13",
-      "due_date": "2026-10-20",
+      "due_date": "2026-10-21",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 1.42,
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 3,
-      "last_reviewed": "2026-10-19",
-      "last_quality": 1,
+      "repetitions": 1,
+      "easiness_factor": 1.3,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 3,
       "mastery_level": 0,
-      "total_reviews": 2,
+      "total_reviews": 3,
       "priority": "high",
       "review_history": [
         {
@@ -1747,6 +1824,11 @@
         {
           "date": "2026-10-19",
           "quality": 1,
+          "score": 0
+        },
+        {
+          "date": "2026-10-20",
+          "quality": 3,
           "score": 0
         }
       ]
@@ -1759,16 +1841,16 @@
       "category": "grammar",
       "difficulty": "",
       "created_date": "2026-10-13",
-      "due_date": "2026-10-20",
+      "due_date": "2026-10-21",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.04,
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-10-19",
-      "last_quality": 2,
+      "repetitions": 1,
+      "easiness_factor": 2.14,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 5,
       "mastery_level": 0,
-      "total_reviews": 2,
+      "total_reviews": 3,
       "priority": "high",
       "review_history": [
         {
@@ -1779,6 +1861,11 @@
         {
           "date": "2026-10-19",
           "quality": 2,
+          "score": 0
+        },
+        {
+          "date": "2026-10-20",
+          "quality": 5,
           "score": 0
         }
       ]
@@ -1977,17 +2064,24 @@
       "category": "business_english",
       "difficulty": "B2",
       "created_date": "2026-10-14",
-      "due_date": "2026-10-15",
+      "due_date": "2026-10-21",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-10-14",
-      "last_quality": 2,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 5,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-20",
+          "quality": 5,
+          "score": 0
+        }
+      ]
     },
     "vocab_merger": {
       "id": "vocab_merger",
@@ -2017,17 +2111,24 @@
       "category": "accounting",
       "difficulty": "C1",
       "created_date": "2026-10-14",
-      "due_date": "2026-10-15",
+      "due_date": "2026-10-21",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "repetitions": 1,
+      "easiness_factor": 2.36,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-10-14",
+      "last_reviewed": "2026-10-20",
       "last_quality": 3,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-20",
+          "quality": 3,
+          "score": 0
+        }
+      ]
     },
     "vocab_advice_vs_advise": {
       "id": "vocab_advice_vs_advise",
@@ -2037,17 +2138,24 @@
       "category": "grammar_vocab",
       "difficulty": "B2",
       "created_date": "2026-10-14",
-      "due_date": "2026-10-15",
+      "due_date": "2026-10-21",
       "interval_days": 1,
       "repetitions": 0,
-      "easiness_factor": 2.5,
+      "easiness_factor": 1.96,
       "consecutive_correct": 0,
-      "consecutive_incorrect": 0,
-      "last_reviewed": "2026-10-14",
-      "last_quality": 2,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 1,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-20",
+          "quality": 1,
+          "score": 0
+        }
+      ]
     },
     "vocab_over_the_years": {
       "id": "vocab_over_the_years",
@@ -2097,17 +2205,24 @@
       "category": "grammar",
       "difficulty": "",
       "created_date": "2026-10-14",
-      "due_date": "2026-10-15",
+      "due_date": "2026-10-21",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-10-14",
-      "last_quality": 2,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 5,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-20",
+          "quality": 5,
+          "score": 0
+        }
+      ]
     },
     "grammar_ed_vs_ing_adjectives": {
       "id": "grammar_ed_vs_ing_adjectives",
@@ -2117,17 +2232,24 @@
       "category": "grammar",
       "difficulty": "",
       "created_date": "2026-10-14",
-      "due_date": "2026-10-15",
+      "due_date": "2026-10-21",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-10-14",
-      "last_quality": 2,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 5,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-20",
+          "quality": 5,
+          "score": 0
+        }
+      ]
     },
     "false_cognate_directory_board": {
       "id": "false_cognate_directory_board",
@@ -2137,17 +2259,24 @@
       "category": "vocabulary",
       "difficulty": "",
       "created_date": "2026-10-14",
-      "due_date": "2026-10-15",
+      "due_date": "2026-10-21",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-10-14",
-      "last_quality": 2,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 5,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-20",
+          "quality": 5,
+          "score": 0
+        }
+      ]
     },
     "vocab_merger_vs_merge": {
       "id": "vocab_merger_vs_merge",
@@ -2157,17 +2286,24 @@
       "category": "vocabulary",
       "difficulty": "",
       "created_date": "2026-10-14",
-      "due_date": "2026-10-15",
+      "due_date": "2026-10-21",
       "interval_days": 1,
       "repetitions": 0,
-      "easiness_factor": 2.5,
+      "easiness_factor": 2.18,
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-10-14",
+      "consecutive_incorrect": 2,
+      "last_reviewed": "2026-10-20",
       "last_quality": 2,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-20",
+          "quality": 2,
+          "score": 0
+        }
+      ]
     },
     "vocab_close_the_books": {
       "id": "vocab_close_the_books",
@@ -2177,17 +2313,24 @@
       "category": "vocabulary",
       "difficulty": "",
       "created_date": "2026-10-14",
-      "due_date": "2026-10-15",
+      "due_date": "2026-10-21",
       "interval_days": 1,
       "repetitions": 0,
-      "easiness_factor": 2.5,
+      "easiness_factor": 2.18,
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-10-14",
+      "consecutive_incorrect": 2,
+      "last_reviewed": "2026-10-20",
       "last_quality": 2,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-20",
+          "quality": 2,
+          "score": 0
+        }
+      ]
     },
     "grammar_ask_someone_for": {
       "id": "grammar_ask_someone_for",
@@ -2197,17 +2340,24 @@
       "category": "grammar",
       "difficulty": "",
       "created_date": "2026-10-14",
-      "due_date": "2026-10-15",
+      "due_date": "2026-10-21",
       "interval_days": 1,
       "repetitions": 0,
-      "easiness_factor": 2.5,
+      "easiness_factor": 1.96,
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-10-14",
-      "last_quality": 2,
+      "consecutive_incorrect": 2,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 1,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-20",
+          "quality": 1,
+          "score": 0
+        }
+      ]
     },
     "phrasal_get_back_from": {
       "id": "phrasal_get_back_from",
@@ -2217,17 +2367,24 @@
       "category": "vocabulary",
       "difficulty": "",
       "created_date": "2026-10-14",
-      "due_date": "2026-10-15",
+      "due_date": "2026-10-21",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-10-14",
-      "last_quality": 2,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 5,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-20",
+          "quality": 5,
+          "score": 0
+        }
+      ]
     },
     "collocation_find_a_solution": {
       "id": "collocation_find_a_solution",
@@ -2684,6 +2841,246 @@
       "consecutive_correct": 0,
       "consecutive_incorrect": 1,
       "last_reviewed": "2026-10-19",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "vocab_a_fix": {
+      "id": "vocab_a_fix",
+      "type": "vocabulary",
+      "content": "a fix / a bug fix (noun)",
+      "answer": "uma correção",
+      "category": "dev_english",
+      "difficulty": "B2",
+      "created_date": "2026-10-20",
+      "due_date": "2026-10-21",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 3,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "medium"
+    },
+    "vocab_struggle_with": {
+      "id": "vocab_struggle_with",
+      "type": "vocabulary",
+      "content": "struggle with",
+      "answer": "ter dificuldade com",
+      "category": "conversation",
+      "difficulty": "B2",
+      "created_date": "2026-10-20",
+      "due_date": "2026-10-21",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 3,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "medium"
+    },
+    "vocab_legal_team": {
+      "id": "vocab_legal_team",
+      "type": "vocabulary",
+      "content": "the legal team (vs regulatory/compliance)",
+      "answer": "o time jurídico",
+      "category": "business_english",
+      "difficulty": "B2",
+      "created_date": "2026-10-20",
+      "due_date": "2026-10-21",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "medium"
+    },
+    "vocab_fill_you_in": {
+      "id": "vocab_fill_you_in",
+      "type": "vocabulary",
+      "content": "fill you in on / get you up to speed on",
+      "answer": "te atualizar sobre",
+      "category": "meetings",
+      "difficulty": "C1",
+      "created_date": "2026-10-20",
+      "due_date": "2026-10-21",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 3,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "grammar_before_ing_or_clause": {
+      "id": "grammar_before_ing_or_clause",
+      "type": "grammar_rule",
+      "content": "before + -ing / before + subject + verb (never before + base verb)",
+      "answer": "before moving forward / before we move forward",
+      "category": "grammar",
+      "difficulty": "B2",
+      "created_date": "2026-10-20",
+      "due_date": "2026-10-21",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "medium"
+    },
+    "grammar_parallelism": {
+      "id": "grammar_parallelism",
+      "type": "error_pattern",
+      "content": "a reputation for delivering fast, but also left bugs",
+      "answer": "a reputation for delivering fast, but also for leaving bugs behind",
+      "category": "grammar",
+      "difficulty": "",
+      "created_date": "2026-10-20",
+      "due_date": "2026-10-21",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "grammar_adverb_position": {
+      "id": "grammar_adverb_position",
+      "type": "error_pattern",
+      "content": "verify first the logs",
+      "answer": "check the logs first",
+      "category": "grammar",
+      "difficulty": "",
+      "created_date": "2026-10-20",
+      "due_date": "2026-10-21",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "grammar_missing_small_words": {
+      "id": "grammar_missing_small_words",
+      "type": "error_pattern",
+      "content": "This a general overview / because the edge cases / let me know it I",
+      "answer": "This is a... / because of the... / let me know and I'll",
+      "category": "grammar",
+      "difficulty": "",
+      "created_date": "2026-10-20",
+      "due_date": "2026-10-21",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "grammar_word_order_noun_adjective": {
+      "id": "grammar_word_order_noun_adjective",
+      "type": "error_pattern",
+      "content": "the Job scheduled run / a buffer of 2 days in the scheduled",
+      "answer": "when the scheduled job runs / a two-day buffer into the schedule",
+      "category": "grammar",
+      "difficulty": "",
+      "created_date": "2026-10-20",
+      "due_date": "2026-10-21",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "grammar_absolute_vs_absolutely": {
+      "id": "grammar_absolute_vs_absolutely",
+      "type": "error_pattern",
+      "content": "an absolutely disaster / The yesterday's deployment",
+      "answer": "an absolute disaster / Yesterday's deployment",
+      "category": "grammar",
+      "difficulty": "",
+      "created_date": "2026-10-20",
+      "due_date": "2026-10-21",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "vocab_find_vs_find_out": {
+      "id": "vocab_find_vs_find_out",
+      "type": "error_pattern",
+      "content": "When I found out the bug",
+      "answer": "When I found the bug (find out = information)",
+      "category": "vocabulary",
+      "difficulty": "",
+      "created_date": "2026-10-20",
+      "due_date": "2026-10-21",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-10-20",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "false_cognate_conciliation": {
+      "id": "false_cognate_conciliation",
+      "type": "error_pattern",
+      "content": "conciliation reports",
+      "answer": "reconciliation reports",
+      "category": "vocabulary",
+      "difficulty": "",
+      "created_date": "2026-10-20",
+      "due_date": "2026-10-21",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-10-20",
       "last_quality": 2,
       "mastery_level": 0,
       "total_reviews": 0,
