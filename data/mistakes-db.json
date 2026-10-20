@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-10-14",
-    "total_patterns_tracked": 41,
+    "last_updated": "2026-10-20",
+    "total_patterns_tracked": 70,
     "language": "English"
   },
   "error_patterns": {
@@ -39,14 +39,14 @@
       "subcategory": "false_cognate",
       "description": "",
       "severity": "critical",
-      "frequency": 4,
+      "frequency": 5,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-14",
-      "last_occurred": "2026-10-14",
-      "next_review": "2026-10-15",
+      "last_seen": "2026-10-19",
+      "last_occurred": "2026-10-19",
+      "next_review": "2026-10-20",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 4,
+      "consecutive_incorrect": 5,
       "examples": [
         {
           "incorrect": "I had a fame.",
@@ -71,6 +71,12 @@
           "correct": "has a reputation for being",
           "context": "avoided target 2nd time",
           "date": "2026-10-14"
+        },
+        {
+          "incorrect": "has reputation for broken",
+          "correct": "has a reputation for breaking",
+          "context": "used 'reputation' without avoidance; structure incomplete",
+          "date": "2026-10-19"
         }
       ],
       "notes": "Word 'reputation' fixed; structure 'for + -ing' still breaks."
@@ -80,20 +86,26 @@
       "subcategory": "countable_plural",
       "description": "",
       "severity": "minor",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-05",
-      "last_occurred": "2026-10-05",
-      "next_review": "2026-10-06",
+      "last_seen": "2026-10-20",
+      "last_occurred": "2026-10-20",
+      "next_review": "2026-10-21",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "non-technical person",
           "correct": "non-technical people",
           "context": "working with non-technical people",
           "date": "2026-10-05"
+        },
+        {
+          "incorrect": "The non-technical people usually has difficult",
+          "correct": "Non-technical people usually struggle with",
+          "context": "item 13",
+          "date": "2026-10-20"
         }
       ],
       "notes": ""
@@ -155,14 +167,14 @@
       "subcategory": "subject_verb_agreement",
       "description": "",
       "severity": "critical",
-      "frequency": 4,
+      "frequency": 5,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-13",
-      "last_occurred": "2026-10-13",
-      "next_review": "2026-10-14",
+      "last_seen": "2026-10-20",
+      "last_occurred": "2026-10-20",
+      "next_review": "2026-10-21",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 4,
+      "consecutive_incorrect": 5,
       "examples": [
         {
           "incorrect": "I weren't able / I were",
@@ -187,6 +199,12 @@
           "correct": "the kings were divided",
           "context": "2 Kings discussion",
           "date": "2026-10-13"
+        },
+        {
+          "incorrect": "the lead were calm",
+          "correct": "the lead was very calm",
+          "context": "item 11 regression",
+          "date": "2026-10-20"
         }
       ],
       "notes": "Plural subject → were. 4th session with was/were slips."
@@ -248,14 +266,14 @@
       "subcategory": "preposition_plus_ing",
       "description": "",
       "severity": "minor",
-      "frequency": 4,
+      "frequency": 5,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-13",
-      "last_occurred": "2026-10-13",
-      "next_review": "2026-10-14",
+      "last_seen": "2026-10-20",
+      "last_occurred": "2026-10-20",
+      "next_review": "2026-10-21",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 4,
+      "consecutive_incorrect": 5,
       "examples": [
         {
           "incorrect": "I'm okay if we can reevaluate",
@@ -280,6 +298,12 @@
           "correct": "how about focusing on solving the problem?",
           "context": "review item 3",
           "date": "2026-10-13"
+        },
+        {
+          "incorrect": "Instead of fix the data / interested on",
+          "correct": "Instead of fixing the data / interested in",
+          "context": "item 5, sentence-initial",
+          "date": "2026-10-20"
         }
       ],
       "notes": "Root problem across sessions 002-005: open to / instead of / reputation for / interested in + -ING."
@@ -341,14 +365,14 @@
       "subcategory": "naturalness",
       "description": "",
       "severity": "minor",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-09",
-      "last_occurred": "2026-10-09",
-      "next_review": "2026-10-10",
+      "last_seen": "2026-10-19",
+      "last_occurred": "2026-10-19",
+      "next_review": "2026-10-20",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "we can't control anything outside us",
@@ -361,6 +385,12 @@
           "correct": "control over",
           "context": "debate; corrected once, then held",
           "date": "2026-10-09"
+        },
+        {
+          "incorrect": "We have control over the data",
+          "correct": "We have no control over the data",
+          "context": "meaning reversed",
+          "date": "2026-10-19"
         }
       ],
       "notes": ""
@@ -549,14 +579,14 @@
       "subcategory": "hyphenation",
       "description": "",
       "severity": "minor",
-      "frequency": 2,
+      "frequency": 4,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-14",
-      "last_occurred": "2026-10-14",
-      "next_review": "2026-10-15",
+      "last_seen": "2026-10-20",
+      "last_occurred": "2026-10-20",
+      "next_review": "2026-10-21",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 4,
       "examples": [
         {
           "incorrect": "non technical",
@@ -569,6 +599,18 @@
           "correct": "non-technical analysts / stakeholders",
           "context": "items 15-16 (4th time)",
           "date": "2026-10-14"
+        },
+        {
+          "incorrect": "long term solution / non technical users",
+          "correct": "long-term solution / non-technical users",
+          "context": "5th time",
+          "date": "2026-10-19"
+        },
+        {
+          "incorrect": "long term solution / two days buffer",
+          "correct": "long-term solution / two-day buffer",
+          "context": "6th time",
+          "date": "2026-10-20"
         }
       ],
       "notes": ""
@@ -688,14 +730,14 @@
       "subcategory": "word_choice",
       "description": "",
       "severity": "moderate",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-14",
-      "last_occurred": "2026-10-14",
-      "next_review": "2026-10-15",
+      "last_seen": "2026-10-20",
+      "last_occurred": "2026-10-20",
+      "next_review": "2026-10-21",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "arguing the deadline",
@@ -708,6 +750,12 @@
           "correct": "complaining about the system",
           "context": "item 8",
           "date": "2026-10-14"
+        },
+        {
+          "incorrect": "complain on the report to the pm / complained on us",
+          "correct": "complained to the PM about the report / complained to us",
+          "context": "item 15 (2nd session)",
+          "date": "2026-10-20"
         }
       ],
       "notes": ""
@@ -792,14 +840,14 @@
       "subcategory": "uncountable_nouns",
       "description": "",
       "severity": "moderate",
-      "frequency": 3,
+      "frequency": 5,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-14",
-      "last_occurred": "2026-10-14",
-      "next_review": "2026-10-15",
+      "last_seen": "2026-10-19",
+      "last_occurred": "2026-10-19",
+      "next_review": "2026-10-20",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 3,
+      "consecutive_incorrect": 5,
       "examples": [
         {
           "incorrect": "all informations",
@@ -818,6 +866,18 @@
           "correct": "more information and some advice",
           "context": "item 7 (repeat)",
           "date": "2026-10-14"
+        },
+        {
+          "incorrect": "very few information",
+          "correct": "very little information",
+          "context": "placement test Q47 (recurring pattern)",
+          "date": "2026-10-16"
+        },
+        {
+          "incorrect": "a few information... some advises",
+          "correct": "little information... some advice",
+          "context": "3rd consecutive session — fossilization risk",
+          "date": "2026-10-19"
         }
       ],
       "notes": "advise = verb; advice = uncountable noun."
@@ -827,14 +887,14 @@
       "subcategory": "missing_to",
       "description": "",
       "severity": "moderate",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-14",
-      "last_occurred": "2026-10-14",
-      "next_review": "2026-10-15",
+      "last_seen": "2026-10-19",
+      "last_occurred": "2026-10-19",
+      "next_review": "2026-10-20",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "I need catch up about the projects",
@@ -847,6 +907,12 @@
           "correct": "decided to move forward",
           "context": "item 5",
           "date": "2026-10-14"
+        },
+        {
+          "incorrect": "we need validate everything",
+          "correct": "we need to validate everything",
+          "context": "correct in item 10, dropped in item 16 under load",
+          "date": "2026-10-19"
         }
       ],
       "notes": ""
@@ -879,14 +945,14 @@
       "subcategory": "confused_words",
       "description": "",
       "severity": "moderate",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-14",
-      "last_occurred": "2026-10-14",
-      "next_review": "2026-10-15",
+      "last_seen": "2026-10-19",
+      "last_occurred": "2026-10-19",
+      "next_review": "2026-10-20",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "we would depreciate the nature",
@@ -899,6 +965,12 @@
           "correct": "depreciated over the years / I really appreciate",
           "context": "item 11 avoidance",
           "date": "2026-10-14"
+        },
+        {
+          "incorrect": "I value the team's efforts",
+          "correct": "I really appreciate the team's efforts",
+          "context": "avoided 'appreciate' 2nd time",
+          "date": "2026-10-19"
         }
       ],
       "notes": "depreciate = lose value (accounting!). Also no 'the' before nature in general sense."
@@ -1000,20 +1072,26 @@
       "subcategory": "word_class",
       "description": "",
       "severity": "minor",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-14",
-      "last_occurred": "2026-10-14",
-      "next_review": "2026-10-15",
+      "last_seen": "2026-10-20",
+      "last_occurred": "2026-10-20",
+      "next_review": "2026-10-21",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "the merge",
           "correct": "the merger",
           "context": "'a fusão'",
           "date": "2026-10-14"
+        },
+        {
+          "incorrect": "approved the merge on yesterday's meeting",
+          "correct": "approved the merger at yesterday's meeting",
+          "context": "item 16 (2nd time)",
+          "date": "2026-10-20"
         }
       ],
       "notes": ""
@@ -1023,20 +1101,26 @@
       "subcategory": "accounting_terms",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-14",
-      "last_occurred": "2026-10-14",
-      "next_review": "2026-10-15",
+      "last_seen": "2026-10-20",
+      "last_occurred": "2026-10-20",
+      "next_review": "2026-10-21",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "closed the ball / the balance",
           "correct": "closed the books / finalized the balance sheet",
           "context": "'fechar o balanço'",
           "date": "2026-10-14"
+        },
+        {
+          "incorrect": "the month close / close the balance",
+          "correct": "the month-end close / close the books",
+          "context": "item 17 (2nd time)",
+          "date": "2026-10-20"
         }
       ],
       "notes": ""
@@ -1046,20 +1130,26 @@
       "subcategory": "verb_pattern",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-14",
-      "last_occurred": "2026-10-14",
-      "next_review": "2026-10-15",
+      "last_seen": "2026-10-20",
+      "last_occurred": "2026-10-20",
+      "next_review": "2026-10-21",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "ask some advices for the layers team",
           "correct": "ask the legal team for advice",
           "context": "item 7; lawyers vs layers",
           "date": "2026-10-14"
+        },
+        {
+          "incorrect": "ask a advice to the regulatory team",
+          "correct": "ask the legal team for advice",
+          "context": "item 19 (2nd time)",
+          "date": "2026-10-20"
         }
       ],
       "notes": ""
@@ -1092,20 +1182,699 @@
       "subcategory": "phrasal_expression",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-14",
-      "last_occurred": "2026-10-14",
-      "next_review": "2026-10-15",
+      "last_seen": "2026-10-20",
+      "last_occurred": "2026-10-20",
+      "next_review": "2026-10-21",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "I need to follow-up the project",
           "correct": "I need to get up to speed on the project",
           "context": "item 16 (2nd miss)",
           "date": "2026-10-14"
+        },
+        {
+          "incorrect": "getting up to changings",
+          "correct": "getting up to speed on the changes",
+          "context": "3rd miss",
+          "date": "2026-10-19"
+        },
+        {
+          "incorrect": "getting up to speed about / get up to speed you",
+          "correct": "getting up to speed on / get you up to speed on",
+          "context": "items 2, 20",
+          "date": "2026-10-20"
+        }
+      ],
+      "notes": ""
+    },
+    "collocation_find_a_solution": {
+      "category": "vocabulary",
+      "subcategory": "collocation",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-16",
+      "last_occurred": "2026-10-16",
+      "next_review": "2026-10-17",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "make a solution",
+          "correct": "find / come up with a solution",
+          "context": "placement test Q14",
+          "date": "2026-10-16"
+        }
+      ],
+      "notes": ""
+    },
+    "collocation_how_do_you_feel_about": {
+      "category": "vocabulary",
+      "subcategory": "collocation",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-16",
+      "last_occurred": "2026-10-16",
+      "next_review": "2026-10-17",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "How do you think about that idea?",
+          "correct": "How do you feel about that idea? / What do you think about it?",
+          "context": "placement test Q18",
+          "date": "2026-10-16"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_irregular_past_participle": {
+      "category": "grammar",
+      "subcategory": "irregular_verbs",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-16",
+      "last_occurred": "2026-10-16",
+      "next_review": "2026-10-17",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "She's sended",
+          "correct": "She's sent",
+          "context": "placement test Q20",
+          "date": "2026-10-16"
+        }
+      ],
+      "notes": ""
+    },
+    "collocation_place_an_order": {
+      "category": "vocabulary",
+      "subcategory": "collocation",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-16",
+      "last_occurred": "2026-10-16",
+      "next_review": "2026-10-17",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "quote an order",
+          "correct": "place an order",
+          "context": "placement test Q22",
+          "date": "2026-10-16"
+        }
+      ],
+      "notes": ""
+    },
+    "collocation_meet_a_deadline": {
+      "category": "vocabulary",
+      "subcategory": "collocation",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-16",
+      "last_occurred": "2026-10-16",
+      "next_review": "2026-10-17",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "reach the deadline",
+          "correct": "meet the deadline",
+          "context": "placement test Q25",
+          "date": "2026-10-16"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_present_perfect_result": {
+      "category": "grammar",
+      "subcategory": "present_perfect",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-16",
+      "last_occurred": "2026-10-16",
+      "next_review": "2026-10-17",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I left the office actually",
+          "correct": "I've left the office, actually",
+          "context": "placement test Q37 (present result)",
+          "date": "2026-10-16"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_perk_meaning": {
+      "category": "vocabulary",
+      "subcategory": "word_meaning",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-16",
+      "last_occurred": "2026-10-16",
+      "next_review": "2026-10-17",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "My favourite perk is my salary",
+          "correct": "a perk = a benefit on top of salary (e.g., flexible hours)",
+          "context": "placement test Q39",
+          "date": "2026-10-16"
+        }
+      ],
+      "notes": ""
+    },
+    "phrasal_come_up_with": {
+      "category": "vocabulary",
+      "subcategory": "phrasal_verb",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-16",
+      "last_occurred": "2026-10-16",
+      "next_review": "2026-10-17",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "come across with a better algorithm",
+          "correct": "come up with a better algorithm",
+          "context": "placement test Q42",
+          "date": "2026-10-16"
+        }
+      ],
+      "notes": ""
+    },
+    "idiom_down_to_earth": {
+      "category": "vocabulary",
+      "subcategory": "idiom",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-16",
+      "last_occurred": "2026-10-16",
+      "next_review": "2026-10-17",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "down to world",
+          "correct": "down to earth",
+          "context": "placement test Q53",
+          "date": "2026-10-16"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_gauge": {
+      "category": "vocabulary",
+      "subcategory": "c1_verb",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-16",
+      "last_occurred": "2026-10-16",
+      "next_review": "2026-10-17",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "(blank)",
+          "correct": "gauge the reaction",
+          "context": "placement test Q60",
+          "date": "2026-10-16"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_both_determiner": {
+      "category": "grammar",
+      "subcategory": "determiners",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-19",
+      "last_occurred": "2026-10-19",
+      "next_review": "2026-10-20",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "the both options / these both options",
+          "correct": "both options",
+          "context": "review + real meeting",
+          "date": "2026-10-19"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_third_person_s": {
+      "category": "grammar",
+      "subcategory": "subject_verb_agreement",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-19",
+      "last_occurred": "2026-10-19",
+      "next_review": "2026-10-20",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "when the PM get back",
+          "correct": "when the PM gets back / when they're back",
+          "context": "review item 9",
+          "date": "2026-10-19"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_band_aid_vs_fallback": {
+      "category": "vocabulary",
+      "subcategory": "word_meaning",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-19",
+      "last_occurred": "2026-10-19",
+      "next_review": "2026-10-20",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "not a fallback (meaning quebra-galho)",
+          "correct": "not a band-aid (fallback = planned plan B)",
+          "context": "review item 12",
+          "date": "2026-10-19"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_revisit_the_rate": {
+      "category": "vocabulary",
+      "subcategory": "negotiation",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-19",
+      "last_occurred": "2026-10-19",
+      "next_review": "2026-10-20",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "ask to discuss my rate",
+          "correct": "ask to revisit my rate",
+          "context": "review item 14",
+          "date": "2026-10-19"
+        }
+      ],
+      "notes": ""
+    },
+    "prep_impact_on": {
+      "category": "grammar",
+      "subcategory": "preposition",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-19",
+      "last_occurred": "2026-10-19",
+      "next_review": "2026-10-20",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "my impact in the project",
+          "correct": "my impact on the project",
+          "context": "review item 14",
+          "date": "2026-10-19"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_lets_base_form": {
+      "category": "grammar",
+      "subcategory": "lets_plus_base",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-19",
+      "last_occurred": "2026-10-19",
+      "next_review": "2026-10-20",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Let's includes",
+          "correct": "Let's build",
+          "context": "review item 15",
+          "date": "2026-10-19"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_build_in_buffer": {
+      "category": "vocabulary",
+      "subcategory": "collocation",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-19",
+      "last_occurred": "2026-10-19",
+      "next_review": "2026-10-20",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "include the schedule in a buffer",
+          "correct": "build a buffer into the schedule",
+          "context": "structure reversed",
+          "date": "2026-10-19"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_edge_cases": {
+      "category": "vocabulary",
+      "subcategory": "technical_term",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-19",
+      "last_occurred": "2026-10-19",
+      "next_review": "2026-10-20",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "extreme cases",
+          "correct": "edge cases",
+          "context": "review item 15",
+          "date": "2026-10-19"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_explain_to_me": {
+      "category": "grammar",
+      "subcategory": "verb_pattern",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-19",
+      "last_occurred": "2026-10-19",
+      "next_review": "2026-10-20",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Could you explain me again the refactoring plan?",
+          "correct": "Could you explain the refactoring plan to me again?",
+          "context": "real meeting error, recurs",
+          "date": "2026-10-19"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_question_inversion": {
+      "category": "grammar",
+      "subcategory": "question_formation",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-19",
+      "last_occurred": "2026-10-19",
+      "next_review": "2026-10-20",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Which scheduled tasks we are going to remove?",
+          "correct": "Which scheduled tasks are we going to remove?",
+          "context": "real meeting pattern",
+          "date": "2026-10-19"
+        }
+      ],
+      "notes": ""
+    },
+    "collocation_the_same_as": {
+      "category": "vocabulary",
+      "subcategory": "fixed_expression",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-19",
+      "last_occurred": "2026-10-19",
+      "next_review": "2026-10-20",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "equal to production one",
+          "correct": "the same as production",
+          "context": "real meeting error ('the same of')",
+          "date": "2026-10-19"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_parallelism": {
+      "category": "grammar",
+      "subcategory": "parallel_structure",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-20",
+      "last_occurred": "2026-10-20",
+      "next_review": "2026-10-21",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "a reputation for delivering fast, but also left bugs",
+          "correct": "a reputation for delivering fast, but also for leaving bugs behind",
+          "context": "item 1",
+          "date": "2026-10-20"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_advice_vs_advise": {
+      "category": "grammar",
+      "subcategory": "uncountable_nouns",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-20",
+      "last_occurred": "2026-10-20",
+      "next_review": "2026-10-21",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "a good advice / a advice",
+          "correct": "a good piece of advice / advice",
+          "context": "items 3, 19 (4th session)",
+          "date": "2026-10-20"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_adverb_position": {
+      "category": "grammar",
+      "subcategory": "word_order",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-20",
+      "last_occurred": "2026-10-20",
+      "next_review": "2026-10-21",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "verify first the logs",
+          "correct": "check the logs first",
+          "context": "item 3",
+          "date": "2026-10-20"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_missing_small_words": {
+      "category": "grammar",
+      "subcategory": "dropped_function_words",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-20",
+      "last_occurred": "2026-10-20",
+      "next_review": "2026-10-21",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "This a general overview / because the edge cases / let me know it I",
+          "correct": "This is a... / because of the... / let me know and I'll",
+          "context": "items 6, 7, 20",
+          "date": "2026-10-20"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_word_order_noun_adjective": {
+      "category": "grammar",
+      "subcategory": "word_order",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-20",
+      "last_occurred": "2026-10-20",
+      "next_review": "2026-10-21",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "the Job scheduled run / a buffer of 2 days in the scheduled",
+          "correct": "when the scheduled job runs / a two-day buffer into the schedule",
+          "context": "items 7, 10",
+          "date": "2026-10-20"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_absolute_vs_absolutely": {
+      "category": "grammar",
+      "subcategory": "adjective_vs_adverb",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-20",
+      "last_occurred": "2026-10-20",
+      "next_review": "2026-10-21",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "an absolutely disaster / The yesterday's deployment",
+          "correct": "an absolute disaster / Yesterday's deployment",
+          "context": "item 11",
+          "date": "2026-10-20"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_find_vs_find_out": {
+      "category": "vocabulary",
+      "subcategory": "word_choice",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-20",
+      "last_occurred": "2026-10-20",
+      "next_review": "2026-10-21",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "When I found out the bug",
+          "correct": "When I found the bug (find out = information)",
+          "context": "item 12",
+          "date": "2026-10-20"
+        }
+      ],
+      "notes": ""
+    },
+    "false_cognate_conciliation": {
+      "category": "vocabulary",
+      "subcategory": "false_cognate",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-20",
+      "last_occurred": "2026-10-20",
+      "next_review": "2026-10-21",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "conciliation reports",
+          "correct": "reconciliation reports",
+          "context": "item 13",
+          "date": "2026-10-20"
         }
       ],
       "notes": ""

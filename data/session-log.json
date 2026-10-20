@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 8
+    "total_sessions": 11
   },
   "sessions": [
     {
@@ -264,6 +264,103 @@
         "appreciate IT if"
       ],
       "notes": "Review 16/44 (stopped at item 17 on learner request). Avg 7.1/10. Streak 2. Clear declarative vs procedural gap: rule correct in fill-in, fails in free translation under divided attention. Avoidance observed twice (reputation, depreciate). Typos/fatigue at end. Commitment (8 sentences) not delivered yet.",
+      "achievements_earned": [],
+      "streak_day": 2
+    },
+    {
+      "session_id": "session-009",
+      "date": "2026-10-16",
+      "duration_minutes": 46,
+      "skills_practiced": [
+        "grammar",
+        "vocabulary"
+      ],
+      "command_used": "external-assessment",
+      "exercises_completed": 60,
+      "accuracy": 0.817,
+      "score_breakdown": {
+        "grammar": 0.9,
+        "vocabulary": 0.733
+      },
+      "topics_covered": [
+        "placement_test"
+      ],
+      "breakthroughs": [
+        "Placement test: 49/60 (~82%), confirmed B2",
+        "Strong on tenses, conditionals (3rd), passives, question tags, C1 items: outweigh, broaden horizons, get point across, fill in"
+      ],
+      "focus_next_session": [
+        "Business collocations: meet a deadline, place an order, find/come up with a solution",
+        "little vs few (uncountables)",
+        "Irregular past participles"
+      ],
+      "notes": "External placement test (60 items, 45:41). Result B2. 10 wrong + 1 blank. 6 of 11 misses are collocations — the main B2→C1 gap. Q47 'few information' is the same uncountable pattern as review sessions.",
+      "achievements_earned": [],
+      "streak_day": 1
+    },
+    {
+      "session_id": "session-010",
+      "date": "2026-10-19",
+      "duration_minutes": 30,
+      "skills_practiced": [
+        "grammar",
+        "vocabulary"
+      ],
+      "command_used": "/fluent-review",
+      "exercises_completed": 19,
+      "accuracy": 0.474,
+      "score_breakdown": {
+        "grammar": 0.5,
+        "vocabulary": 0.444
+      },
+      "topics_covered": [],
+      "breakthroughs": [
+        "was/were fixed (10/10)",
+        "It took me + adapt to (10/10)",
+        "First free-production 'open to testing' + 'looking forward to listening'",
+        "First correct 'appreciate IT if'",
+        "Senior-sounding question: 'Is this CSV process used in production as a fallback...?' (9/10)",
+        "query the database / both options fixed from real meeting"
+      ],
+      "focus_next_session": [
+        "Uncountables: little information, some advice (3 consecutive misses)",
+        "Question inversion + explain X to me",
+        "need TO under load; hyphens in writing"
+      ],
+      "notes": "Review 20/77 (item 5 pronunciation skipped 2nd time, unscored). Avg 6.8/10 on 19 scored items. Items 18-20 used learner's real meeting errors. Lesson 1 (status updates) baseline taken before review: 6/10 — no fillers, gave ETA, but calque 'raising the classes' and missing DONE/BLOCKER. Round 2 pending.",
+      "achievements_earned": [],
+      "streak_day": 1
+    },
+    {
+      "session_id": "session-011",
+      "date": "2026-10-20",
+      "duration_minutes": 30,
+      "skills_practiced": [
+        "grammar",
+        "vocabulary"
+      ],
+      "command_used": "/fluent-review",
+      "exercises_completed": 19,
+      "accuracy": 0.263,
+      "score_breakdown": {
+        "grammar": 0.3,
+        "vocabulary": 0.222
+      },
+      "topics_covered": [],
+      "breakthroughs": [
+        "First full 'has a reputation for delivering'",
+        "First 'up to speed' (prep pending)",
+        "information without -s for the first time",
+        "Full 'I would appreciate it if' with would + it",
+        "Senior sentence: 'We need to revisit the deadline with the PM before moving forward with the refactoring' (10/10)",
+        "board, known for + -ing, -ed vs -ing adjectives, get back from: all correct"
+      ],
+      "focus_next_session": [
+        "advice (uncountable) + ask someone FOR something",
+        "complain TO someone ABOUT something",
+        "Hyphenated compound adjectives (long-term, two-day, month-end)"
+      ],
+      "notes": "Review 20/85. Avg 6.3/10 on 19 scored items. Learner prefers pronunciation practice in voice lessons only; skip pronunciation items in text review. Learner asked why 'before moving forward' (answered: before = preposition + -ing or conjunction + clause).",
       "achievements_earned": [],
       "streak_day": 2
     }
