@@ -2,7 +2,9 @@
 
 # 2-Week Plan — Meeting English (10 lessons × 30 min) — IN PROGRESS
 
-**Status (2026-10-20):** ✅ L1 done (voice, 33 min; fluency 7, accuracy 7, seniority 7). **Next: L2 (questions with auxiliaries + inversion, explain X TO me).**
+**Status (2026-10-21):** ✅ L1 done (Oct 20) · ✅ L2 done (Oct 21, voice 25 min; warm-up 10/10; 7/7/7). **Next: finish L2 block 4 (evidence-based pushback to business), then L3.**
+
+**Week-2 goals (measurable):** (1) zero questions without an auxiliary in the daily, ≤1 per working session; (2) no status update ends with "I don't know" — turn doubts into questions.
 
 Format: English with short Portuguese notes. One step at a time; wait for the answer; correct grammar, naturalness and how senior it sounds.
 Every lesson: warm-up drill (5) → core skill (10) → role-play as the lead or PM, fast and slightly ambiguous (10) → "say this tomorrow", 3 sentences (5).
@@ -28,8 +30,8 @@ Every lesson: warm-up drill (5) → core skill (10) → role-play as the lead or
 ## Error tracker (baseline from real meetings, week of Oct 13)
 | Pattern | Baseline | Latest |
 |---|---|---|
-| Vague status update / fillers | high | Oct 20 (L1): R1 5 fillers → R2 0 fillers → R3 ~10 repetitions, no date |
-| Question without auxiliary/subject | 3 | Oct 19: 2/3 · Oct 20: right in drills, wrong under pressure ("What exactly I need...") |
+| Vague status update / fillers | high | Real meetings wk 2: facts ✅ right question ✅, restarts + ended with "I don't know" · Oct 21 lesson: no "I don't know", date after 1 prompt, ~8 restarts |
+| Question without auxiliary/subject | 3 | Real meetings wk 2: 3 (no change) · Oct 21 lesson: warm-up 10/10, role-play 0 missing (1 malformed: "Can you have a documentation?") |
 | explain me | 1 | Oct 19: 1 miss · Oct 20: 2 misses, then right |
 | Restarts / repeated verbs | 2 | Oct 20: R3 ~10 repetitions in a 45 s answer |
 | Prepositions / fixed expressions (in production, the same as, need to) | 7 | Oct 19: in production ✅, query ✅, both ✅, the same as ✗, need to 1/2 |

@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 13
+    "total_sessions": 14
   },
   "sessions": [
     {
@@ -430,6 +430,40 @@
         "Idioms from placement test: down to earth, perk, gauge"
       ],
       "notes": "Review 20/96 (pronunciation excluded per preference). Avg 7.3/10, best in 4 review sessions. Streak 3. Placement-test items reviewed for the first time: 7/9 correct or near-correct.",
+      "achievements_earned": [],
+      "streak_day": 3
+    },
+    {
+      "session_id": "session-014",
+      "date": "2026-10-21",
+      "duration_minutes": 25,
+      "skills_practiced": [
+        "speaking"
+      ],
+      "command_used": "voice-claude-chat",
+      "exercises_completed": 18,
+      "accuracy": 0.778,
+      "score_breakdown": {
+        "speaking": 0.778
+      },
+      "topics_covered": [
+        "question_auxiliaries_warmup",
+        "sprint_planning_roleplay",
+        "explain_problem_60s",
+        "business_question"
+      ],
+      "breakthroughs": [
+        "Warm-up 10/10, trap caught (subject question)",
+        "0 fully missing auxiliaries in role-plays",
+        "No 'I don't know'; committed to Thursday + partial finding by Wednesday",
+        "Business explanation: 35 s/jargon (5/10) → 20 s/no jargon (8/10)"
+      ],
+      "focus_next_session": [
+        "Evidence-based pushback to business (skipped block)",
+        "Retest final /dʒ/ sound",
+        "Commit to a date in the FIRST answer; cut restarts"
+      ],
+      "notes": "Voice lesson, plan L2 of 10 (questions) adapted for sprint planning. ~25 min, blocks 1-3 complete, 4 partial, 5 built by tutor. Fluency 7, accuracy 7, seniority 7 (range 6-8). Exercise counts estimated.",
       "achievements_earned": [],
       "streak_day": 3
     }
