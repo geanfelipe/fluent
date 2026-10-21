@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 12
+    "total_sessions": 13
   },
   "sessions": [
     {
@@ -398,6 +398,40 @@
       "notes": "Voice lesson, plan Lesson 1 of 10 (status updates). Fluency 7, accuracy 7, seniority 7. Status rounds: R1 ~35 s/5 fillers/seniority 5; R2 ~20 s/0 fillers/7; R3 ~45 s/~10 repetitions/7, no date. Exercise counts estimated from accuracy 7/10. Next: Lesson 2 (questions).",
       "achievements_earned": [],
       "streak_day": 2
+    },
+    {
+      "session_id": "session-013",
+      "date": "2026-10-21",
+      "duration_minutes": 30,
+      "skills_practiced": [
+        "grammar",
+        "vocabulary"
+      ],
+      "command_used": "/fluent-review",
+      "exercises_completed": 20,
+      "accuracy": 0.5,
+      "score_breakdown": {
+        "grammar": 0.333,
+        "vocabulary": 0.571
+      },
+      "topics_covered": [],
+      "breakthroughs": [
+        "some advice + some information both correct (4 sessions of errors)",
+        "ask QA for feedback on (structure fixed)",
+        "merger vs merge, close the books, month-end close",
+        "explain TO me fixed (real meeting error)",
+        "What do you think about / How do you feel about: 10/10",
+        "meet the deadline, I've already left, came up with — placement-test items fixed",
+        "Best review average in 4 sessions: 7.3/10"
+      ],
+      "focus_next_session": [
+        "Direct wh- question inversion (What DO I need...?) vs indirect (what I need)",
+        "Negation needs an auxiliary (hasn't written)",
+        "Idioms from placement test: down to earth, perk, gauge"
+      ],
+      "notes": "Review 20/96 (pronunciation excluded per preference). Avg 7.3/10, best in 4 review sessions. Streak 3. Placement-test items reviewed for the first time: 7/9 correct or near-correct.",
+      "achievements_earned": [],
+      "streak_day": 3
     }
   ],
   "milestones": [
