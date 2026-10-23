@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-21",
+    "last_updated": "2026-10-23",
     "language": "English"
   },
   "skills": {
@@ -20,11 +20,11 @@
     },
     "vocabulary": {
       "mastery_level": 2,
-      "confidence_score": 0.472,
-      "total_practice_time": 109,
-      "last_practiced": "2026-10-21",
-      "practice_count": 88,
-      "avg_accuracy": 0.472
+      "confidence_score": 0.491,
+      "total_practice_time": 123,
+      "last_practiced": "2026-10-23",
+      "practice_count": 96,
+      "avg_accuracy": 0.491
     },
     "reading": {
       "mastery_level": 1,
@@ -42,11 +42,11 @@
     },
     "grammar": {
       "mastery_level": 2,
-      "confidence_score": 0.52,
-      "total_practice_time": 90,
-      "last_practiced": "2026-10-21",
-      "practice_count": 74,
-      "avg_accuracy": 0.52
+      "confidence_score": 0.518,
+      "total_practice_time": 111,
+      "last_practiced": "2026-10-23",
+      "practice_count": 86,
+      "avg_accuracy": 0.518
     },
     "pronunciation": {
       "mastery_level": 1,
