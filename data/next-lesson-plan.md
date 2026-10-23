@@ -2,7 +2,7 @@
 
 # 2-Week Plan — Meeting English (10 lessons × 30 min) — IN PROGRESS
 
-**Status (2026-10-21):** ✅ L1 done (Oct 20) · ✅ L2 done (Oct 21, voice 25 min; warm-up 10/10; 7/7/7). **Next: finish L2 block 4 (evidence-based pushback to business), then L3.**
+**Status (2026-10-21):** ✅ L1 done (Oct 20) · ✅ L2 done (Oct 21, voice 25 min; warm-up 10/10; 7/7/7). **Next: L3 (restarts & small words)** — warm-up partly done in review 015. L2 block 4 (evidence-based pushback) still pending.
 
 **Week-2 goals (measurable):** (1) zero questions without an auxiliary in the daily, ≤1 per working session; (2) no status update ends with "I don't know" — turn doubts into questions.
 
@@ -33,9 +33,10 @@ Every lesson: warm-up drill (5) → core skill (10) → role-play as the lead or
 | Vague status update / fillers | high | Real meetings wk 2: facts ✅ right question ✅, restarts + ended with "I don't know" · Oct 21 lesson: no "I don't know", date after 1 prompt, ~8 restarts |
 | Question without auxiliary/subject | 3 | Real meetings wk 2: 3 (no change) · Oct 21 lesson: warm-up 10/10, role-play 0 missing (1 malformed: "Can you have a documentation?") |
 | explain me | 1 | Oct 19: 1 miss · Oct 20: 2 misses, then right |
-| Restarts / repeated verbs | 2 | Oct 20: R3 ~10 repetitions in a 45 s answer |
-| Prepositions / fixed expressions (in production, the same as, need to) | 7 | Oct 19: in production ✅, query ✅, both ✅, the same as ✗, need to 1/2 |
+| Restarts / repeated verbs | 2 | Oct 20: R3 ~10 repetitions · real meeting Oct 21: 3 restarts in one sentence + "I don't know" · Oct 23 review: doubt → direct question ✅ |
+| Prepositions / fixed expressions (in production, the same as, need to) | 7 | Oct 23: at runtime ✅, both ✅, the same as ✅, impact on ✅ · still: on Thursday, split into, think of |
 | Word forms (refactoring, scheduled task) | 3 | Oct 19: ✅✅ |
+| Small words dropped (is, it, the, of, then) | — | Oct 23: 6 dropped in one sentence — top priority |
 
 ## Domain vocabulary
 Domain-specific terms are kept in the conversation only (privacy). Generic dev terms: baseline, regression, fixture, suite, toggle, rollback, backfill, fallback, band-aid, edge case, SLA.

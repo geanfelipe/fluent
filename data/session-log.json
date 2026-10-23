@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 14
+    "total_sessions": 15
   },
   "sessions": [
     {
@@ -466,6 +466,39 @@
       "notes": "Voice lesson, plan L2 of 10 (questions) adapted for sprint planning. ~25 min, blocks 1-3 complete, 4 partial, 5 built by tutor. Fluency 7, accuracy 7, seniority 7 (range 6-8). Exercise counts estimated.",
       "achievements_earned": [],
       "streak_day": 3
+    },
+    {
+      "session_id": "session-015",
+      "date": "2026-10-23",
+      "duration_minutes": 35,
+      "skills_practiced": [
+        "grammar",
+        "vocabulary"
+      ],
+      "command_used": "/fluent-review",
+      "exercises_completed": 20,
+      "accuracy": 0.55,
+      "score_breakdown": {
+        "grammar": 0.5,
+        "vocabulary": 0.625
+      },
+      "topics_covered": [],
+      "breakthroughs": [
+        "Direct + indirect question discrimination: Where does... / explain to me where... gets",
+        "at runtime (real meeting error) fixed",
+        "My teammate finishes (3rd person -s) fixed from real meeting",
+        "both options + the same as production fixed (real meeting)",
+        "gauge, merger/merge, impact on: 10/10",
+        "Doubt turned into a direct question: 'Should I open a new task...?'"
+      ],
+      "focus_next_session": [
+        "Small words: is, it, the, of, then (6 dropped in one sentence)",
+        "Compound adjectives instead of 'of' (a two-day spike, a low-risk fix)",
+        "Parallelism after 'a reputation for'"
+      ],
+      "notes": "Review 20/106; restarted from item 1 (yesterday's session abandoned before item 1). Avg 7.3/10 (55% → 76% by item 15). Streak reset to 1 (no session Oct 22). Also logged real-meeting errors from the learner's Oct 21 report (restarts, double hedging, prepositions). Lesson 3 warm-up items 2, 3 and 5 reused here; L3 still pending.",
+      "achievements_earned": [],
+      "streak_day": 1
     }
   ],
   "milestones": [

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-10-21",
-    "total_patterns_tracked": 85,
+    "last_updated": "2026-10-23",
+    "total_patterns_tracked": 96,
     "language": "English"
   },
   "error_patterns": {
@@ -585,21 +585,15 @@
       "subcategory": "hyphenation",
       "description": "",
       "severity": "minor",
-      "frequency": 5,
+      "frequency": 6,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-21",
-      "last_occurred": "2026-10-21",
-      "next_review": "2026-10-22",
+      "last_seen": "2026-10-23",
+      "last_occurred": "2026-10-23",
+      "next_review": "2026-10-24",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 5,
+      "consecutive_incorrect": 6,
       "examples": [
-        {
-          "incorrect": "non technical",
-          "correct": "non-technical",
-          "context": "review (2x)",
-          "date": "2026-10-07"
-        },
         {
           "incorrect": "non technical analysts / steakholders",
           "correct": "non-technical analysts / stakeholders",
@@ -623,6 +617,12 @@
           "correct": "month-end close / high-level review",
           "context": "item 3 (long-term correct)",
           "date": "2026-10-21"
+        },
+        {
+          "incorrect": "a spike of two days and a correction of low risk",
+          "correct": "a two-day spike and a low-risk fix",
+          "context": "item 1 (Portuguese 'de' structure)",
+          "date": "2026-10-23"
         }
       ],
       "notes": ""
@@ -1148,14 +1148,14 @@
       "subcategory": "verb_pattern",
       "description": "",
       "severity": "moderate",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-20",
-      "last_occurred": "2026-10-20",
-      "next_review": "2026-10-21",
+      "last_seen": "2026-10-23",
+      "last_occurred": "2026-10-23",
+      "next_review": "2026-10-24",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "ask some advices for the layers team",
@@ -1168,6 +1168,12 @@
           "correct": "ask the legal team for advice",
           "context": "item 19 (2nd time)",
           "date": "2026-10-20"
+        },
+        {
+          "incorrect": "ask feedbacks to the lead",
+          "correct": "ask the lead for feedback",
+          "context": "item 4 (regression)",
+          "date": "2026-10-23"
         }
       ],
       "notes": ""
@@ -1431,14 +1437,14 @@
       "subcategory": "idiom",
       "description": "",
       "severity": "minor",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-21",
-      "last_occurred": "2026-10-21",
-      "next_review": "2026-10-22",
+      "last_seen": "2026-10-23",
+      "last_occurred": "2026-10-23",
+      "next_review": "2026-10-24",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "down to world",
@@ -1451,6 +1457,12 @@
           "correct": "Our lead is very down to earth",
           "context": "item 19",
           "date": "2026-10-21"
+        },
+        {
+          "incorrect": "very earth-down",
+          "correct": "very down to earth",
+          "context": "item 3",
+          "date": "2026-10-23"
         }
       ],
       "notes": ""
@@ -1512,20 +1524,26 @@
       "subcategory": "subject_verb_agreement",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-19",
-      "last_occurred": "2026-10-19",
-      "next_review": "2026-10-20",
+      "last_seen": "2026-10-23",
+      "last_occurred": "2026-10-23",
+      "next_review": "2026-10-24",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "when the PM get back",
           "correct": "when the PM gets back / when they're back",
           "context": "review item 9",
           "date": "2026-10-19"
+        },
+        {
+          "incorrect": "until the accounting team close the books",
+          "correct": "until the accounting team closes the books",
+          "context": "item 6 (team = singular)",
+          "date": "2026-10-23"
         }
       ],
       "notes": ""
@@ -1772,20 +1790,26 @@
       "subcategory": "parallel_structure",
       "description": "",
       "severity": "minor",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-20",
-      "last_occurred": "2026-10-20",
-      "next_review": "2026-10-21",
+      "last_seen": "2026-10-23",
+      "last_occurred": "2026-10-23",
+      "next_review": "2026-10-24",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "a reputation for delivering fast, but also left bugs",
           "correct": "a reputation for delivering fast, but also for leaving bugs behind",
           "context": "item 1",
           "date": "2026-10-20"
+        },
+        {
+          "incorrect": "a reputation of being slow and break",
+          "correct": "a reputation for being slow and getting stuck",
+          "context": "item 17 (2nd time)",
+          "date": "2026-10-23"
         }
       ],
       "notes": ""
@@ -1841,14 +1865,14 @@
       "subcategory": "dropped_function_words",
       "description": "",
       "severity": "moderate",
-      "frequency": 3,
+      "frequency": 4,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-21",
-      "last_occurred": "2026-10-21",
-      "next_review": "2026-10-22",
+      "last_seen": "2026-10-23",
+      "last_occurred": "2026-10-23",
+      "next_review": "2026-10-24",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 3,
+      "consecutive_incorrect": 4,
       "examples": [
         {
           "incorrect": "This a general overview / because the edge cases / let me know it I",
@@ -1867,6 +1891,12 @@
           "correct": "At tomorrow's stand-up, I'll... / The accounting team is still closing",
           "context": "items 1, 10",
           "date": "2026-10-21"
+        },
+        {
+          "incorrect": "This a issue high level overview. I'll explain to PM and next send to the team",
+          "correct": "This is a high-level overview of the issue. I'll explain it to the PM and then send it to the team.",
+          "context": "item 19 (6 small words dropped)",
+          "date": "2026-10-23"
         }
       ],
       "notes": ""
@@ -1876,20 +1906,26 @@
       "subcategory": "word_order",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-20",
-      "last_occurred": "2026-10-20",
-      "next_review": "2026-10-21",
+      "last_seen": "2026-10-23",
+      "last_occurred": "2026-10-23",
+      "next_review": "2026-10-24",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "the Job scheduled run / a buffer of 2 days in the scheduled",
           "correct": "when the scheduled job runs / a two-day buffer into the schedule",
           "context": "items 7, 10",
           "date": "2026-10-20"
+        },
+        {
+          "incorrect": "the environment test",
+          "correct": "the test environment",
+          "context": "item 13",
+          "date": "2026-10-23"
         }
       ],
       "notes": ""
@@ -2316,6 +2352,259 @@
           "correct": "new to this issue",
           "context": "role-play",
           "date": "2026-10-21"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_double_negation_question": {
+      "category": "grammar",
+      "subcategory": "negative_questions",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-23",
+      "last_occurred": "2026-10-23",
+      "next_review": "2026-10-24",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Why don't the debit and credit don't match?",
+          "correct": "Why don't the debit and credit match?",
+          "context": "item 2",
+          "date": "2026-10-23"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_commute": {
+      "category": "vocabulary",
+      "subcategory": "word_choice",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-23",
+      "last_occurred": "2026-10-23",
+      "next_review": "2026-10-24",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "not going to take traffic",
+          "correct": "not having to commute",
+          "context": "item 3",
+          "date": "2026-10-23"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_missing_object_it": {
+      "category": "grammar",
+      "subcategory": "dropped_object",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-23",
+      "last_occurred": "2026-10-23",
+      "next_review": "2026-10-24",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I will replicate on test / sent to the lead / hasn't read yet",
+          "correct": "replicate it in the test / sent it to the lead / hasn't read it yet",
+          "context": "items 4, 9, 19 + real meeting",
+          "date": "2026-10-23"
+        }
+      ],
+      "notes": ""
+    },
+    "conn_since_vs_when": {
+      "category": "grammar",
+      "subcategory": "connectors",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-23",
+      "last_occurred": "2026-10-23",
+      "next_review": "2026-10-24",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "When the lead approved the design, let's...",
+          "correct": "Since the lead approved the design, let's...",
+          "context": "item 5 (cause, not time)",
+          "date": "2026-10-23"
+        }
+      ],
+      "notes": ""
+    },
+    "prep_think_of": {
+      "category": "grammar",
+      "subcategory": "preposition",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-23",
+      "last_occurred": "2026-10-23",
+      "next_review": "2026-10-24",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Has anyone thought anything?",
+          "correct": "Has anyone thought of anything?",
+          "context": "item 10",
+          "date": "2026-10-23"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_prefer_not_to": {
+      "category": "grammar",
+      "subcategory": "verb_pattern",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-23",
+      "last_occurred": "2026-10-23",
+      "next_review": "2026-10-24",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "prefer no manual step",
+          "correct": "prefer not to have any manual steps",
+          "context": "item 11",
+          "date": "2026-10-23"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_in_case_vs_in_case_of": {
+      "category": "grammar",
+      "subcategory": "connectors",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-23",
+      "last_occurred": "2026-10-23",
+      "next_review": "2026-10-24",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "in case of deploy fails",
+          "correct": "in case the deploy fails",
+          "context": "item 14",
+          "date": "2026-10-23"
+        }
+      ],
+      "notes": ""
+    },
+    "prep_on_days_split_into": {
+      "category": "grammar",
+      "subcategory": "preposition",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-23",
+      "last_occurred": "2026-10-23",
+      "next_review": "2026-10-24",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "split the task in two parts... in the Thursday",
+          "correct": "split the task into two parts... on Thursday",
+          "context": "item 16",
+          "date": "2026-10-23"
+        }
+      ],
+      "notes": ""
+    },
+    "fluency_restarts_live": {
+      "category": "fluency",
+      "subcategory": "restarts",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-23",
+      "last_occurred": "2026-10-23",
+      "next_review": "2026-10-24",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "So I believe, I don't know if I can, if we I can move.",
+          "correct": "This task is done, so I'll move it to Done. Should I open a new task for the CSV test?",
+          "context": "real meeting Oct 21 (sprint planning)",
+          "date": "2026-10-23"
+        }
+      ],
+      "notes": ""
+    },
+    "fluency_double_hedging": {
+      "category": "fluency",
+      "subcategory": "hedging",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-23",
+      "last_occurred": "2026-10-23",
+      "next_review": "2026-10-24",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "To be honest, this is my first option, I believe.",
+          "correct": "Honestly, I'd go with the first option.",
+          "context": "real meeting Oct 21",
+          "date": "2026-10-23"
+        }
+      ],
+      "notes": ""
+    },
+    "prep_at_runtime_by_system": {
+      "category": "grammar",
+      "subcategory": "preposition",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-23",
+      "last_occurred": "2026-10-23",
+      "next_review": "2026-10-24",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "filled by manually or [the system] / on runtime / into the database",
+          "correct": "set manually or by the system / at runtime / to the database",
+          "context": "real meeting Oct 21",
+          "date": "2026-10-23"
         }
       ],
       "notes": ""
