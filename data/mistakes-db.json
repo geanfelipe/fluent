@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_updated": "2026-10-24",
-    "total_patterns_tracked": 117,
+    "total_patterns_tracked": 121,
     "language": "English"
   },
   "error_patterns": {
@@ -858,21 +858,15 @@
       "subcategory": "uncountable_nouns",
       "description": "",
       "severity": "moderate",
-      "frequency": 7,
+      "frequency": 8,
       "mastery_level": 0,
       "difficulty_score": 0.5,
       "last_seen": "2026-10-24",
       "last_occurred": "2026-10-24",
       "next_review": "2026-10-25",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 7,
+      "consecutive_incorrect": 8,
       "examples": [
-        {
-          "incorrect": "more informations and some advises",
-          "correct": "more information and some advice",
-          "context": "item 7 (repeat)",
-          "date": "2026-10-14"
-        },
         {
           "incorrect": "very few information",
           "correct": "very little information",
@@ -895,6 +889,12 @@
           "incorrect": "calls a Java code",
           "correct": "calls Java code / calls a Java class",
           "context": "Step 3 explanation",
+          "date": "2026-10-24"
+        },
+        {
+          "incorrect": "These data with the QA",
+          "correct": "this data with the QA team",
+          "context": "voice L3",
           "date": "2026-10-24"
         }
       ],
@@ -1865,21 +1865,15 @@
       "subcategory": "dropped_function_words",
       "description": "",
       "severity": "moderate",
-      "frequency": 6,
+      "frequency": 7,
       "mastery_level": 0,
       "difficulty_score": 0.5,
       "last_seen": "2026-10-24",
       "last_occurred": "2026-10-24",
       "next_review": "2026-10-25",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 6,
+      "consecutive_incorrect": 7,
       "examples": [
-        {
-          "incorrect": "by tomorrow meeting / the tomorrow meeting",
-          "correct": "by tomorrow's meeting / in tomorrow's meeting",
-          "context": "status update round 3",
-          "date": "2026-10-20"
-        },
         {
           "incorrect": "Tomorrow's meeting I will... / The accounting team still closing",
           "correct": "At tomorrow's stand-up, I'll... / The accounting team is still closing",
@@ -1902,6 +1896,12 @@
           "incorrect": "by tomorrows meeting",
           "correct": "by tomorrow's meeting",
           "context": "word 19",
+          "date": "2026-10-24"
+        },
+        {
+          "incorrect": "After, I will review with the team / If issue comes up",
+          "correct": "After that, I'll review it with the team / If an issue comes up",
+          "context": "voice L3 small-words warm-up",
           "date": "2026-10-24"
         }
       ],
@@ -3099,6 +3099,98 @@
           "incorrect": "No blockers at this moment. But I'll let you know in case of anything",
           "correct": "No blockers at the moment. I'll flag anything as it comes up",
           "context": "word 17",
+          "date": "2026-10-24"
+        }
+      ],
+      "notes": ""
+    },
+    "fluency_incomplete_sentence": {
+      "category": "fluency",
+      "subcategory": "incomplete_output",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "We review the requirements with the architect and before...",
+          "correct": "I'll review the requirements with the architect before starting implementation.",
+          "context": "voice L3: gives part of the sentence, needs prompting to finish",
+          "date": "2026-10-24"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_notify_the_team": {
+      "category": "vocabulary",
+      "subcategory": "naturalness",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I will report to the team",
+          "correct": "I'll notify the team immediately",
+          "context": "voice L3",
+          "date": "2026-10-24"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_every_all": {
+      "category": "grammar",
+      "subcategory": "quantifiers",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Document every all process",
+          "correct": "We'll document all processes",
+          "context": "voice L3",
+          "date": "2026-10-24"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_ensure_traceability": {
+      "category": "vocabulary",
+      "subcategory": "professional_vocabulary",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "guarantee the tracking",
+          "correct": "ensure traceability",
+          "context": "voice L3",
           "date": "2026-10-24"
         }
       ],
