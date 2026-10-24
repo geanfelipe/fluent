@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 16
+    "total_sessions": 17
   },
   "sessions": [
     {
@@ -535,6 +535,35 @@
         "Small words: deliver IT to you"
       ],
       "notes": "Lesson from learner's report (Oct 21 Lesson 2 + evening free talk). Steps 1-4 of 6 done (Step 4 round 2, pronunciation and 'say this tomorrow' pending); learner switched to /fluent-vocab. Also answered question on phrasal verbs with 'around'. Evening free talk (tired, 11 pm) errors logged here.",
+      "achievements_earned": [],
+      "streak_day": 2
+    },
+    {
+      "session_id": "session-017",
+      "date": "2026-10-24",
+      "duration_minutes": 25,
+      "skills_practiced": [
+        "vocabulary"
+      ],
+      "command_used": "/fluent-vocab",
+      "exercises_completed": 20,
+      "accuracy": 0.6,
+      "score_breakdown": {
+        "vocabulary": 0.6
+      },
+      "topics_covered": [],
+      "breakthroughs": [
+        "Accuracy 79% (best vocab session)",
+        "the board, zero breaks, legal team, settle the debt, struggle with, a good fit, present to the nontechnical stakeholders on Thursday: 10/10",
+        "on Friday / on Thursday: day prepositions fixed",
+        "Asked why 'struck' has no -s — strong metalinguistic awareness"
+      ],
+      "focus_next_session": [
+        "touch base / catch up on",
+        "still within scope / budget constraints",
+        "negotiate (new) vs revisit (existing)"
+      ],
+      "notes": "Vocab drill 20/47 due vocab items, avg 7.9/10. Modes rotated (production/cloze/recognition). Learner question answered: strike/struck/struck, -s only in present.",
       "achievements_earned": [],
       "streak_day": 2
     }

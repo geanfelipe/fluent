@@ -20,11 +20,11 @@
     },
     "vocabulary": {
       "mastery_level": 2,
-      "confidence_score": 0.489,
-      "total_practice_time": 133,
+      "confidence_score": 0.5,
+      "total_practice_time": 158,
       "last_practiced": "2026-10-24",
-      "practice_count": 113,
-      "avg_accuracy": 0.489
+      "practice_count": 133,
+      "avg_accuracy": 0.5
     },
     "reading": {
       "mastery_level": 1,

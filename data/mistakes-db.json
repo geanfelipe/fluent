@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_updated": "2026-10-24",
-    "total_patterns_tracked": 110,
+    "total_patterns_tracked": 117,
     "language": "English"
   },
   "error_patterns": {
@@ -1865,21 +1865,15 @@
       "subcategory": "dropped_function_words",
       "description": "",
       "severity": "moderate",
-      "frequency": 5,
+      "frequency": 6,
       "mastery_level": 0,
       "difficulty_score": 0.5,
       "last_seen": "2026-10-24",
       "last_occurred": "2026-10-24",
       "next_review": "2026-10-25",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 5,
+      "consecutive_incorrect": 6,
       "examples": [
-        {
-          "incorrect": "This a general overview / because the edge cases / let me know it I",
-          "correct": "This is a... / because of the... / let me know and I'll",
-          "context": "items 6, 7, 20",
-          "date": "2026-10-20"
-        },
         {
           "incorrect": "by tomorrow meeting / the tomorrow meeting",
           "correct": "by tomorrow's meeting / in tomorrow's meeting",
@@ -1902,6 +1896,12 @@
           "incorrect": "in the tomorrows session",
           "correct": "in tomorrow's session",
           "context": "warm-up #9",
+          "date": "2026-10-24"
+        },
+        {
+          "incorrect": "by tomorrows meeting",
+          "correct": "by tomorrow's meeting",
+          "context": "word 19",
           "date": "2026-10-24"
         }
       ],
@@ -2938,6 +2938,167 @@
           "incorrect": "we took some time together",
           "correct": "we spent some time together",
           "context": "evening free talk Oct 21",
+          "date": "2026-10-24"
+        }
+      ],
+      "notes": ""
+    },
+    "false_friend_lose_vs_miss": {
+      "category": "vocabulary",
+      "subcategory": "false_friend",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I lost the meeting",
+          "correct": "I missed the meeting",
+          "context": "word 1",
+          "date": "2026-10-24"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_hang_vs_get_stuck": {
+      "category": "vocabulary",
+      "subcategory": "word_meaning",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "hang = demorar",
+          "correct": "hang = freeze/stop responding; be slow = demorar",
+          "context": "word 3",
+          "date": "2026-10-24"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_negotiate_vs_revisit": {
+      "category": "vocabulary",
+      "subcategory": "collocation",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I'll revisit a higher salary, considering my efforts",
+          "correct": "I'll negotiate a higher salary, given my efforts",
+          "context": "word 6",
+          "date": "2026-10-24"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_within_scope": {
+      "category": "vocabulary",
+      "subcategory": "collocation",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "inside of scope / budget restrictions",
+          "correct": "still within scope / budget constraints",
+          "context": "word 9",
+          "date": "2026-10-24"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_to_infinitive_overcorrection": {
+      "category": "grammar",
+      "subcategory": "infinitive_vs_gerund",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "ask the legal team to reviewing the contract",
+          "correct": "ask the legal team to review the contract",
+          "context": "word 11 (U-shaped learning)",
+          "date": "2026-10-24"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_catch_up_touch_base": {
+      "category": "vocabulary",
+      "subcategory": "phrasal_expression",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Let's talk on Friday, to update about the project",
+          "correct": "Let's touch base on Friday to catch up on the project",
+          "context": "word 14 (on Friday correct)",
+          "date": "2026-10-24"
+        }
+      ],
+      "notes": ""
+    },
+    "calque_in_case_of_anything": {
+      "category": "vocabulary",
+      "subcategory": "calque",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "No blockers at this moment. But I'll let you know in case of anything",
+          "correct": "No blockers at the moment. I'll flag anything as it comes up",
+          "context": "word 17",
           "date": "2026-10-24"
         }
       ],
