@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 17
+    "total_sessions": 18
   },
   "sessions": [
     {
@@ -564,6 +564,36 @@
         "negotiate (new) vs revisit (existing)"
       ],
       "notes": "Vocab drill 20/47 due vocab items, avg 7.9/10. Modes rotated (production/cloze/recognition). Learner question answered: strike/struck/struck, -s only in present.",
+      "achievements_earned": [],
+      "streak_day": 2
+    },
+    {
+      "session_id": "session-018",
+      "date": "2026-10-24",
+      "duration_minutes": 15,
+      "skills_practiced": [
+        "speaking"
+      ],
+      "command_used": "voice-claude-chat",
+      "exercises_completed": 7,
+      "accuracy": 0.429,
+      "score_breakdown": {
+        "speaking": 0.429
+      },
+      "topics_covered": [
+        "small_words_warmup",
+        "say_this_tomorrow"
+      ],
+      "breakthroughs": [
+        "No 'I believe' / 'I don't know' in completed answers",
+        "Accurate repetition of 4 professional sentences after correction"
+      ],
+      "focus_next_session": [
+        "Start Lesson 4 with the evidence-based pushback (skipped 3 times)",
+        "Independent production: full sentence in one attempt",
+        "Pronunciation block (never completed by voice)"
+      ],
+      "notes": "Voice L3, partial: only block 1 partially (7 prompts) + 'say this tomorrow'. Fluency 7, accuracy 7, seniority 6. Duration estimated (~15 min, not reported). Pushback block now skipped 3 times (Oct 21, Oct 24 R2, today); pronunciation block also not completed.",
       "achievements_earned": [],
       "streak_day": 2
     }

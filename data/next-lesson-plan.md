@@ -2,7 +2,7 @@
 
 # 2-Week Plan — Meeting English (10 lessons × 30 min) — IN PROGRESS
 
-**Status (2026-10-21):** ✅ L1 done (Oct 20) · ✅ L2 done (Oct 21, voice 25 min; warm-up 10/10; 7/7/7). **Next: L3 (restarts & small words)** — warm-up partly done in review 015. L2 block 4 (evidence-based pushback) still pending.
+**Status (2026-10-24):** ✅ L1 (Oct 20) · ✅ L2 (Oct 21) · 🟡 L3 partial (Oct 24, voice: only small-words warm-up + say-this-tomorrow; 7/7/6). **Next: L4 — START with evidence-based pushback (skipped 3×), then pronunciation, then anti-restart drill.**
 
 **Week-2 goals (measurable):** (1) zero questions without an auxiliary in the daily, ≤1 per working session; (2) no status update ends with "I don't know" — turn doubts into questions.
 
@@ -36,7 +36,8 @@ Every lesson: warm-up drill (5) → core skill (10) → role-play as the lead or
 | Restarts / repeated verbs | 2 | Oct 20: R3 ~10 repetitions · real meeting Oct 21: 3 restarts in one sentence + "I don't know" · Oct 23 review: doubt → direct question ✅ |
 | Prepositions / fixed expressions (in production, the same as, need to) | 7 | Oct 23: at runtime ✅, both ✅, the same as ✅, impact on ✅ · still: on Thursday, split into, think of |
 | Word forms (refactoring, scheduled task) | 3 | Oct 19: ✅✅ |
-| Small words dropped (is, it, the, of, then) | — | Oct 23: 6 dropped in one sentence — top priority |
+| Small words dropped (is, it, the, of, then) | — | Oct 23: 6 dropped in one sentence · Oct 24 voice: after (that), review (it), (an) issue |
+| Pushback with evidence | — | Oct 24 text R1: structure ✅, no fact/dates (6/10) · voice: skipped 3× |
 
 ## Domain vocabulary
 Domain-specific terms are kept in the conversation only (privacy). Generic dev terms: baseline, regression, fixture, suite, toggle, rollback, backfill, fallback, band-aid, edge case, SLA.
