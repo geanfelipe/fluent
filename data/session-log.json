@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 15
+    "total_sessions": 16
   },
   "sessions": [
     {
@@ -499,6 +499,44 @@
       "notes": "Review 20/106; restarted from item 1 (yesterday's session abandoned before item 1). Avg 7.3/10 (55% → 76% by item 15). Streak reset to 1 (no session Oct 22). Also logged real-meeting errors from the learner's Oct 21 report (restarts, double hedging, prepositions). Lesson 3 warm-up items 2, 3 and 5 reused here; L3 still pending.",
       "achievements_earned": [],
       "streak_day": 1
+    },
+    {
+      "session_id": "session-016",
+      "date": "2026-10-24",
+      "duration_minutes": 35,
+      "skills_practiced": [
+        "grammar",
+        "vocabulary",
+        "speaking"
+      ],
+      "command_used": "/fluent-learn",
+      "exercises_completed": 31,
+      "accuracy": 0.581,
+      "score_breakdown": {
+        "grammar": 0.8,
+        "vocabulary": 0.471,
+        "speaking": 0.5
+      },
+      "topics_covered": [
+        "prep_ing_warmup",
+        "fixed_phrases_noticing",
+        "explain_test_wiki_to_fixture",
+        "evidence_based_pushback"
+      ],
+      "breakthroughs": [
+        "Prep + -ing warm-up: -ing correct in 10/10; preposition choice 8/10 → 10/10 on retest",
+        "Fixed phrases: 4/12 recognition → 4.5/5 production after noticing explanation",
+        "60-s explanation: seniority 6 → 7 → 8, zero restarts, zero calques (daily goal met)",
+        "Pushback used structure B with phased alternative; no 'no', no 'I don't know'"
+      ],
+      "focus_next_session": [
+        "Evidence-based pushback round 2: one fact + two dates + manual step stated",
+        "Daily-life calques (noticing): new to me, had dinner, go to work, next week",
+        "Small words: deliver IT to you"
+      ],
+      "notes": "Lesson from learner's report (Oct 21 Lesson 2 + evening free talk). Steps 1-4 of 6 done (Step 4 round 2, pronunciation and 'say this tomorrow' pending); learner switched to /fluent-vocab. Also answered question on phrasal verbs with 'around'. Evening free talk (tired, 11 pm) errors logged here.",
+      "achievements_earned": [],
+      "streak_day": 2
     }
   ],
   "milestones": [

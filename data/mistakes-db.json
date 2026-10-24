@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-10-23",
-    "total_patterns_tracked": 96,
+    "last_updated": "2026-10-24",
+    "total_patterns_tracked": 110,
     "language": "English"
   },
   "error_patterns": {
@@ -272,21 +272,15 @@
       "subcategory": "preposition_plus_ing",
       "description": "",
       "severity": "minor",
-      "frequency": 6,
+      "frequency": 7,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-20",
-      "last_occurred": "2026-10-20",
-      "next_review": "2026-10-21",
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 6,
+      "consecutive_incorrect": 7,
       "examples": [
-        {
-          "incorrect": "instead of focus on the problem",
-          "correct": "instead of focusing on the problem",
-          "context": "conflict scenario",
-          "date": "2026-10-07"
-        },
         {
           "incorrect": "I'm hoping to learn new technologies",
           "correct": "I'm open to learning new technologies",
@@ -310,6 +304,12 @@
           "correct": "what you mean by cleaning up",
           "context": "by + -ing",
           "date": "2026-10-20"
+        },
+        {
+          "incorrect": "Instead of sound like a robotic something",
+          "correct": "Instead of sounding robotic",
+          "context": "evening free talk Oct 21",
+          "date": "2026-10-24"
         }
       ],
       "notes": "Root problem across sessions 002-005: open to / instead of / reputation for / interested in + -ING."
@@ -858,21 +858,15 @@
       "subcategory": "uncountable_nouns",
       "description": "",
       "severity": "moderate",
-      "frequency": 6,
+      "frequency": 7,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-21",
-      "last_occurred": "2026-10-21",
-      "next_review": "2026-10-22",
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 6,
+      "consecutive_incorrect": 7,
       "examples": [
-        {
-          "incorrect": "taking a time to investigate",
-          "correct": "taking time to investigate",
-          "context": "work discussion",
-          "date": "2026-10-13"
-        },
         {
           "incorrect": "more informations and some advises",
           "correct": "more information and some advice",
@@ -896,6 +890,12 @@
           "correct": "documentation",
           "context": "role-play",
           "date": "2026-10-21"
+        },
+        {
+          "incorrect": "calls a Java code",
+          "correct": "calls Java code / calls a Java class",
+          "context": "Step 3 explanation",
+          "date": "2026-10-24"
         }
       ],
       "notes": "advise = verb; advice = uncountable noun."
@@ -1865,14 +1865,14 @@
       "subcategory": "dropped_function_words",
       "description": "",
       "severity": "moderate",
-      "frequency": 4,
+      "frequency": 5,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-23",
-      "last_occurred": "2026-10-23",
-      "next_review": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 4,
+      "consecutive_incorrect": 5,
       "examples": [
         {
           "incorrect": "This a general overview / because the edge cases / let me know it I",
@@ -1897,6 +1897,12 @@
           "correct": "This is a high-level overview of the issue. I'll explain it to the PM and then send it to the team.",
           "context": "item 19 (6 small words dropped)",
           "date": "2026-10-23"
+        },
+        {
+          "incorrect": "in the tomorrows session",
+          "correct": "in tomorrow's session",
+          "context": "warm-up #9",
+          "date": "2026-10-24"
         }
       ],
       "notes": ""
@@ -2108,20 +2114,26 @@
       "subcategory": "word_order",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-21",
-      "last_occurred": "2026-10-21",
-      "next_review": "2026-10-22",
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "some advice very useful",
           "correct": "some very useful advice",
           "context": "item 2",
           "date": "2026-10-21"
+        },
+        {
+          "incorrect": "she's a designer professional",
+          "correct": "she's a professional designer",
+          "context": "Step 2 (changed a correct sentence to wrong)",
+          "date": "2026-10-24"
         }
       ],
       "notes": ""
@@ -2605,6 +2617,328 @@
           "correct": "set manually or by the system / at runtime / to the database",
           "context": "real meeting Oct 21",
           "date": "2026-10-23"
+        }
+      ],
+      "notes": ""
+    },
+    "prep_committed_to_ing": {
+      "category": "grammar",
+      "subcategory": "preposition_plus_ing",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "we are committed in delivering",
+          "correct": "we are committed to delivering",
+          "context": "warm-up #8 (fixed on retest)",
+          "date": "2026-10-24"
+        }
+      ],
+      "notes": ""
+    },
+    "prep_start_by_ing": {
+      "category": "grammar",
+      "subcategory": "preposition_plus_ing",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "you can start creating a breakpoint",
+          "correct": "you can start by creating a breakpoint",
+          "context": "warm-up #5 (fixed on retest)",
+          "date": "2026-10-24"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_there_is_no_way": {
+      "category": "grammar",
+      "subcategory": "negation",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "there's not way to solve this",
+          "correct": "there's no way to solve this",
+          "context": "warm-up #4",
+          "date": "2026-10-24"
+        }
+      ],
+      "notes": ""
+    },
+    "calque_fixed_phrases_daily_life": {
+      "category": "vocabulary",
+      "subcategory": "calque",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "new for me / had the dinner / in the next week / came to home / went to her job / classes in group",
+          "correct": "new to me / had dinner / next week / came home / went to work / group classes",
+          "context": "evening free talk Oct 21 + Step 2 (marked 5 wrong as OK)",
+          "date": "2026-10-24"
+        }
+      ],
+      "notes": "Noticing problem: these calques sound natural to the learner."
+    },
+    "calque_attend_a_client": {
+      "category": "vocabulary",
+      "subcategory": "false_friend",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "went to her job to attend a client / client attendance",
+          "correct": "went to work to see/meet a client",
+          "context": "evening free talk + Step 2",
+          "date": "2026-10-24"
+        }
+      ],
+      "notes": ""
+    },
+    "calque_availability_of": {
+      "category": "vocabulary",
+      "subcategory": "calque",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "her client only had availability at 9 pm",
+          "correct": "her client was only available at 9 p.m.",
+          "context": "Step 2 (partially fixed)",
+          "date": "2026-10-24"
+        }
+      ],
+      "notes": ""
+    },
+    "prep_in_the_lobby": {
+      "category": "grammar",
+      "subcategory": "preposition",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I'm at the lobby / I'm the lobby",
+          "correct": "I'm in the lobby",
+          "context": "Step 2",
+          "date": "2026-10-24"
+        }
+      ],
+      "notes": ""
+    },
+    "calque_indicated_specified": {
+      "category": "vocabulary",
+      "subcategory": "calque",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "indicated in the wiki page",
+          "correct": "specified/named in the wiki page",
+          "context": "Step 3 round 1 (fixed in round 2)",
+          "date": "2026-10-24"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_enable_remote_debugging": {
+      "category": "vocabulary",
+      "subcategory": "collocation",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "allow remote debugs",
+          "correct": "enable remote debugging",
+          "context": "Step 3 round 1 (fixed in round 3)",
+          "date": "2026-10-24"
+        }
+      ],
+      "notes": ""
+    },
+    "prep_breakpoint_on": {
+      "category": "grammar",
+      "subcategory": "preposition",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "set the breakpoint in the setter",
+          "correct": "set a breakpoint on the setter",
+          "context": "Step 3 (twice)",
+          "date": "2026-10-24"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_deliver_it_to_you": {
+      "category": "grammar",
+      "subcategory": "dropped_object",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "we are not able to deliver you in the expected time",
+          "correct": "we can't deliver it by next week / deliver it to you",
+          "context": "Step 4 pushback",
+          "date": "2026-10-24"
+        }
+      ],
+      "notes": ""
+    },
+    "fluency_pushback_without_evidence": {
+      "category": "fluency",
+      "subcategory": "seniority",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "due to the complexity of the requirement / a first initial version / after that the final package",
+          "correct": "Based on what we've seen in test, [fact]. By [date], [partial]; by [date], [full].",
+          "context": "Step 4 round 1: vague reason, no dates",
+          "date": "2026-10-24"
+        }
+      ],
+      "notes": ""
+    },
+    "prep_work_for_company": {
+      "category": "grammar",
+      "subcategory": "preposition",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "the company that I am working on",
+          "correct": "the company I work for",
+          "context": "evening free talk Oct 21",
+          "date": "2026-10-24"
+        }
+      ],
+      "notes": ""
+    },
+    "collocation_spend_time": {
+      "category": "vocabulary",
+      "subcategory": "collocation",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-24",
+      "last_occurred": "2026-10-24",
+      "next_review": "2026-10-25",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "we took some time together",
+          "correct": "we spent some time together",
+          "context": "evening free talk Oct 21",
+          "date": "2026-10-24"
         }
       ],
       "notes": ""
