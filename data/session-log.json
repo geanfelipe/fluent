@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 18
+    "total_sessions": 19
   },
   "sessions": [
     {
@@ -596,6 +596,45 @@
       "notes": "Voice L3, partial: only block 1 partially (7 prompts) + 'say this tomorrow'. Fluency 7, accuracy 7, seniority 6. Duration estimated (~15 min, not reported). Pushback block now skipped 3 times (Oct 21, Oct 24 R2, today); pronunciation block also not completed.",
       "achievements_earned": [],
       "streak_day": 2
+    },
+    {
+      "session_id": "session-019",
+      "date": "2026-10-26",
+      "duration_minutes": 45,
+      "skills_practiced": [
+        "speaking",
+        "listening"
+      ],
+      "command_used": "teacher-trial-class",
+      "exercises_completed": 25,
+      "accuracy": 0.52,
+      "score_breakdown": {
+        "speaking": 0.45,
+        "listening": 0.8
+      },
+      "topics_covered": [
+        "self_introduction",
+        "learning_history",
+        "work_challenges",
+        "confidence",
+        "american_business_culture",
+        "accents",
+        "hobbies"
+      ],
+      "breakthroughs": [
+        "45 min with a native teacher, sustained long turns",
+        "Honest self-assessment in English: lack of confidence when disagreeing in meetings",
+        "Used Spanish-learning story to explain rapport (strong content)",
+        "Asked the teacher a direct goal question at the end"
+      ],
+      "focus_next_session": [
+        "explain X TO me + disagree WITH (returned in free speech)",
+        "Pushback phrasing (not done in trial)",
+        "Register: logic + rapport in American business communication"
+      ],
+      "notes": "Trial class with a private native teacher (45 min, recorded by learner). Analysis from a noisy phone auto-transcript; only clearly attributable learner lines used; pronunciation NOT assessable from this transcript. Teacher talked a large share of the time; pushback role-play not done. Teacher insight: American business values connection as much as logic. Scores are estimates.",
+      "achievements_earned": [],
+      "streak_day": 1
     }
   ],
   "milestones": [

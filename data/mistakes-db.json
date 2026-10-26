@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-10-24",
-    "total_patterns_tracked": 121,
+    "last_updated": "2026-10-26",
+    "total_patterns_tracked": 134,
     "language": "English"
   },
   "error_patterns": {
@@ -167,21 +167,15 @@
       "subcategory": "subject_verb_agreement",
       "description": "",
       "severity": "critical",
-      "frequency": 5,
+      "frequency": 6,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-20",
-      "last_occurred": "2026-10-20",
-      "next_review": "2026-10-21",
+      "last_seen": "2026-10-26",
+      "last_occurred": "2026-10-26",
+      "next_review": "2026-10-27",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 5,
+      "consecutive_incorrect": 6,
       "examples": [
-        {
-          "incorrect": "I weren't able / I were",
-          "correct": "I wasn't able / I was",
-          "context": "negotiation",
-          "date": "2026-10-06"
-        },
         {
           "incorrect": "I weren't / I were",
           "correct": "I wasn't / I was",
@@ -205,6 +199,12 @@
           "correct": "the lead was very calm",
           "context": "item 11 regression",
           "date": "2026-10-20"
+        },
+        {
+          "incorrect": "the words is in my mind",
+          "correct": "the words are in my mind",
+          "context": "trial class",
+          "date": "2026-10-26"
         }
       ],
       "notes": "Plural subject → were. 4th session with was/were slips."
@@ -272,21 +272,15 @@
       "subcategory": "preposition_plus_ing",
       "description": "",
       "severity": "minor",
-      "frequency": 7,
+      "frequency": 8,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-24",
-      "last_occurred": "2026-10-24",
-      "next_review": "2026-10-25",
+      "last_seen": "2026-10-26",
+      "last_occurred": "2026-10-26",
+      "next_review": "2026-10-27",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 7,
+      "consecutive_incorrect": 8,
       "examples": [
-        {
-          "incorrect": "I'm hoping to learn new technologies",
-          "correct": "I'm open to learning new technologies",
-          "context": "calque killer: 'aberto a aprender' (~6 attempts)",
-          "date": "2026-10-09"
-        },
         {
           "incorrect": "what about to solve the issue?",
           "correct": "how about focusing on solving the problem?",
@@ -310,6 +304,12 @@
           "correct": "Instead of sounding robotic",
           "context": "evening free talk Oct 21",
           "date": "2026-10-24"
+        },
+        {
+          "incorrect": "something positive about had learning Spanish",
+          "correct": "something positive about having learned Spanish",
+          "context": "trial class",
+          "date": "2026-10-26"
         }
       ],
       "notes": "Root problem across sessions 002-005: open to / instead of / reputation for / interested in + -ING."
@@ -1697,14 +1697,14 @@
       "subcategory": "verb_pattern",
       "description": "",
       "severity": "critical",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-20",
-      "last_occurred": "2026-10-20",
-      "next_review": "2026-10-21",
+      "last_seen": "2026-10-26",
+      "last_occurred": "2026-10-26",
+      "next_review": "2026-10-27",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "Could you explain me again the refactoring plan?",
@@ -1717,6 +1717,12 @@
           "correct": "Can you explain to me what you mean by cleaning up...?",
           "context": "wrong twice, right after correction",
           "date": "2026-10-20"
+        },
+        {
+          "incorrect": "to follow the ideas that they explain me",
+          "correct": "to follow the ideas they explain to me",
+          "context": "trial class (returned in free speech)",
+          "date": "2026-10-26"
         }
       ],
       "notes": ""
@@ -3192,6 +3198,305 @@
           "correct": "ensure traceability",
           "context": "voice L3",
           "date": "2026-10-24"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_too_vs_very": {
+      "category": "grammar",
+      "subcategory": "intensifiers",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-26",
+      "last_occurred": "2026-10-26",
+      "next_review": "2026-10-27",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "one month is very short to learn English",
+          "correct": "one month is too short to learn English",
+          "context": "trial class (too + adj + to = excess)",
+          "date": "2026-10-26"
+        }
+      ],
+      "notes": ""
+    },
+    "calque_searching_for_job": {
+      "category": "vocabulary",
+      "subcategory": "calque",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-26",
+      "last_occurred": "2026-10-26",
+      "next_review": "2026-10-27",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I was searching for a new job",
+          "correct": "I was looking for a new job",
+          "context": "trial class",
+          "date": "2026-10-26"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_gerund_as_subject": {
+      "category": "grammar",
+      "subcategory": "gerund_subject",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-26",
+      "last_occurred": "2026-10-26",
+      "next_review": "2026-10-27",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "For who speaks Portuguese, learn Spanish is not so challenging",
+          "correct": "For native Portuguese speakers, learning Spanish isn't that challenging",
+          "context": "trial class",
+          "date": "2026-10-26"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_modal_stacking": {
+      "category": "grammar",
+      "subcategory": "modals",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-26",
+      "last_occurred": "2026-10-26",
+      "next_review": "2026-10-27",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "this is good methodology that may can work for me",
+          "correct": "this methodology might work for me",
+          "context": "trial class",
+          "date": "2026-10-26"
+        }
+      ],
+      "notes": ""
+    },
+    "calque_generates_anxiety": {
+      "category": "vocabulary",
+      "subcategory": "calque",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-26",
+      "last_occurred": "2026-10-26",
+      "next_review": "2026-10-27",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "this generates me anxiety",
+          "correct": "this makes me anxious",
+          "context": "trial class",
+          "date": "2026-10-26"
+        }
+      ],
+      "notes": ""
+    },
+    "fluency_pushback_phrasing": {
+      "category": "fluency",
+      "subcategory": "pushback",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-26",
+      "last_occurred": "2026-10-26",
+      "next_review": "2026-10-27",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "we don't go for this way, we go to this way",
+          "correct": "That's not the approach we'll take; let's go this way instead",
+          "context": "trial class, describing negotiation",
+          "date": "2026-10-26"
+        }
+      ],
+      "notes": ""
+    },
+    "calque_lack_of_confidence": {
+      "category": "vocabulary",
+      "subcategory": "calque",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-26",
+      "last_occurred": "2026-10-26",
+      "next_review": "2026-10-27",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I have now a lack of confidence to speak / this is to improve for me",
+          "correct": "I don't feel confident when I speak / this is something I need to improve",
+          "context": "trial class",
+          "date": "2026-10-26"
+        }
+      ],
+      "notes": ""
+    },
+    "prep_disagree_with": {
+      "category": "grammar",
+      "subcategory": "preposition",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-26",
+      "last_occurred": "2026-10-26",
+      "next_review": "2026-10-27",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "if I disagree someone",
+          "correct": "if I disagree with someone",
+          "context": "trial class",
+          "date": "2026-10-26"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_say_vs_speak": {
+      "category": "vocabulary",
+      "subcategory": "word_choice",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-26",
+      "last_occurred": "2026-10-26",
+      "next_review": "2026-10-27",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I tried to speak something",
+          "correct": "I tried to say something",
+          "context": "trial class",
+          "date": "2026-10-26"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_first_time_present_perfect": {
+      "category": "grammar",
+      "subcategory": "present_perfect",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-26",
+      "last_occurred": "2026-10-26",
+      "next_review": "2026-10-27",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "it's the first time that I am working with an American team",
+          "correct": "it's the first time I've worked with an American team",
+          "context": "trial class",
+          "date": "2026-10-26"
+        }
+      ],
+      "notes": ""
+    },
+    "prep_to_me_opinion": {
+      "category": "grammar",
+      "subcategory": "preposition",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-26",
+      "last_occurred": "2026-10-26",
+      "next_review": "2026-10-27",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "they sound clear for me / I look everyone a bit cold",
+          "correct": "they sound clear to me / everyone seemed a bit cold to me",
+          "context": "trial class",
+          "date": "2026-10-26"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_comparative_deeper": {
+      "category": "grammar",
+      "subcategory": "comparatives",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-26",
+      "last_occurred": "2026-10-26",
+      "next_review": "2026-10-27",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "a more deep relationship",
+          "correct": "a deeper relationship",
+          "context": "trial class",
+          "date": "2026-10-26"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_how_long_will_it_take": {
+      "category": "grammar",
+      "subcategory": "question_formation",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-26",
+      "last_occurred": "2026-10-26",
+      "next_review": "2026-10-27",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "How much do you think that I can achieve the C1 level?",
+          "correct": "How long do you think it'll take me to reach C1?",
+          "context": "trial class, final question",
+          "date": "2026-10-26"
         }
       ],
       "notes": ""
