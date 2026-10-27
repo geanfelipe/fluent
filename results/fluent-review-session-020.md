@@ -28,4 +28,4 @@
 ## Diagnosis
 - Progress: down to earth, reputation for, compound adjectives unprompted, emphatic DO, small words 6 → 2.
 - Pattern of the day: 3rd person -s (3 misses, then right in the final item).
-- Still: parallelism, uncountables under load, avoidance of appreciate/depreciate, literal translation of hedges.
+- Still: parallelism, uncountables under load, avoidance of appreciate/depreciate, literal translation of hesitations.
