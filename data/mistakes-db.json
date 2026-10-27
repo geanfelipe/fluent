@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_updated": "2026-10-27",
-    "total_patterns_tracked": 140,
+    "total_patterns_tracked": 150,
     "language": "English"
   },
   "error_patterns": {
@@ -1536,14 +1536,14 @@
       "subcategory": "subject_verb_agreement",
       "description": "",
       "severity": "moderate",
-      "frequency": 3,
+      "frequency": 4,
       "mastery_level": 0,
       "difficulty_score": 0.5,
       "last_seen": "2026-10-27",
       "last_occurred": "2026-10-27",
       "next_review": "2026-10-28",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 3,
+      "consecutive_incorrect": 4,
       "examples": [
         {
           "incorrect": "when the PM get back",
@@ -1561,6 +1561,12 @@
           "incorrect": "The lead always review... before QA test / the trade get stuck / the lead want me",
           "correct": "reviews... tests it / gets stuck / wants me",
           "context": "items 13, 16, 19 (correct in item 20)",
+          "date": "2026-10-27"
+        },
+        {
+          "incorrect": "some words sounds like very Portuguese",
+          "correct": "some words sound very Portuguese",
+          "context": "trial class (-s on a plural subject)",
           "date": "2026-10-27"
         }
       ],
@@ -1750,14 +1756,14 @@
       "subcategory": "question_formation",
       "description": "",
       "severity": "critical",
-      "frequency": 4,
+      "frequency": 5,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-21",
-      "last_occurred": "2026-10-21",
-      "next_review": "2026-10-22",
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 4,
+      "consecutive_incorrect": 5,
       "examples": [
         {
           "incorrect": "Which scheduled tasks we are going to remove?",
@@ -1782,6 +1788,12 @@
           "correct": "Why aren't the segments created?",
           "context": "warm-up #2 (10/10 overall, trap caught)",
           "date": "2026-10-21"
+        },
+        {
+          "incorrect": "You mean about this kind of confidence?",
+          "correct": "Do you mean this kind of confidence?",
+          "context": "trial class (missing auxiliary)",
+          "date": "2026-10-27"
         }
       ],
       "notes": ""
@@ -1895,21 +1907,15 @@
       "subcategory": "dropped_function_words",
       "description": "",
       "severity": "moderate",
-      "frequency": 8,
+      "frequency": 9,
       "mastery_level": 0,
       "difficulty_score": 0.5,
       "last_seen": "2026-10-27",
       "last_occurred": "2026-10-27",
       "next_review": "2026-10-28",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 8,
+      "consecutive_incorrect": 9,
       "examples": [
-        {
-          "incorrect": "This a issue high level overview. I'll explain to PM and next send to the team",
-          "correct": "This is a high-level overview of the issue. I'll explain it to the PM and then send it to the team.",
-          "context": "item 19 (6 small words dropped)",
-          "date": "2026-10-23"
-        },
         {
           "incorrect": "in the tomorrows session",
           "correct": "in tomorrow's session",
@@ -1932,6 +1938,12 @@
           "incorrect": "I'll review with the lead and after send it",
           "correct": "I'll review it with the lead and then send it",
           "context": "item 4 (2 dropped, down from 6)",
+          "date": "2026-10-27"
+        },
+        {
+          "incorrect": "I'm Brazilian software developer / I went London in 2019 / first time I'm working with American team",
+          "correct": "I'm a Brazilian software developer / I went to London in 2019 / ...with an American team",
+          "context": "trial class (clean transcript)",
           "date": "2026-10-27"
         }
       ],
@@ -2749,20 +2761,26 @@
       "subcategory": "calque",
       "description": "",
       "severity": "critical",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-24",
-      "last_occurred": "2026-10-24",
-      "next_review": "2026-10-25",
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "new for me / had the dinner / in the next week / came to home / went to her job / classes in group",
           "correct": "new to me / had dinner / next week / came home / went to work / group classes",
           "context": "evening free talk Oct 21 + Step 2 (marked 5 wrong as OK)",
           "date": "2026-10-24"
+        },
+        {
+          "incorrect": "This is something very new for me / don't sound very strange for us / they sound clear for me",
+          "correct": "very new to me / strange to us / clear to me",
+          "context": "trial class",
+          "date": "2026-10-27"
         }
       ],
       "notes": "Noticing problem: these calques sound natural to the learner."
@@ -3508,20 +3526,26 @@
       "subcategory": "comparatives",
       "description": "",
       "severity": "minor",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-26",
-      "last_occurred": "2026-10-26",
-      "next_review": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "a more deep relationship",
           "correct": "a deeper relationship",
           "context": "trial class",
           "date": "2026-10-26"
+        },
+        {
+          "incorrect": "sound more clear / a relationship more deeply or more deep",
+          "correct": "sound clearer / a deeper relationship",
+          "context": "trial class",
+          "date": "2026-10-27"
         }
       ],
       "notes": ""
@@ -3682,6 +3706,236 @@
           "incorrect": "send to you a throughly resume",
           "correct": "send you a detailed summary (résumé = CV)",
           "context": "item 17",
+          "date": "2026-10-27"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_past_tense_consistency": {
+      "category": "grammar",
+      "subcategory": "tense",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I already knew English but I don't know my level at that moment / Once I heard... it seems very strange",
+          "correct": "...but I didn't know my level at that time / Once I heard... it seemed very strange",
+          "context": "trial class",
+          "date": "2026-10-27"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_trip_vs_travel": {
+      "category": "vocabulary",
+      "subcategory": "word_choice",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "after this travel I improved",
+          "correct": "after this trip I improved",
+          "context": "trial class (travel = verb/uncountable; trip = countable noun)",
+          "date": "2026-10-27"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_fluency_word_form": {
+      "category": "vocabulary",
+      "subcategory": "word_form",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "you don't have any fluence / a bit ashamed to speak",
+          "correct": "you don't have any fluency / a bit embarrassed to speak",
+          "context": "trial class",
+          "date": "2026-10-27"
+        }
+      ],
+      "notes": ""
+    },
+    "false_friend_require_request": {
+      "category": "vocabulary",
+      "subcategory": "false_friend",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "someone is requiring something",
+          "correct": "someone is requesting / asking for something",
+          "context": "trial class (require = exigir)",
+          "date": "2026-10-27"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_get_point_across": {
+      "category": "vocabulary",
+      "subcategory": "collocation",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I push back the situation again and try to achieve my point",
+          "correct": "I raise it again and try to get my point across",
+          "context": "trial class",
+          "date": "2026-10-27"
+        }
+      ],
+      "notes": ""
+    },
+    "prep_mean_by": {
+      "category": "grammar",
+      "subcategory": "preposition",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "What do you mean about...?",
+          "correct": "What do you mean by...?",
+          "context": "trial class",
+          "date": "2026-10-27"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_conversate_talk": {
+      "category": "vocabulary",
+      "subcategory": "word_choice",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I joined the teams to conversate with everybody / I look at everyone a bit cold",
+          "correct": "I joined the team to talk to everyone / everyone seemed a bit cold",
+          "context": "trial class",
+          "date": "2026-10-27"
+        }
+      ],
+      "notes": ""
+    },
+    "prep_room_for": {
+      "category": "grammar",
+      "subcategory": "preposition",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "you have a room as well to improvisation",
+          "correct": "you also have room for improvisation (there's room for improvement)",
+          "context": "trial class",
+          "date": "2026-10-27"
+        }
+      ],
+      "notes": ""
+    },
+    "prep_translate_from_into": {
+      "category": "grammar",
+      "subcategory": "preposition",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I'm translating Portuguese from English",
+          "correct": "I'm translating from Portuguese into English",
+          "context": "trial class",
+          "date": "2026-10-27"
+        }
+      ],
+      "notes": ""
+    },
+    "pron_phrasal_vowel_hypothesis": {
+      "category": "pronunciation",
+      "subcategory": "vowels_final_consonants",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "transcribed as 'fragile verbs', 'plane' (plan), 'key rent' (current), 'CO1' (C1)",
+          "correct": "phrasal /ˈfreɪzəl/, plan /plæn/, current /ˈkɜːrənt/",
+          "context": "hypothesis from ASR mismatches; confirm with a teacher",
           "date": "2026-10-27"
         }
       ],
