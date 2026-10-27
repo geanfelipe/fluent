@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 20
+    "total_sessions": 21
   },
   "sessions": [
     {
@@ -666,6 +666,36 @@
         "Doubt → statement + question (don't translate 'I think... I don't know')"
       ],
       "notes": "Review 20/141. Avg 6.4/10. Streak 2. Pattern of the day: 3rd person -s dropped 3 times (fixed in item 20). Avoidance of appreciate/depreciate for the 3rd time. Item 19: learner translated the hesitation literally instead of transforming it.",
+      "achievements_earned": [],
+      "streak_day": 2
+    },
+    {
+      "session_id": "session-021",
+      "date": "2026-10-27",
+      "duration_minutes": 0,
+      "skills_practiced": [
+        "speaking"
+      ],
+      "command_used": "teacher-trial-reanalysis",
+      "exercises_completed": 15,
+      "accuracy": 0.4,
+      "score_breakdown": {
+        "speaking": 0.4
+      },
+      "topics_covered": [
+        "trial_class_reanalysis"
+      ],
+      "breakthroughs": [
+        "Clean transcript shows correct 'explaining to me', 'disagree with someone', 'This is a good methodology that can work for me' — three session-019 errors were transcription noise",
+        "Correct present perfect continuous: 'this one month that I have been working with this new client'",
+        "Emphatic 'I do like football'"
+      ],
+      "focus_next_session": [
+        "Articles and 'to' (a developer, went to London, an American team)",
+        "Past-tense consistency in stories",
+        "to me / room for / mean by / translate from... into"
+      ],
+      "notes": "Re-analysis of the Oct 26 trial class from a clean two-channel transcript (no new study time; duration 0). Talk ratio: learner ~1,461 words vs teacher ~6,099 (~19% / 81%). Corrected 3 false positives logged in session-019 (explain to me, disagree with, may can) via review_results quality 5.",
       "achievements_earned": [],
       "streak_day": 2
     }
