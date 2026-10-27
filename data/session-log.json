@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 19
+    "total_sessions": 20
   },
   "sessions": [
     {
@@ -635,6 +635,39 @@
       "notes": "Trial class with a private native teacher (45 min, recorded by learner). Analysis from a noisy phone auto-transcript; only clearly attributable learner lines used; pronunciation NOT assessable from this transcript. Teacher talked a large share of the time; pushback role-play not done. Teacher insight: American business values connection as much as logic. Scores are estimates.",
       "achievements_earned": [],
       "streak_day": 1
+    },
+    {
+      "session_id": "session-020",
+      "date": "2026-10-27",
+      "duration_minutes": 35,
+      "skills_practiced": [
+        "grammar",
+        "vocabulary"
+      ],
+      "command_used": "/fluent-review",
+      "exercises_completed": 20,
+      "accuracy": 0.35,
+      "score_breakdown": {
+        "grammar": 0.333,
+        "vocabulary": 0.375
+      },
+      "topics_covered": [],
+      "breakthroughs": [
+        "down to earth correct for the first time",
+        "a reputation for meeting deadlines (structure right first try)",
+        "Compound adjectives produced unprompted: long-term, low-risk, a 45-minute lesson",
+        "Emphatic 'we DO have control' (C1)",
+        "Small words: 6 dropped (Oct 23) → 2 dropped today",
+        "3rd person -s right in the final test after 3 misses"
+      ],
+      "focus_next_session": [
+        "3rd person -s (he/she/it/the lead/QA → -s)",
+        "Parallelism after 'reputation for' / 'goal is to'",
+        "Doubt → statement + question (don't translate 'I think... I don't know')"
+      ],
+      "notes": "Review 20/141. Avg 6.4/10. Streak 2. Pattern of the day: 3rd person -s dropped 3 times (fixed in item 20). Avoidance of appreciate/depreciate for the 3rd time. Item 19: learner translated the hesitation literally instead of transforming it.",
+      "achievements_earned": [],
+      "streak_day": 2
     }
   ],
   "milestones": [

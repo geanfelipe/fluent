@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-10-26",
-    "total_patterns_tracked": 134,
+    "last_updated": "2026-10-27",
+    "total_patterns_tracked": 140,
     "language": "English"
   },
   "error_patterns": {
@@ -585,21 +585,15 @@
       "subcategory": "hyphenation",
       "description": "",
       "severity": "minor",
-      "frequency": 6,
+      "frequency": 7,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-23",
-      "last_occurred": "2026-10-23",
-      "next_review": "2026-10-24",
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 6,
+      "consecutive_incorrect": 7,
       "examples": [
-        {
-          "incorrect": "non technical analysts / steakholders",
-          "correct": "non-technical analysts / stakeholders",
-          "context": "items 15-16 (4th time)",
-          "date": "2026-10-14"
-        },
         {
           "incorrect": "long term solution / non technical users",
           "correct": "long-term solution / non-technical users",
@@ -623,6 +617,12 @@
           "correct": "a two-day spike and a low-risk fix",
           "context": "item 1 (Portuguese 'de' structure)",
           "date": "2026-10-23"
+        },
+        {
+          "incorrect": "a 30minutes meeting",
+          "correct": "a 30-minute meeting",
+          "context": "item 2 (long-term, low-risk correct)",
+          "date": "2026-10-27"
         }
       ],
       "notes": ""
@@ -858,21 +858,15 @@
       "subcategory": "uncountable_nouns",
       "description": "",
       "severity": "moderate",
-      "frequency": 8,
+      "frequency": 9,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-24",
-      "last_occurred": "2026-10-24",
-      "next_review": "2026-10-25",
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 8,
+      "consecutive_incorrect": 9,
       "examples": [
-        {
-          "incorrect": "very few information",
-          "correct": "very little information",
-          "context": "placement test Q47 (recurring pattern)",
-          "date": "2026-10-16"
-        },
         {
           "incorrect": "a few information... some advises",
           "correct": "little information... some advice",
@@ -896,6 +890,12 @@
           "correct": "this data with the QA team",
           "context": "voice L3",
           "date": "2026-10-24"
+        },
+        {
+          "incorrect": "a feedback / some advices / evidences / datas",
+          "correct": "feedback / some advice / evidence / data",
+          "context": "items 6, 11, 14",
+          "date": "2026-10-27"
         }
       ],
       "notes": "advise = verb; advice = uncountable noun."
@@ -963,14 +963,14 @@
       "subcategory": "confused_words",
       "description": "",
       "severity": "moderate",
-      "frequency": 3,
+      "frequency": 4,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-19",
-      "last_occurred": "2026-10-19",
-      "next_review": "2026-10-20",
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 3,
+      "consecutive_incorrect": 4,
       "examples": [
         {
           "incorrect": "we would depreciate the nature",
@@ -989,6 +989,12 @@
           "correct": "I really appreciate the team's efforts",
           "context": "avoided 'appreciate' 2nd time",
           "date": "2026-10-19"
+        },
+        {
+          "incorrect": "The assets increased 10%... the servers declined",
+          "correct": "The assets appreciated by 10%... the servers depreciated",
+          "context": "item 12 (3rd avoidance)",
+          "date": "2026-10-27"
         }
       ],
       "notes": "depreciate = lose value (accounting!). Also no 'the' before nature in general sense."
@@ -1206,14 +1212,14 @@
       "subcategory": "phrasal_expression",
       "description": "",
       "severity": "moderate",
-      "frequency": 3,
+      "frequency": 4,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-20",
-      "last_occurred": "2026-10-20",
-      "next_review": "2026-10-21",
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 3,
+      "consecutive_incorrect": 4,
       "examples": [
         {
           "incorrect": "I need to follow-up the project",
@@ -1232,6 +1238,12 @@
           "correct": "getting up to speed on / get you up to speed on",
           "context": "items 2, 20",
           "date": "2026-10-20"
+        },
+        {
+          "incorrect": "I need to fill me on in the decision",
+          "correct": "I need to get up to speed on the decision (fill someone in = another person updates you)",
+          "context": "item 10",
+          "date": "2026-10-27"
         }
       ],
       "notes": ""
@@ -1524,14 +1536,14 @@
       "subcategory": "subject_verb_agreement",
       "description": "",
       "severity": "moderate",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-23",
-      "last_occurred": "2026-10-23",
-      "next_review": "2026-10-24",
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "when the PM get back",
@@ -1544,6 +1556,12 @@
           "correct": "until the accounting team closes the books",
           "context": "item 6 (team = singular)",
           "date": "2026-10-23"
+        },
+        {
+          "incorrect": "The lead always review... before QA test / the trade get stuck / the lead want me",
+          "correct": "reviews... tests it / gets stuck / wants me",
+          "context": "items 13, 16, 19 (correct in item 20)",
+          "date": "2026-10-27"
         }
       ],
       "notes": ""
@@ -1796,14 +1814,14 @@
       "subcategory": "parallel_structure",
       "description": "",
       "severity": "minor",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-23",
-      "last_occurred": "2026-10-23",
-      "next_review": "2026-10-24",
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "a reputation for delivering fast, but also left bugs",
@@ -1816,6 +1834,12 @@
           "correct": "a reputation for being slow and getting stuck",
           "context": "item 17 (2nd time)",
           "date": "2026-10-23"
+        },
+        {
+          "incorrect": "a reputation for meeting the deadline and answer promptly / My goal is improve..., speak without restart and refuse",
+          "correct": "a reputation for meeting deadlines and responding quickly / My goal is to improve..., speak without restarting, and push back",
+          "context": "items 1, 11 (3rd and 4th time)",
+          "date": "2026-10-27"
         }
       ],
       "notes": ""
@@ -1871,21 +1895,15 @@
       "subcategory": "dropped_function_words",
       "description": "",
       "severity": "moderate",
-      "frequency": 7,
+      "frequency": 8,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-24",
-      "last_occurred": "2026-10-24",
-      "next_review": "2026-10-25",
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 7,
+      "consecutive_incorrect": 8,
       "examples": [
-        {
-          "incorrect": "Tomorrow's meeting I will... / The accounting team still closing",
-          "correct": "At tomorrow's stand-up, I'll... / The accounting team is still closing",
-          "context": "items 1, 10",
-          "date": "2026-10-21"
-        },
         {
           "incorrect": "This a issue high level overview. I'll explain to PM and next send to the team",
           "correct": "This is a high-level overview of the issue. I'll explain it to the PM and then send it to the team.",
@@ -1909,6 +1927,12 @@
           "correct": "After that, I'll review it with the team / If an issue comes up",
           "context": "voice L3 small-words warm-up",
           "date": "2026-10-24"
+        },
+        {
+          "incorrect": "I'll review with the lead and after send it",
+          "correct": "I'll review it with the lead and then send it",
+          "context": "item 4 (2 dropped, down from 6)",
+          "date": "2026-10-27"
         }
       ],
       "notes": ""
@@ -1918,14 +1942,14 @@
       "subcategory": "word_order",
       "description": "",
       "severity": "moderate",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-23",
-      "last_occurred": "2026-10-23",
-      "next_review": "2026-10-24",
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "the Job scheduled run / a buffer of 2 days in the scheduled",
@@ -1938,6 +1962,12 @@
           "correct": "the test environment",
           "context": "item 13",
           "date": "2026-10-23"
+        },
+        {
+          "incorrect": "The environment test / scheduled job failed yesterday's night",
+          "correct": "The test environment / the scheduled job failed last night",
+          "context": "item 14 (2nd time 'environment test')",
+          "date": "2026-10-27"
         }
       ],
       "notes": ""
@@ -1947,20 +1977,26 @@
       "subcategory": "adjective_vs_adverb",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-20",
-      "last_occurred": "2026-10-20",
-      "next_review": "2026-10-21",
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "an absolutely disaster / The yesterday's deployment",
           "correct": "an absolute disaster / Yesterday's deployment",
           "context": "item 11",
           "date": "2026-10-20"
+        },
+        {
+          "incorrect": "a absolutely disaster",
+          "correct": "an absolute disaster",
+          "context": "item 18 (2nd time)",
+          "date": "2026-10-27"
         }
       ],
       "notes": ""
@@ -1970,20 +2006,26 @@
       "subcategory": "word_choice",
       "description": "",
       "severity": "minor",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-20",
-      "last_occurred": "2026-10-20",
-      "next_review": "2026-10-21",
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "When I found out the bug",
           "correct": "When I found the bug (find out = information)",
           "context": "item 12",
           "date": "2026-10-20"
+        },
+        {
+          "incorrect": "The lead found the job fails",
+          "correct": "The lead found out that the job fails",
+          "context": "item 20",
+          "date": "2026-10-27"
         }
       ],
       "notes": ""
@@ -2563,20 +2605,26 @@
       "subcategory": "restarts",
       "description": "",
       "severity": "critical",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-23",
-      "last_occurred": "2026-10-23",
-      "next_review": "2026-10-24",
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "So I believe, I don't know if I can, if we I can move.",
           "correct": "This task is done, so I'll move it to Done. Should I open a new task for the CSV test?",
           "context": "real meeting Oct 21 (sprint planning)",
           "date": "2026-10-23"
+        },
+        {
+          "incorrect": "I think I finished the fixture but I don't know if the lead want me to test it",
+          "correct": "I've finished the fixture. Should I also test it in production?",
+          "context": "item 19: translated literally instead of transforming",
+          "date": "2026-10-27"
         }
       ],
       "notes": ""
@@ -3497,6 +3545,144 @@
           "correct": "How long do you think it'll take me to reach C1?",
           "context": "trial class, final question",
           "date": "2026-10-26"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_advantage_vs_vantage": {
+      "category": "vocabulary",
+      "subcategory": "word_form",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "vantage of private class is the on live correction",
+          "correct": "the advantage of private lessons is real-time correction",
+          "context": "item 3",
+          "date": "2026-10-27"
+        }
+      ],
+      "notes": ""
+    },
+    "prep_in_real_time": {
+      "category": "grammar",
+      "subcategory": "preposition_hyphen",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "correct me on real-time",
+          "correct": "correct me in real time",
+          "context": "item 5",
+          "date": "2026-10-27"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_possessive_people": {
+      "category": "grammar",
+      "subcategory": "possessive",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "the people accent / the auditors decision",
+          "correct": "people's accents / the auditor's decision",
+          "context": "items 8, 10",
+          "date": "2026-10-27"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_push_back_vs_refuse": {
+      "category": "vocabulary",
+      "subcategory": "word_choice",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "refuse with evidences",
+          "correct": "push back with evidence",
+          "context": "item 11",
+          "date": "2026-10-27"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_just_to_make_sure": {
+      "category": "vocabulary",
+      "subcategory": "fixed_expression",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Just to get it clear... and left others to the next",
+          "correct": "Just to make sure I got it right... and leave the rest for later",
+          "context": "item 15",
+          "date": "2026-10-27"
+        }
+      ],
+      "notes": ""
+    },
+    "false_friend_resume_summary": {
+      "category": "vocabulary",
+      "subcategory": "false_friend",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-27",
+      "last_occurred": "2026-10-27",
+      "next_review": "2026-10-28",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "send to you a throughly resume",
+          "correct": "send you a detailed summary (résumé = CV)",
+          "context": "item 17",
+          "date": "2026-10-27"
         }
       ],
       "notes": ""
