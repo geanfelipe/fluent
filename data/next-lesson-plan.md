@@ -37,7 +37,28 @@ Every lesson: warm-up drill (5) → core skill (10) → role-play as the lead or
 | Prepositions / fixed expressions (in production, the same as, need to) | 7 | Oct 23: at runtime ✅, both ✅, the same as ✅, impact on ✅ · still: on Thursday, split into, think of |
 | Word forms (refactoring, scheduled task) | 3 | Oct 19: ✅✅ |
 | Small words dropped (is, it, the, of, then) | — | Oct 23: 6 dropped in one sentence · Oct 24 voice: after (that), review (it), (an) issue |
-| Pushback with evidence | — | Oct 24 text R1: structure ✅, no fact/dates (6/10) · voice: skipped 3× |
+| Pushback with evidence | — | Oct 24 text R1: structure ✅, no fact/dates (6/10) · voice: skipped 3× · trial class Oct 26: not done |
+| Articles / tense in free speech | — | Trial class Oct 26: a developer, went to, didn't know, seemed |
+| Talk ratio with a human teacher | target 70% | Trial class Oct 26: 19% |
+
+## Private-teacher trial class (Oct 26) — use in next reviews and lessons
+Source: sessions 019 + 021 (clean two-channel transcript). Talk ratio: learner ~19% / teacher ~81% (target: learner ~70%).
+
+**Next 2 reviews: start with the trial-class items** (all in spaced repetition, due Oct 27–28):
+- Articles / small words: *a* Brazilian developer · went *to* London · *an* American team
+- Past-tense consistency in stories: *didn't* know · *seemed* strange
+- *trip* (noun) vs *travel* · *fluency* (not fluence) · *embarrassed* (not ashamed)
+- False friends / calques: *request* (not require) · *makes me anxious* (not generates me) · *looking for* a job (not searching)
+- *get my point across* · *sound clearer* · *a deeper relationship*
+- Prepositions: new/clear/strange *to* me · mean *by* · room *for* · translate *from*… *into*
+- Questions: *Do you mean…?* · *How long will it take me to reach C1?*
+- *too* short (not very short) · gerund as subject: *Learning* Spanish isn't hard · first time I*'ve worked*
+- Pronunciation hypotheses (voice only): phrasal /ˈfreɪzəl/ · plan /æ/ · current (stress)
+
+**Lesson insights to build on:**
+- Register shift: in US business, logic alone isn't enough — build rapport (small talk, warmth) *and* keep facts clear.
+- Teacher's advice: read along with audiobooks (15 min/day), immersion in media, phrasal verbs (direction logic), pushback role-plays.
+- Correct in free speech (don't re-drill): explain *to* me, disagree *with*, *can* work (no "may can"), present perfect continuous, emphatic *do*.
 
 ## Domain vocabulary
 Domain-specific terms are kept in the conversation only (privacy). Generic dev terms: baseline, regression, fixture, suite, toggle, rollback, backfill, fallback, band-aid, edge case, SLA.
