@@ -39,7 +39,7 @@ Every lesson: warm-up drill (5) → core skill (10) → role-play as the lead or
 | Small words dropped (is, it, the, of, then) | — | Oct 23: 6 dropped in one sentence · Oct 24 voice: after (that), review (it), (an) issue |
 | Pushback with evidence | — | Oct 24 text R1: structure ✅, no fact/dates (6/10) · voice: skipped 3× · trial class Oct 26: not done |
 | Articles / tense in free speech | — | Trial class Oct 26: a developer, went to, didn't know, seemed |
-| Talk ratio with a human teacher | target 70% | Trial class Oct 26: 19% |
+| Talk ratio with a human teacher | target 70% | Trial 1 (Oct 26): 19% · Trial 2 (Oct 28): 47% |
 
 ## Private-teacher trial class (Oct 26) — use in next reviews and lessons
 Source: sessions 019 + 021 (clean two-channel transcript). Talk ratio: learner ~19% / teacher ~81% (target: learner ~70%).
@@ -59,6 +59,19 @@ Source: sessions 019 + 021 (clean two-channel transcript). Talk ratio: learner ~
 - Register shift: in US business, logic alone isn't enough — build rapport (small talk, warmth) *and* keep facts clear.
 - Teacher's advice: read along with audiobooks (15 min/day), immersion in media, phrasal verbs (direction logic), pushback role-plays.
 - Correct in free speech (don't re-drill): explain *to* me, disagree *with*, *can* work (no "may can"), present perfect continuous, emphatic *do*.
+
+## Private-teacher trial class #2 (Oct 28) — RECOMMENDED teacher
+Source: session 022. Talk ratio: learner ~47% / teacher ~53% (trial #1: 19%). Live corrections with repeat + reuse, shared corrections doc, short stories, note unknown words from meetings.
+
+**Next reviews: add these trial-#2 items** (in spaced repetition):
+- prep + -ing in free speech: interested in *improving* · instead of the bank *hiring* me · not used to *hearing*
+- *embarrassed* (not ashamed, 3×) · *told* me (not said me) · *make* mistakes · *different from*
+- Negation/dummy "it": You *don't* even have to... · I saw that *it* was the same · if *it's* going to rain
+- *everybody was* · cities that *are mentioned* · *visited* five states (not knew) · good *food* / other *stuff*
+- Tense: I *was* there for four weeks (finished) · I *liked* London · first time I*'ve worked*
+- Pronunciation (voice): live /ɪ/ vs leave /iː/ · errors · hiring · -ed endings
+
+**Ask the teacher for:** a pushback/negotiation role-play (still never done with a human).
 
 ## Domain vocabulary
 Domain-specific terms are kept in the conversation only (privacy). Generic dev terms: baseline, regression, fixture, suite, toggle, rollback, backfill, fallback, band-aid, edge case, SLA.
