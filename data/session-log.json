@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 21
+    "total_sessions": 22
   },
   "sessions": [
     {
@@ -698,6 +698,46 @@
       "notes": "Re-analysis of the Oct 26 trial class from a clean two-channel transcript (no new study time; duration 0). Talk ratio: learner ~1,461 words vs teacher ~6,099 (~19% / 81%). Corrected 3 false positives logged in session-019 (explain to me, disagree with, may can) via review_results quality 5.",
       "achievements_earned": [],
       "streak_day": 2
+    },
+    {
+      "session_id": "session-022",
+      "date": "2026-10-28",
+      "duration_minutes": 48,
+      "skills_practiced": [
+        "speaking",
+        "listening"
+      ],
+      "command_used": "teacher-trial-class-2",
+      "exercises_completed": 35,
+      "accuracy": 0.571,
+      "score_breakdown": {
+        "speaking": 0.5,
+        "listening": 1.0
+      },
+      "topics_covered": [
+        "self_introduction",
+        "work_challenges",
+        "learning_spanish",
+        "hobbies_jung_archetypes",
+        "travel",
+        "history_turkey",
+        "work_schedule"
+      ],
+      "breakthroughs": [
+        "Talk ratio ~47% (vs ~19% in trial 1)",
+        "Self-corrections live: 'I lost → I got lost', 'went throughout → went through'",
+        "Questions with auxiliaries in free speech: 'Did you like it?', 'Is it a safe place?', 'Is it even equal to...?'",
+        "Discussed an abstract topic (Jung archetypes) at length",
+        "Gave the teacher clear, polite feedback at the end"
+      ],
+      "focus_next_session": [
+        "Preposition + -ing in free speech (interested in improving, instead of the bank hiring)",
+        "embarrassed (not ashamed) / told me (not said me) / make mistakes",
+        "Negation and dummy 'it' (You DON'T even have to..., IT was the same)"
+      ],
+      "notes": "Second trial class with a different native teacher (48 min, recorded). Clean two-channel transcript. Talk ratio learner ~2,834 / teacher ~3,190 words (~47% / 53%). Teacher corrected live (frustrated → frustrating; made learner repeat and reuse), keeps a shared doc of corrections, assigns short stories, and asked learner to note unknown words from meetings. Learner gave positive feedback ('you let me speak'). Recommended teacher over trial 1.",
+      "achievements_earned": [],
+      "streak_day": 3
     }
   ],
   "milestones": [

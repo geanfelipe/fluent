@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-10-27",
-    "total_patterns_tracked": 150,
+    "last_updated": "2026-10-28",
+    "total_patterns_tracked": 163,
     "language": "English"
   },
   "error_patterns": {
@@ -272,21 +272,15 @@
       "subcategory": "preposition_plus_ing",
       "description": "",
       "severity": "minor",
-      "frequency": 8,
+      "frequency": 9,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-26",
-      "last_occurred": "2026-10-26",
-      "next_review": "2026-10-27",
+      "last_seen": "2026-10-28",
+      "last_occurred": "2026-10-28",
+      "next_review": "2026-10-29",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 8,
+      "consecutive_incorrect": 9,
       "examples": [
-        {
-          "incorrect": "what about to solve the issue?",
-          "correct": "how about focusing on solving the problem?",
-          "context": "review item 3",
-          "date": "2026-10-13"
-        },
         {
           "incorrect": "Instead of fix the data / interested on",
           "correct": "Instead of fixing the data / interested in",
@@ -310,6 +304,12 @@
           "correct": "something positive about having learned Spanish",
           "context": "trial class",
           "date": "2026-10-26"
+        },
+        {
+          "incorrect": "something that I am interested in to improve / instead of the bank hires me",
+          "correct": "something I'm interested in improving / instead of the bank hiring me",
+          "context": "trial class 2",
+          "date": "2026-10-28"
         }
       ],
       "notes": "Root problem across sessions 002-005: open to / instead of / reputation for / interested in + -ING."
@@ -858,21 +858,15 @@
       "subcategory": "uncountable_nouns",
       "description": "",
       "severity": "moderate",
-      "frequency": 9,
+      "frequency": 10,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-27",
-      "last_occurred": "2026-10-27",
-      "next_review": "2026-10-28",
+      "last_seen": "2026-10-28",
+      "last_occurred": "2026-10-28",
+      "next_review": "2026-10-29",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 9,
+      "consecutive_incorrect": 10,
       "examples": [
-        {
-          "incorrect": "a few information... some advises",
-          "correct": "little information... some advice",
-          "context": "3rd consecutive session — fossilization risk",
-          "date": "2026-10-19"
-        },
         {
           "incorrect": "documentations",
           "correct": "documentation",
@@ -896,6 +890,12 @@
           "correct": "feedback / some advice / evidence / data",
           "context": "items 6, 11, 14",
           "date": "2026-10-27"
+        },
+        {
+          "incorrect": "really good foods here / pizza and other stuffs",
+          "correct": "really good food here / pizza and other stuff",
+          "context": "trial class 2",
+          "date": "2026-10-28"
         }
       ],
       "notes": "advise = verb; advice = uncountable noun."
@@ -1299,14 +1299,14 @@
       "subcategory": "irregular_verbs",
       "description": "",
       "severity": "critical",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-21",
-      "last_occurred": "2026-10-21",
-      "next_review": "2026-10-22",
+      "last_seen": "2026-10-28",
+      "last_occurred": "2026-10-28",
+      "next_review": "2026-10-29",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "She's sended",
@@ -1319,6 +1319,12 @@
           "correct": "written",
           "context": "item 15 (sent correct)",
           "date": "2026-10-21"
+        },
+        {
+          "incorrect": "as I haven't spoke a lot of English",
+          "correct": "as I haven't spoken much English",
+          "context": "trial class 2",
+          "date": "2026-10-28"
         }
       ],
       "notes": ""
@@ -1513,20 +1519,26 @@
       "subcategory": "determiners",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-19",
-      "last_occurred": "2026-10-19",
-      "next_review": "2026-10-20",
+      "last_seen": "2026-10-28",
+      "last_occurred": "2026-10-28",
+      "next_review": "2026-10-29",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "the both options / these both options",
           "correct": "both options",
           "context": "review + real meeting",
           "date": "2026-10-19"
+        },
+        {
+          "incorrect": "a lot of difference between these both languages",
+          "correct": "a lot of difference between the two languages",
+          "context": "trial class 2",
+          "date": "2026-10-28"
         }
       ],
       "notes": ""
@@ -2761,14 +2773,14 @@
       "subcategory": "calque",
       "description": "",
       "severity": "critical",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-27",
-      "last_occurred": "2026-10-27",
-      "next_review": "2026-10-28",
+      "last_seen": "2026-10-28",
+      "last_occurred": "2026-10-28",
+      "next_review": "2026-10-29",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "new for me / had the dinner / in the next week / came to home / went to her job / classes in group",
@@ -2781,6 +2793,12 @@
           "correct": "very new to me / strange to us / clear to me",
           "context": "trial class",
           "date": "2026-10-27"
+        },
+        {
+          "incorrect": "the business is new for me / in the weekend / read in the same time",
+          "correct": "new to me / on the weekend / at the same time",
+          "context": "trial class 2",
+          "date": "2026-10-28"
         }
       ],
       "notes": "Noticing problem: these calques sound natural to the learner."
@@ -3480,20 +3498,26 @@
       "subcategory": "present_perfect",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-26",
-      "last_occurred": "2026-10-26",
-      "next_review": "2026-10-27",
+      "last_seen": "2026-10-28",
+      "last_occurred": "2026-10-28",
+      "next_review": "2026-10-29",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "it's the first time that I am working with an American team",
           "correct": "it's the first time I've worked with an American team",
           "context": "trial class",
           "date": "2026-10-26"
+        },
+        {
+          "incorrect": "It's the first time I'm working directly with English native speakers",
+          "correct": "It's the first time I've worked directly with native English speakers",
+          "context": "trial class 2",
+          "date": "2026-10-28"
         }
       ],
       "notes": ""
@@ -3937,6 +3961,305 @@
           "correct": "phrasal /ˈfreɪzəl/, plan /plæn/, current /ˈkɜːrənt/",
           "context": "hypothesis from ASR mismatches; confirm with a teacher",
           "date": "2026-10-27"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_embarrassed_vs_ashamed": {
+      "category": "vocabulary",
+      "subcategory": "false_friend",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-28",
+      "last_occurred": "2026-10-28",
+      "next_review": "2026-10-29",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I'm a bit ashamed / you get a shame",
+          "correct": "I feel a bit embarrassed / self-conscious",
+          "context": "trial class 2 (3 times)",
+          "date": "2026-10-28"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_different_from": {
+      "category": "grammar",
+      "subcategory": "preposition",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-28",
+      "last_occurred": "2026-10-28",
+      "next_review": "2026-10-29",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Spanish is different in English",
+          "correct": "Spanish is different from English",
+          "context": "trial class 2",
+          "date": "2026-10-28"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_used_to_ing": {
+      "category": "grammar",
+      "subcategory": "be_used_to",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-28",
+      "last_occurred": "2026-10-28",
+      "next_review": "2026-10-29",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "something that you are not using to hear yet",
+          "correct": "something you're not used to hearing yet",
+          "context": "trial class 2",
+          "date": "2026-10-28"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_said_vs_told": {
+      "category": "grammar",
+      "subcategory": "reporting_verbs",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-28",
+      "last_occurred": "2026-10-28",
+      "next_review": "2026-10-29",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "They said me that maybe in the future...",
+          "correct": "They told me that maybe in the future...",
+          "context": "trial class 2",
+          "date": "2026-10-28"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_negation_dropped_meaning": {
+      "category": "grammar",
+      "subcategory": "negation",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-28",
+      "last_occurred": "2026-10-28",
+      "next_review": "2026-10-29",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "You even have to speak English in Orlando",
+          "correct": "You don't even have to speak English in Orlando",
+          "context": "trial class 2 (meaning reversed)",
+          "date": "2026-10-28"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_everybody_singular": {
+      "category": "grammar",
+      "subcategory": "subject_verb_agreement",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-28",
+      "last_occurred": "2026-10-28",
+      "next_review": "2026-10-29",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "everybody were remote",
+          "correct": "everybody was working remotely",
+          "context": "trial class 2",
+          "date": "2026-10-28"
+        }
+      ],
+      "notes": ""
+    },
+    "calque_know_vs_visit": {
+      "category": "vocabulary",
+      "subcategory": "calque",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-28",
+      "last_occurred": "2026-10-28",
+      "next_review": "2026-10-29",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I knew maybe five states",
+          "correct": "I visited / got to see about five states",
+          "context": "trial class 2 (conhecer = visit)",
+          "date": "2026-10-28"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_passive_mentioned": {
+      "category": "grammar",
+      "subcategory": "passive_voice",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-28",
+      "last_occurred": "2026-10-28",
+      "next_review": "2026-10-29",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "there's a lot of cities in Turkey that mention in the Bible",
+          "correct": "there are a lot of cities in Turkey that are mentioned in the Bible",
+          "context": "trial class 2",
+          "date": "2026-10-28"
+        }
+      ],
+      "notes": ""
+    },
+    "collocation_make_mistakes": {
+      "category": "vocabulary",
+      "subcategory": "collocation",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-28",
+      "last_occurred": "2026-10-28",
+      "next_review": "2026-10-29",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "even if I get some errors, I face some errors",
+          "correct": "even if I make mistakes",
+          "context": "trial class 2",
+          "date": "2026-10-28"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_dummy_it": {
+      "category": "grammar",
+      "subcategory": "dummy_subject",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-28",
+      "last_occurred": "2026-10-28",
+      "next_review": "2026-10-29",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "this guy will know if goes rain or not / I saw that was the same",
+          "correct": "...know if it's going to rain / I saw that it was the same",
+          "context": "trial class 2",
+          "date": "2026-10-28"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_past_simple_finished": {
+      "category": "grammar",
+      "subcategory": "tense",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-28",
+      "last_occurred": "2026-10-28",
+      "next_review": "2026-10-29",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I've been there for three weeks... almost four weeks (finished trip) / I really like it, London",
+          "correct": "I was there for almost four weeks / I really liked London",
+          "context": "trial class 2",
+          "date": "2026-10-28"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_let_me_speak": {
+      "category": "vocabulary",
+      "subcategory": "naturalness",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-28",
+      "last_occurred": "2026-10-28",
+      "next_review": "2026-10-29",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I really like it your time here because you allowed me to speak",
+          "correct": "I really enjoyed this lesson because you let me speak",
+          "context": "trial class 2",
+          "date": "2026-10-28"
+        }
+      ],
+      "notes": ""
+    },
+    "pron_live_leave_vowel": {
+      "category": "pronunciation",
+      "subcategory": "vowels",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-28",
+      "last_occurred": "2026-10-28",
+      "next_review": "2026-10-29",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "transcribed as 'leave' for live (×2), 'ear rolls' for errors (×2), 'white tie' for Muay Thai, 'hiding' for hiring",
+          "correct": "live /lɪv/ vs leave /liːv/ · errors /ˈerərz/ · hiring /ˈhaɪrɪŋ/",
+          "context": "ASR-mismatch hypothesis; teacher also flagged -ed endings (talk-ed)",
+          "date": "2026-10-28"
         }
       ],
       "notes": ""
