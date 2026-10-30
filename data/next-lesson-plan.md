@@ -39,7 +39,7 @@ Every lesson: warm-up drill (5) → core skill (10) → role-play as the lead or
 | Small words dropped (is, it, the, of, then) | — | Oct 23: 6 dropped in one sentence · Oct 24 voice: after (that), review (it), (an) issue |
 | Pushback with evidence | — | Oct 24 text R1: structure ✅, no fact/dates (6/10) · voice: skipped 3× · trial class Oct 26: not done |
 | Articles / tense in free speech | — | Trial class Oct 26: a developer, went to, didn't know, seemed |
-| Talk ratio with a human teacher | target 70% | Trial 1 (Oct 26): 19% · Trial 2 (Oct 28): 47% |
+| Talk ratio with a human teacher | target 70% | Trial 1 (Oct 26): 19% · Trial 2 (Oct 28): 47% · Paid #1 (Oct 30): 39% |
 
 ## Private-teacher trial class (Oct 26) — use in next reviews and lessons
 Source: sessions 019 + 021 (clean two-channel transcript). Talk ratio: learner ~19% / teacher ~81% (target: learner ~70%).
@@ -72,6 +72,10 @@ Source: session 022. Talk ratio: learner ~47% / teacher ~53% (trial #1: 19%). Li
 - Pronunciation (voice): live /ɪ/ vs leave /iː/ · errors · hiring · -ed endings
 
 **Ask the teacher for:** a pushback/negotiation role-play (still never done with a human).
+
+## Paid lesson #1 (Oct 30) — session 023
+Talk ratio 39% (down). Topics were small talk and culture only, so steer the next lesson toward work.
+**Add to reviews:** If you're 17 (not have) · current (not actual) president · didn't have a written language · getting used to giving · the way of conquering · It was a bit of a surprise / It's mandatory here · expected X to win · different from / between X and Y · at the end of the day, on Sunday, on October 5th · an event / the majority of / go to jail · stuff, this hardware · get a fine, vote by mail · 1500s = 16th century.
 
 ## Domain vocabulary
 Domain-specific terms are kept in the conversation only (privacy). Generic dev terms: baseline, regression, fixture, suite, toggle, rollback, backfill, fallback, band-aid, edge case, SLA.
