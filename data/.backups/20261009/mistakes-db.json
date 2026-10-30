@@ -1,0 +1,598 @@
+{
+  "metadata": {
+    "last_updated": "2026-10-09",
+    "total_patterns_tracked": 23,
+    "language": "English"
+  },
+  "error_patterns": {
+    "vocab_got_glad_happy": {
+      "category": "vocabulary",
+      "subcategory": "collocation",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 2,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-07",
+      "last_occurred": "2026-10-07",
+      "next_review": "2026-10-08",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 2,
+      "examples": [
+        {
+          "incorrect": "I got very glad.",
+          "correct": "I was really happy.",
+          "context": "describing feelings about an achievement",
+          "date": "2026-10-05"
+        },
+        {
+          "incorrect": "I got very happy",
+          "correct": "I was thrilled / I was really happy",
+          "context": "review: 'fiquei muito feliz'",
+          "date": "2026-10-07"
+        }
+      ],
+      "notes": "Literal translation of 'fiquei muito feliz'. 'Glad' rarely takes 'got/very'."
+    },
+    "false_cognate_fame_reputation": {
+      "category": "vocabulary",
+      "subcategory": "false_cognate",
+      "description": "",
+      "severity": "critical",
+      "frequency": 3,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-09",
+      "last_occurred": "2026-10-09",
+      "next_review": "2026-10-10",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 3,
+      "examples": [
+        {
+          "incorrect": "I had a fame.",
+          "correct": "I had a good reputation.",
+          "context": "explaining professional achievements",
+          "date": "2026-10-05"
+        },
+        {
+          "incorrect": "Our manager is famous to be hard",
+          "correct": "Our manager has a reputation for being demanding",
+          "context": "review: 'tem fama de ser exigente'",
+          "date": "2026-10-07"
+        },
+        {
+          "incorrect": "He has the reputation to be demanding",
+          "correct": "He has a reputation for being demanding",
+          "context": "calque killer",
+          "date": "2026-10-09"
+        }
+      ],
+      "notes": "Word 'reputation' fixed; structure 'for + -ing' still breaks."
+    },
+    "grammar_generic_plural_people": {
+      "category": "grammar",
+      "subcategory": "countable_plural",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-05",
+      "last_occurred": "2026-10-05",
+      "next_review": "2026-10-06",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "non-technical person",
+          "correct": "non-technical people",
+          "context": "working with non-technical people",
+          "date": "2026-10-05"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_have_negative_do_support": {
+      "category": "grammar",
+      "subcategory": "auxiliary_do",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-05",
+      "last_occurred": "2026-10-05",
+      "next_review": "2026-10-06",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I hadn't any knowledge.",
+          "correct": "I didn't have any knowledge.",
+          "context": "adapting to a new team",
+          "date": "2026-10-05"
+        }
+      ],
+      "notes": "'Have' as main verb needs do-support in negatives/questions."
+    },
+    "grammar_adapt_myself_reflexive": {
+      "category": "grammar",
+      "subcategory": "reflexive_calque",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 2,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-07",
+      "last_occurred": "2026-10-07",
+      "next_review": "2026-10-08",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 2,
+      "examples": [
+        {
+          "incorrect": "I had to adapt myself.",
+          "correct": "I had to adapt to the new environment.",
+          "context": "adapting to a new team",
+          "date": "2026-10-05"
+        },
+        {
+          "incorrect": "adapt my self to the team",
+          "correct": "adapt to the new team",
+          "context": "review",
+          "date": "2026-10-07"
+        }
+      ],
+      "notes": "Calque of 'me adaptar'. EN: adapt TO something."
+    },
+    "grammar_was_were_agreement": {
+      "category": "grammar",
+      "subcategory": "subject_verb_agreement",
+      "description": "",
+      "severity": "critical",
+      "frequency": 3,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-09",
+      "last_occurred": "2026-10-09",
+      "next_review": "2026-10-10",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 3,
+      "examples": [
+        {
+          "incorrect": "I weren't able / I were",
+          "correct": "I wasn't able / I was",
+          "context": "negotiation",
+          "date": "2026-10-06"
+        },
+        {
+          "incorrect": "I weren't / I were",
+          "correct": "I wasn't / I was",
+          "context": "six business scenarios",
+          "date": "2026-10-07"
+        },
+        {
+          "incorrect": "that momentum were",
+          "correct": "that momentum was",
+          "context": "debate; corrected once, then held",
+          "date": "2026-10-09"
+        }
+      ],
+      "notes": "2nd session in a row. Fossilization risk."
+    },
+    "vocab_employer_vs_employee": {
+      "category": "vocabulary",
+      "subcategory": "word_confusion",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-06",
+      "last_occurred": "2026-10-06",
+      "next_review": "2026-10-07",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "a known employer",
+          "correct": "an established employee",
+          "context": "negotiation",
+          "date": "2026-10-06"
+        }
+      ],
+      "notes": "employer = quem contrata; employee = quem é contratado. 'established' > 'known' for reputation."
+    },
+    "collocation_move_forward_with": {
+      "category": "vocabulary",
+      "subcategory": "collocation",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-06",
+      "last_occurred": "2026-10-06",
+      "next_review": "2026-10-07",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "move on in this proposal",
+          "correct": "move forward with this proposal",
+          "context": "negotiation",
+          "date": "2026-10-06"
+        }
+      ],
+      "notes": "'move on' = deixar para trás; 'move forward with' = avançar com."
+    },
+    "grammar_preposition_gerund": {
+      "category": "grammar",
+      "subcategory": "preposition_plus_ing",
+      "description": "",
+      "severity": "minor",
+      "frequency": 3,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-09",
+      "last_occurred": "2026-10-09",
+      "next_review": "2026-10-10",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 3,
+      "examples": [
+        {
+          "incorrect": "I'm okay if we can reevaluate",
+          "correct": "I'm okay with reevaluating",
+          "context": "negotiation",
+          "date": "2026-10-06"
+        },
+        {
+          "incorrect": "instead of focus on the problem",
+          "correct": "instead of focusing on the problem",
+          "context": "conflict scenario",
+          "date": "2026-10-07"
+        },
+        {
+          "incorrect": "I'm hoping to learn new technologies",
+          "correct": "I'm open to learning new technologies",
+          "context": "calque killer: 'aberto a aprender' (~6 attempts)",
+          "date": "2026-10-09"
+        }
+      ],
+      "notes": "Root problem across sessions 002-005: open to / instead of / reputation for / interested in + -ING."
+    },
+    "collocation_earn_salary": {
+      "category": "vocabulary",
+      "subcategory": "collocation",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-06",
+      "last_occurred": "2026-10-06",
+      "next_review": "2026-10-07",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "gain more salary",
+          "correct": "earn more / negotiate a higher salary",
+          "context": "negotiation",
+          "date": "2026-10-06"
+        }
+      ],
+      "notes": "Calque of 'ganhar salário'. EN: earn money, get a raise, negotiate a higher salary."
+    },
+    "pron_past_ed_ending": {
+      "category": "pronunciation",
+      "subcategory": "past_tense_ed",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-07",
+      "last_occurred": "2026-10-07",
+      "next_review": "2026-10-08",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "swapped it out (swap-ED)",
+          "correct": "swapped out (/swɒpt/)",
+          "context": "status meeting",
+          "date": "2026-10-07"
+        }
+      ],
+      "notes": "-ed after voiceless sounds (p,k,s,sh,ch,f) = /t/: swapped, missed. After t/d = /ɪd/: decided."
+    },
+    "fluency_control_over_external": {
+      "category": "vocabulary",
+      "subcategory": "naturalness",
+      "description": "",
+      "severity": "minor",
+      "frequency": 2,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-09",
+      "last_occurred": "2026-10-09",
+      "next_review": "2026-10-10",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 2,
+      "examples": [
+        {
+          "incorrect": "we can't control anything outside us",
+          "correct": "we have no control over external events",
+          "context": "Stoicism debate",
+          "date": "2026-10-07"
+        },
+        {
+          "incorrect": "control of",
+          "correct": "control over",
+          "context": "debate; corrected once, then held",
+          "date": "2026-10-09"
+        }
+      ],
+      "notes": ""
+    },
+    "collocation_make_an_offer": {
+      "category": "vocabulary",
+      "subcategory": "collocation",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-07",
+      "last_occurred": "2026-10-07",
+      "next_review": "2026-10-08",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "make them a proposal",
+          "correct": "make them an offer / propose a settlement",
+          "context": "negotiation",
+          "date": "2026-10-07"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_hard_vs_demanding": {
+      "category": "vocabulary",
+      "subcategory": "word_choice",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-07",
+      "last_occurred": "2026-10-07",
+      "next_review": "2026-10-08",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "hard (manager)",
+          "correct": "demanding",
+          "context": "review: 'exigente'",
+          "date": "2026-10-07"
+        }
+      ],
+      "notes": ""
+    },
+    "calque_it_took_me": {
+      "category": "grammar",
+      "subcategory": "calque",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-07",
+      "last_occurred": "2026-10-07",
+      "next_review": "2026-10-08",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I took three months to adapt",
+          "correct": "It took me three months to adapt",
+          "context": "review: 'levei três meses'",
+          "date": "2026-10-07"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_discover_vs_find_out": {
+      "category": "vocabulary",
+      "subcategory": "word_choice",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-07",
+      "last_occurred": "2026-10-07",
+      "next_review": "2026-10-08",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "when I discovered",
+          "correct": "when I found out",
+          "context": "review: 'quando descobri'",
+          "date": "2026-10-07"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_past_perfect_sequence": {
+      "category": "grammar",
+      "subcategory": "past_perfect",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-07",
+      "last_occurred": "2026-10-07",
+      "next_review": "2026-10-08",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I discovered I was promoted",
+          "correct": "I found out I had been promoted",
+          "context": "review",
+          "date": "2026-10-07"
+        }
+      ],
+      "notes": ""
+    },
+    "prep_on_vacation": {
+      "category": "grammar",
+      "subcategory": "preposition",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 2,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-09",
+      "last_occurred": "2026-10-09",
+      "next_review": "2026-10-10",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 2,
+      "examples": [
+        {
+          "incorrect": "out in vacation",
+          "correct": "on vacation",
+          "context": "review",
+          "date": "2026-10-07"
+        },
+        {
+          "incorrect": "on vacations",
+          "correct": "on vacation",
+          "context": "corrected once, then held",
+          "date": "2026-10-09"
+        }
+      ],
+      "notes": ""
+    },
+    "connector_so_vs_furthermore": {
+      "category": "grammar",
+      "subcategory": "connectors",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-07",
+      "last_occurred": "2026-10-07",
+      "next_review": "2026-10-08",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I wanna earn more, furthermore I am going to negotiate",
+          "correct": "I want to earn more, so I'm going to negotiate",
+          "context": "review: 'então'",
+          "date": "2026-10-07"
+        }
+      ],
+      "notes": ""
+    },
+    "writing_hyphen_compound_adj": {
+      "category": "spelling",
+      "subcategory": "hyphenation",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-07",
+      "last_occurred": "2026-10-07",
+      "next_review": "2026-10-08",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "non technical",
+          "correct": "non-technical",
+          "context": "review (2x)",
+          "date": "2026-10-07"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_appreciate_it_if": {
+      "category": "grammar",
+      "subcategory": "missing_object",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-09",
+      "last_occurred": "2026-10-09",
+      "next_review": "2026-10-10",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I would appreciate if the company...",
+          "correct": "I would appreciate it if the company...",
+          "context": "performance review role-play",
+          "date": "2026-10-09"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_reflexive_myself": {
+      "category": "grammar",
+      "subcategory": "reflexive_pronoun",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-09",
+      "last_occurred": "2026-10-09",
+      "next_review": "2026-10-10",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I'm proud of me",
+          "correct": "I'm proud of myself",
+          "context": "performance review role-play",
+          "date": "2026-10-09"
+        }
+      ],
+      "notes": "Opposite of 'adapt myself': use myself when subject = object."
+    },
+    "calque_baixar_gather": {
+      "category": "vocabulary",
+      "subcategory": "calque",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-09",
+      "last_occurred": "2026-10-09",
+      "next_review": "2026-10-10",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Downloaded the team information",
+          "correct": "I gathered the information I needed",
+          "context": "role-play: 'baixei as informações'",
+          "date": "2026-10-09"
+        }
+      ],
+      "notes": ""
+    }
+  }
+}

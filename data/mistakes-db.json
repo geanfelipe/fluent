@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-10-28",
-    "total_patterns_tracked": 163,
+    "last_updated": "2026-10-30",
+    "total_patterns_tracked": 170,
     "language": "English"
   },
   "error_patterns": {
@@ -272,21 +272,15 @@
       "subcategory": "preposition_plus_ing",
       "description": "",
       "severity": "minor",
-      "frequency": 9,
+      "frequency": 10,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-28",
-      "last_occurred": "2026-10-28",
-      "next_review": "2026-10-29",
+      "last_seen": "2026-10-30",
+      "last_occurred": "2026-10-30",
+      "next_review": "2026-10-31",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 9,
+      "consecutive_incorrect": 10,
       "examples": [
-        {
-          "incorrect": "Instead of fix the data / interested on",
-          "correct": "Instead of fixing the data / interested in",
-          "context": "item 5, sentence-initial",
-          "date": "2026-10-20"
-        },
         {
           "incorrect": "what you mean by clean up",
           "correct": "what you mean by cleaning up",
@@ -310,9 +304,15 @@
           "correct": "something I'm interested in improving / instead of the bank hiring me",
           "context": "trial class 2",
           "date": "2026-10-28"
+        },
+        {
+          "incorrect": "the Spanish way of concur the region",
+          "correct": "the Spanish way of conquering the region",
+          "context": "paid lesson #1",
+          "date": "2026-10-30"
         }
       ],
-      "notes": "Root problem across sessions 002-005: open to / instead of / reputation for / interested in + -ING."
+      "notes": "also: conquered by force (no 'the')"
     },
     "collocation_earn_salary": {
       "category": "vocabulary",
@@ -858,21 +858,15 @@
       "subcategory": "uncountable_nouns",
       "description": "",
       "severity": "moderate",
-      "frequency": 10,
+      "frequency": 11,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-28",
-      "last_occurred": "2026-10-28",
-      "next_review": "2026-10-29",
+      "last_seen": "2026-10-30",
+      "last_occurred": "2026-10-30",
+      "next_review": "2026-10-31",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 10,
+      "consecutive_incorrect": 11,
       "examples": [
-        {
-          "incorrect": "documentations",
-          "correct": "documentation",
-          "context": "role-play",
-          "date": "2026-10-21"
-        },
         {
           "incorrect": "calls a Java code",
           "correct": "calls Java code / calls a Java class",
@@ -896,9 +890,15 @@
           "correct": "really good food here / pizza and other stuff",
           "context": "trial class 2",
           "date": "2026-10-28"
+        },
+        {
+          "incorrect": "some stuffs / all these hardware",
+          "correct": "some stuff / all this hardware (these machines)",
+          "context": "paid lesson #1",
+          "date": "2026-10-30"
         }
       ],
-      "notes": "advise = verb; advice = uncountable noun."
+      "notes": "stuffs again (trial 2)"
     },
     "grammar_need_to_infinitive": {
       "category": "grammar",
@@ -1768,21 +1768,15 @@
       "subcategory": "question_formation",
       "description": "",
       "severity": "critical",
-      "frequency": 5,
+      "frequency": 6,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-27",
-      "last_occurred": "2026-10-27",
-      "next_review": "2026-10-28",
+      "last_seen": "2026-10-30",
+      "last_occurred": "2026-10-30",
+      "next_review": "2026-10-31",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 5,
+      "consecutive_incorrect": 6,
       "examples": [
-        {
-          "incorrect": "Which scheduled tasks we are going to remove?",
-          "correct": "Which scheduled tasks are we going to remove?",
-          "context": "real meeting pattern",
-          "date": "2026-10-19"
-        },
         {
           "incorrect": "What exactly I need to talk to them about",
           "correct": "What exactly do I need to talk to them about?",
@@ -1806,9 +1800,15 @@
           "correct": "Do you mean this kind of confidence?",
           "context": "trial class (missing auxiliary)",
           "date": "2026-10-27"
+        },
+        {
+          "incorrect": "Why they have both countries?",
+          "correct": "Why are there two countries?",
+          "context": "paid lesson #1",
+          "date": "2026-10-30"
         }
       ],
-      "notes": ""
+      "notes": "other questions OK: Have you been to Ireland? Isn't voting mandatory?"
     },
     "collocation_the_same_as": {
       "category": "vocabulary",
@@ -1919,21 +1919,15 @@
       "subcategory": "dropped_function_words",
       "description": "",
       "severity": "moderate",
-      "frequency": 9,
+      "frequency": 10,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-27",
-      "last_occurred": "2026-10-27",
-      "next_review": "2026-10-28",
+      "last_seen": "2026-10-30",
+      "last_occurred": "2026-10-30",
+      "next_review": "2026-10-31",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 9,
+      "consecutive_incorrect": 10,
       "examples": [
-        {
-          "incorrect": "in the tomorrows session",
-          "correct": "in tomorrow's session",
-          "context": "warm-up #9",
-          "date": "2026-10-24"
-        },
         {
           "incorrect": "by tomorrows meeting",
           "correct": "by tomorrow's meeting",
@@ -1957,6 +1951,12 @@
           "correct": "I'm a Brazilian software developer / I went to London in 2019 / ...with an American team",
           "context": "trial class (clean transcript)",
           "date": "2026-10-27"
+        },
+        {
+          "incorrect": "a event / majority of Brazilians / the Catholic holiday / go to the jail / US has",
+          "correct": "an event / the majority of Brazilians / a Catholic holiday / go to jail / the US has",
+          "context": "paid lesson #1",
+          "date": "2026-10-30"
         }
       ],
       "notes": ""
@@ -3993,46 +3993,58 @@
       "subcategory": "preposition",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-28",
-      "last_occurred": "2026-10-28",
-      "next_review": "2026-10-29",
+      "last_seen": "2026-10-30",
+      "last_occurred": "2026-10-30",
+      "next_review": "2026-10-31",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "Spanish is different in English",
           "correct": "Spanish is different from English",
           "context": "trial class 2",
           "date": "2026-10-28"
+        },
+        {
+          "incorrect": "a bit different to the US / differences between the Portuguese version to the Spanish version",
+          "correct": "different from the US / between X and Y",
+          "context": "paid lesson #1",
+          "date": "2026-10-30"
         }
       ],
-      "notes": ""
+      "notes": "repeat from trial 2"
     },
     "grammar_used_to_ing": {
       "category": "grammar",
       "subcategory": "be_used_to",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-28",
-      "last_occurred": "2026-10-28",
-      "next_review": "2026-10-29",
+      "last_seen": "2026-10-30",
+      "last_occurred": "2026-10-30",
+      "next_review": "2026-10-31",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "something that you are not using to hear yet",
           "correct": "something you're not used to hearing yet",
           "context": "trial class 2",
           "date": "2026-10-28"
+        },
+        {
+          "incorrect": "I was used to give the presentation / more used to speak English",
+          "correct": "I'm getting used to giving presentations / speaking English",
+          "context": "paid lesson #1",
+          "date": "2026-10-30"
         }
       ],
-      "notes": ""
+      "notes": "teacher fixed 'used', not the -ing"
     },
     "grammar_said_vs_told": {
       "category": "grammar",
@@ -4062,23 +4074,29 @@
       "subcategory": "negation",
       "description": "",
       "severity": "critical",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-28",
-      "last_occurred": "2026-10-28",
-      "next_review": "2026-10-29",
+      "last_seen": "2026-10-30",
+      "last_occurred": "2026-10-30",
+      "next_review": "2026-10-31",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "You even have to speak English in Orlando",
           "correct": "You don't even have to speak English in Orlando",
           "context": "trial class 2 (meaning reversed)",
           "date": "2026-10-28"
+        },
+        {
+          "incorrect": "They had a written language, just spoke language",
+          "correct": "They didn't have a written language, just a spoken one",
+          "context": "paid lesson #1",
+          "date": "2026-10-30"
         }
       ],
-      "notes": ""
+      "notes": "meaning inverted"
     },
     "grammar_everybody_singular": {
       "category": "grammar",
@@ -4177,23 +4195,29 @@
       "subcategory": "dummy_subject",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-28",
-      "last_occurred": "2026-10-28",
-      "next_review": "2026-10-29",
+      "last_seen": "2026-10-30",
+      "last_occurred": "2026-10-30",
+      "next_review": "2026-10-31",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "this guy will know if goes rain or not / I saw that was the same",
           "correct": "...know if it's going to rain / I saw that it was the same",
           "context": "trial class 2",
           "date": "2026-10-28"
+        },
+        {
+          "incorrect": "(It) was a bit surprised / for us here is a mandatory / always is the same parties",
+          "correct": "It was a bit of a surprise / It's mandatory here / It's always the same parties",
+          "context": "paid lesson #1",
+          "date": "2026-10-30"
         }
       ],
-      "notes": ""
+      "notes": "recurring"
     },
     "grammar_past_simple_finished": {
       "category": "grammar",
@@ -4263,6 +4287,167 @@
         }
       ],
       "notes": ""
+    },
+    "calque_age_be_not_have": {
+      "category": "calque",
+      "subcategory": "age",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-30",
+      "last_occurred": "2026-10-30",
+      "next_review": "2026-10-31",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "If you have 17, you are not an adult",
+          "correct": "If you're 17, you're not an adult",
+          "context": "paid lesson #1, free speech (3x)",
+          "date": "2026-10-30"
+        }
+      ],
+      "notes": "PT 'ter X anos' -> EN 'be X (years old)'"
+    },
+    "false_friend_actual_current": {
+      "category": "false_friend",
+      "subcategory": "actual",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-30",
+      "last_occurred": "2026-10-30",
+      "next_review": "2026-10-31",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Is the actual president ...?",
+          "correct": "Is the current president ...?",
+          "context": "paid lesson #1",
+          "date": "2026-10-30"
+        }
+      ],
+      "notes": "actual = real; atual = current"
+    },
+    "grammar_expect_someone_to": {
+      "category": "grammar",
+      "subcategory": "expect + object + to",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-30",
+      "last_occurred": "2026-10-30",
+      "next_review": "2026-10-31",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "everyone was expecting to the right party win / instead of everyone was expecting",
+          "correct": "everyone expected the right-wing party to win / contrary to what everyone expected",
+          "context": "paid lesson #1",
+          "date": "2026-10-30"
+        }
+      ],
+      "notes": ""
+    },
+    "prep_time_at_on": {
+      "category": "preposition",
+      "subcategory": "time",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-30",
+      "last_occurred": "2026-10-30",
+      "next_review": "2026-10-31",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "in the end of the day, in the Sunday / in 5 October",
+          "correct": "at the end of the day, on Sunday / on October 5th",
+          "context": "paid lesson #1",
+          "date": "2026-10-30"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_fine_vs_bill": {
+      "category": "vocabulary",
+      "subcategory": "collocation",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-30",
+      "last_occurred": "2026-10-30",
+      "next_review": "2026-10-31",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "You receive a bill / vote by letter",
+          "correct": "You get a fine / vote by mail (mail-in ballot)",
+          "context": "paid lesson #1",
+          "date": "2026-10-30"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_centuries": {
+      "category": "grammar",
+      "subcategory": "numbers",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-30",
+      "last_occurred": "2026-10-30",
+      "next_review": "2026-10-31",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "in 15th century (1500) / late 18th century (1859)",
+          "correct": "in the 16th century / in the mid-19th century",
+          "context": "paid lesson #1",
+          "date": "2026-10-30"
+        }
+      ],
+      "notes": "1500s = 16th c.; 1800s = 19th c."
+    },
+    "pron_adult": {
+      "category": "pronunciation",
+      "subcategory": "stress",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-10-30",
+      "last_occurred": "2026-10-30",
+      "next_review": "2026-10-31",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "adult heard as 'out of dirt'",
+          "correct": "adult /əˈdʌlt/",
+          "context": "paid lesson #1 (teacher corrected)",
+          "date": "2026-10-30"
+        }
+      ],
+      "notes": "voice only"
     }
   }
 }

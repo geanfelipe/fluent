@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "last_updated": "2026-10-27",
+    "language": "English"
+  },
+  "skills": {
+    "writing": {
+      "mastery_level": 0,
+      "confidence_score": 0.0,
+      "total_practice_time": 0,
+      "last_practiced": null
+    },
+    "speaking": {
+      "mastery_level": 2,
+      "confidence_score": 0.592,
+      "total_practice_time": 299,
+      "last_practiced": "2026-10-26",
+      "practice_count": 116,
+      "avg_accuracy": 0.592
+    },
+    "vocabulary": {
+      "mastery_level": 2,
+      "confidence_score": 0.489,
+      "total_practice_time": 172,
+      "last_practiced": "2026-10-27",
+      "practice_count": 141,
+      "avg_accuracy": 0.489
+    },
+    "reading": {
+      "mastery_level": 1,
+      "confidence_score": 1.0,
+      "total_practice_time": 10,
+      "last_practiced": "2026-10-07",
+      "practice_count": 2,
+      "avg_accuracy": 1.0
+    },
+    "listening": {
+      "mastery_level": 1,
+      "confidence_score": 0.8,
+      "total_practice_time": 15,
+      "last_practiced": "2026-10-26",
+      "practice_count": 5,
+      "avg_accuracy": 0.8
+    },
+    "grammar": {
+      "mastery_level": 2,
+      "confidence_score": 0.527,
+      "total_practice_time": 140,
+      "last_practiced": "2026-10-27",
+      "practice_count": 108,
+      "avg_accuracy": 0.527
+    },
+    "pronunciation": {
+      "mastery_level": 1,
+      "confidence_score": 0.5,
+      "total_practice_time": 6,
+      "last_practiced": "2026-10-20",
+      "practice_count": 8,
+      "avg_accuracy": 0.5
+    }
+  },
+  "patterns": {},
+  "mastery_scale": {
+    "0": "Not started",
+    "1": "Just started (⭐☆☆☆☆)",
+    "2": "Learning (⭐⭐☆☆☆)",
+    "3": "Good understanding (⭐⭐⭐☆☆)",
+    "4": "Strong skill (⭐⭐⭐⭐☆)",
+    "5": "Mastered! (⭐⭐⭐⭐⭐)"
+  }
+}

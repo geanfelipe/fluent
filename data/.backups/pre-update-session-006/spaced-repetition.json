@@ -1,0 +1,1158 @@
+{
+  "metadata": {
+    "algorithm": "SM-2",
+    "last_updated": "2026-10-09",
+    "total_items_tracked": 43,
+    "language": "English"
+  },
+  "review_queue": {
+    "today": [
+      "vocab_reputation",
+      "vocab_non_technical_stakeholders",
+      "grammar_generic_plural_people",
+      "grammar_have_negative_do_support",
+      "vocab_negotiate_higher_salary",
+      "vocab_employer_vs_employee",
+      "collocation_move_forward_with",
+      "collocation_earn_salary",
+      "vocab_raw_material_metaphor",
+      "vocab_rejoice_in_suffering",
+      "pron_past_ed_ending",
+      "collocation_make_an_offer",
+      "grammar_past_perfect_sequence",
+      "writing_hyphen_compound_adj"
+    ],
+    "tomorrow": [
+      "vocab_adapt_to",
+      "vocab_got_glad_happy",
+      "false_cognate_fame_reputation",
+      "grammar_adapt_myself_reflexive",
+      "vocab_meaningful_contribution",
+      "vocab_solid_experience",
+      "vocab_good_fit",
+      "vocab_revisit_the_rate",
+      "vocab_once_proven_impact",
+      "vocab_established_employee",
+      "grammar_preposition_gerund",
+      "vocab_swap_out",
+      "vocab_build_in_buffer",
+      "vocab_within_scope",
+      "vocab_settle_the_debt",
+      "fluency_control_over_external",
+      "vocab_hard_vs_demanding",
+      "calque_it_took_me",
+      "vocab_discover_vs_find_out",
+      "prep_on_vacation",
+      "connector_so_vs_furthermore",
+      "vocab_open_to_ing",
+      "vocab_get_up_to_speed",
+      "vocab_budget_constraints",
+      "vocab_fair_given_efforts",
+      "grammar_appreciate_it_if",
+      "grammar_reflexive_myself",
+      "calque_baixar_gather"
+    ],
+    "this_week": [
+      "grammar_was_were_agreement"
+    ],
+    "later": []
+  },
+  "items": {
+    "vocab_reputation": {
+      "id": "vocab_reputation",
+      "type": "vocabulary",
+      "content": "to have a good reputation",
+      "answer": "ter boa fama / ser bem visto",
+      "category": "business_english",
+      "difficulty": "B2",
+      "created_date": "2026-10-05",
+      "due_date": "2026-10-08",
+      "interval_days": 1,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-07",
+      "last_quality": 5,
+      "mastery_level": 0,
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-07",
+          "quality": 5,
+          "score": 0
+        }
+      ]
+    },
+    "vocab_adapt_to": {
+      "id": "vocab_adapt_to",
+      "type": "vocabulary",
+      "content": "to adapt to (a new environment)",
+      "answer": "se adaptar a",
+      "category": "business_english",
+      "difficulty": "B2",
+      "created_date": "2026-10-05",
+      "due_date": "2026-10-10",
+      "interval_days": 1,
+      "repetitions": 1,
+      "easiness_factor": 2.18,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 2,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-07",
+          "quality": 2,
+          "score": 0
+        },
+        {
+          "date": "2026-10-09",
+          "quality": 4,
+          "score": 0
+        }
+      ]
+    },
+    "vocab_non_technical_stakeholders": {
+      "id": "vocab_non_technical_stakeholders",
+      "type": "vocabulary",
+      "content": "non-technical stakeholders",
+      "answer": "pessoas/partes interessadas não técnicas",
+      "category": "business_english",
+      "difficulty": "C1",
+      "created_date": "2026-10-05",
+      "due_date": "2026-10-08",
+      "interval_days": 1,
+      "repetitions": 1,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-07",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 1,
+      "priority": "medium",
+      "review_history": [
+        {
+          "date": "2026-10-07",
+          "quality": 4,
+          "score": 0
+        }
+      ]
+    },
+    "vocab_got_glad_happy": {
+      "id": "vocab_got_glad_happy",
+      "type": "error_pattern",
+      "content": "I got very glad.",
+      "answer": "I was really happy.",
+      "category": "vocabulary",
+      "difficulty": "",
+      "created_date": "2026-10-05",
+      "due_date": "2026-10-10",
+      "interval_days": 1,
+      "repetitions": 1,
+      "easiness_factor": 2.18,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 2,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-07",
+          "quality": 2,
+          "score": 0
+        },
+        {
+          "date": "2026-10-09",
+          "quality": 4,
+          "score": 0
+        }
+      ]
+    },
+    "false_cognate_fame_reputation": {
+      "id": "false_cognate_fame_reputation",
+      "type": "error_pattern",
+      "content": "I had a fame.",
+      "answer": "I had a good reputation.",
+      "category": "vocabulary",
+      "difficulty": "",
+      "created_date": "2026-10-05",
+      "due_date": "2026-10-10",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 1.86,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 3,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 2,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-07",
+          "quality": 2,
+          "score": 0
+        },
+        {
+          "date": "2026-10-09",
+          "quality": 2,
+          "score": 0
+        }
+      ]
+    },
+    "grammar_generic_plural_people": {
+      "id": "grammar_generic_plural_people",
+      "type": "error_pattern",
+      "content": "non-technical person",
+      "answer": "non-technical people",
+      "category": "grammar",
+      "difficulty": "",
+      "created_date": "2026-10-05",
+      "due_date": "2026-10-08",
+      "interval_days": 1,
+      "repetitions": 1,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-07",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-07",
+          "quality": 4,
+          "score": 0
+        }
+      ]
+    },
+    "grammar_have_negative_do_support": {
+      "id": "grammar_have_negative_do_support",
+      "type": "error_pattern",
+      "content": "I hadn't any knowledge.",
+      "answer": "I didn't have any knowledge.",
+      "category": "grammar",
+      "difficulty": "",
+      "created_date": "2026-10-05",
+      "due_date": "2026-10-08",
+      "interval_days": 1,
+      "repetitions": 1,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-07",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-07",
+          "quality": 4,
+          "score": 0
+        }
+      ]
+    },
+    "grammar_adapt_myself_reflexive": {
+      "id": "grammar_adapt_myself_reflexive",
+      "type": "error_pattern",
+      "content": "I had to adapt myself.",
+      "answer": "I had to adapt to the new environment.",
+      "category": "grammar",
+      "difficulty": "",
+      "created_date": "2026-10-05",
+      "due_date": "2026-10-10",
+      "interval_days": 1,
+      "repetitions": 1,
+      "easiness_factor": 2.18,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 2,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-07",
+          "quality": 2,
+          "score": 0
+        },
+        {
+          "date": "2026-10-09",
+          "quality": 4,
+          "score": 0
+        }
+      ]
+    },
+    "vocab_meaningful_contribution": {
+      "id": "vocab_meaningful_contribution",
+      "type": "vocabulary",
+      "content": "a meaningful contribution",
+      "answer": "uma contribuição significativa",
+      "category": "business_english",
+      "difficulty": "C1",
+      "created_date": "2026-10-06",
+      "due_date": "2026-10-10",
+      "interval_days": 1,
+      "repetitions": 1,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 1,
+      "priority": "medium",
+      "review_history": [
+        {
+          "date": "2026-10-09",
+          "quality": 4,
+          "score": 0
+        }
+      ]
+    },
+    "vocab_solid_experience": {
+      "id": "vocab_solid_experience",
+      "type": "vocabulary",
+      "content": "solid experience",
+      "answer": "experiência sólida",
+      "category": "business_english",
+      "difficulty": "B2",
+      "created_date": "2026-10-06",
+      "due_date": "2026-10-10",
+      "interval_days": 1,
+      "repetitions": 1,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 1,
+      "priority": "low",
+      "review_history": [
+        {
+          "date": "2026-10-09",
+          "quality": 4,
+          "score": 0
+        }
+      ]
+    },
+    "vocab_good_fit": {
+      "id": "vocab_good_fit",
+      "type": "vocabulary",
+      "content": "a good fit",
+      "answer": "a pessoa/opção certa (encaixe)",
+      "category": "business_english",
+      "difficulty": "B2",
+      "created_date": "2026-10-06",
+      "due_date": "2026-10-10",
+      "interval_days": 1,
+      "repetitions": 1,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 1,
+      "priority": "medium",
+      "review_history": [
+        {
+          "date": "2026-10-09",
+          "quality": 4,
+          "score": 0
+        }
+      ]
+    },
+    "vocab_revisit_the_rate": {
+      "id": "vocab_revisit_the_rate",
+      "type": "vocabulary",
+      "content": "revisit the rate",
+      "answer": "rediscutir o valor/taxa",
+      "category": "negotiation",
+      "difficulty": "C1",
+      "created_date": "2026-10-06",
+      "due_date": "2026-10-10",
+      "interval_days": 1,
+      "repetitions": 1,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-09",
+          "quality": 4,
+          "score": 0
+        }
+      ]
+    },
+    "vocab_once_proven_impact": {
+      "id": "vocab_once_proven_impact",
+      "type": "vocabulary",
+      "content": "once I've proven my impact",
+      "answer": "assim que eu tiver provado meu impacto",
+      "category": "negotiation",
+      "difficulty": "C1",
+      "created_date": "2026-10-06",
+      "due_date": "2026-10-10",
+      "interval_days": 1,
+      "repetitions": 1,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-09",
+          "quality": 4,
+          "score": 0
+        }
+      ]
+    },
+    "vocab_established_employee": {
+      "id": "vocab_established_employee",
+      "type": "vocabulary",
+      "content": "an established employee",
+      "answer": "um funcionário consolidado/reconhecido",
+      "category": "business_english",
+      "difficulty": "C1",
+      "created_date": "2026-10-06",
+      "due_date": "2026-10-10",
+      "interval_days": 1,
+      "repetitions": 1,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 1,
+      "priority": "medium",
+      "review_history": [
+        {
+          "date": "2026-10-09",
+          "quality": 4,
+          "score": 0
+        }
+      ]
+    },
+    "vocab_negotiate_higher_salary": {
+      "id": "vocab_negotiate_higher_salary",
+      "type": "vocabulary",
+      "content": "negotiate a higher salary",
+      "answer": "negociar um salário maior",
+      "category": "negotiation",
+      "difficulty": "B2",
+      "created_date": "2026-10-06",
+      "due_date": "2026-10-08",
+      "interval_days": 1,
+      "repetitions": 1,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-07",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-07",
+          "quality": 4,
+          "score": 0
+        }
+      ]
+    },
+    "grammar_was_were_agreement": {
+      "id": "grammar_was_were_agreement",
+      "type": "error_pattern",
+      "content": "I weren't able / I were",
+      "answer": "I wasn't able / I was",
+      "category": "grammar",
+      "difficulty": "",
+      "created_date": "2026-10-06",
+      "due_date": "2026-10-15",
+      "interval_days": 6,
+      "repetitions": 2,
+      "easiness_factor": 2.36,
+      "consecutive_correct": 2,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 3,
+      "mastery_level": 0,
+      "total_reviews": 2,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-07",
+          "quality": 4,
+          "score": 0
+        },
+        {
+          "date": "2026-10-09",
+          "quality": 3,
+          "score": 0
+        }
+      ]
+    },
+    "vocab_employer_vs_employee": {
+      "id": "vocab_employer_vs_employee",
+      "type": "error_pattern",
+      "content": "a known employer",
+      "answer": "an established employee",
+      "category": "vocabulary",
+      "difficulty": "",
+      "created_date": "2026-10-06",
+      "due_date": "2026-10-07",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-10-06",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "collocation_move_forward_with": {
+      "id": "collocation_move_forward_with",
+      "type": "error_pattern",
+      "content": "move on in this proposal",
+      "answer": "move forward with this proposal",
+      "category": "vocabulary",
+      "difficulty": "",
+      "created_date": "2026-10-06",
+      "due_date": "2026-10-08",
+      "interval_days": 1,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-07",
+      "last_quality": 5,
+      "mastery_level": 0,
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-07",
+          "quality": 5,
+          "score": 0
+        }
+      ]
+    },
+    "grammar_preposition_gerund": {
+      "id": "grammar_preposition_gerund",
+      "type": "error_pattern",
+      "content": "I'm okay if we can reevaluate",
+      "answer": "I'm okay with reevaluating",
+      "category": "grammar",
+      "difficulty": "",
+      "created_date": "2026-10-06",
+      "due_date": "2026-10-10",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 1.96,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 2,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 1,
+      "mastery_level": 0,
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-09",
+          "quality": 1,
+          "score": 0
+        }
+      ]
+    },
+    "collocation_earn_salary": {
+      "id": "collocation_earn_salary",
+      "type": "error_pattern",
+      "content": "gain more salary",
+      "answer": "earn more / negotiate a higher salary",
+      "category": "vocabulary",
+      "difficulty": "",
+      "created_date": "2026-10-06",
+      "due_date": "2026-10-08",
+      "interval_days": 1,
+      "repetitions": 1,
+      "easiness_factor": 2.36,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-07",
+      "last_quality": 3,
+      "mastery_level": 0,
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-07",
+          "quality": 3,
+          "score": 0
+        }
+      ]
+    },
+    "vocab_swap_out": {
+      "id": "vocab_swap_out",
+      "type": "vocabulary",
+      "content": "swap out (X for Y)",
+      "answer": "substituir/trocar",
+      "category": "business_english",
+      "difficulty": "B2",
+      "created_date": "2026-10-07",
+      "due_date": "2026-10-10",
+      "interval_days": 1,
+      "repetitions": 1,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 1,
+      "priority": "medium",
+      "review_history": [
+        {
+          "date": "2026-10-09",
+          "quality": 4,
+          "score": 0
+        }
+      ]
+    },
+    "vocab_build_in_buffer": {
+      "id": "vocab_build_in_buffer",
+      "type": "vocabulary",
+      "content": "build in a buffer",
+      "answer": "incluir uma margem de segurança (prazo/orçamento)",
+      "category": "project_management",
+      "difficulty": "C1",
+      "created_date": "2026-10-07",
+      "due_date": "2026-10-10",
+      "interval_days": 1,
+      "repetitions": 1,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-09",
+          "quality": 4,
+          "score": 0
+        }
+      ]
+    },
+    "vocab_within_scope": {
+      "id": "vocab_within_scope",
+      "type": "vocabulary",
+      "content": "still within scope",
+      "answer": "ainda dentro do escopo",
+      "category": "project_management",
+      "difficulty": "B2",
+      "created_date": "2026-10-07",
+      "due_date": "2026-10-10",
+      "interval_days": 1,
+      "repetitions": 1,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 1,
+      "priority": "medium",
+      "review_history": [
+        {
+          "date": "2026-10-09",
+          "quality": 4,
+          "score": 0
+        }
+      ]
+    },
+    "vocab_settle_the_debt": {
+      "id": "vocab_settle_the_debt",
+      "type": "vocabulary",
+      "content": "settle the debt",
+      "answer": "quitar a dívida",
+      "category": "negotiation",
+      "difficulty": "C1",
+      "created_date": "2026-10-07",
+      "due_date": "2026-10-10",
+      "interval_days": 1,
+      "repetitions": 1,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 1,
+      "priority": "medium",
+      "review_history": [
+        {
+          "date": "2026-10-09",
+          "quality": 4,
+          "score": 0
+        }
+      ]
+    },
+    "vocab_raw_material_metaphor": {
+      "id": "vocab_raw_material_metaphor",
+      "type": "vocabulary",
+      "content": "raw material (metaphor: obstacles are raw material for growth)",
+      "answer": "matéria-prima",
+      "category": "philosophy",
+      "difficulty": "C1",
+      "created_date": "2026-10-07",
+      "due_date": "2026-10-08",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-07",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "low"
+    },
+    "vocab_rejoice_in_suffering": {
+      "id": "vocab_rejoice_in_suffering",
+      "type": "vocabulary",
+      "content": "rejoice in suffering",
+      "answer": "alegrar-se no sofrimento (Rm 5:3)",
+      "category": "philosophy",
+      "difficulty": "C1",
+      "created_date": "2026-10-07",
+      "due_date": "2026-10-08",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-07",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "low"
+    },
+    "pron_past_ed_ending": {
+      "id": "pron_past_ed_ending",
+      "type": "error_pattern",
+      "content": "swapped it out (swap-ED)",
+      "answer": "swapped out (/swɒpt/)",
+      "category": "pronunciation",
+      "difficulty": "",
+      "created_date": "2026-10-07",
+      "due_date": "2026-10-08",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-10-07",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "fluency_control_over_external": {
+      "id": "fluency_control_over_external",
+      "type": "error_pattern",
+      "content": "we can't control anything outside us",
+      "answer": "we have no control over external events",
+      "category": "vocabulary",
+      "difficulty": "",
+      "created_date": "2026-10-07",
+      "due_date": "2026-10-10",
+      "interval_days": 1,
+      "repetitions": 1,
+      "easiness_factor": 2.36,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 3,
+      "mastery_level": 0,
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-09",
+          "quality": 3,
+          "score": 0
+        }
+      ]
+    },
+    "collocation_make_an_offer": {
+      "id": "collocation_make_an_offer",
+      "type": "error_pattern",
+      "content": "make them a proposal",
+      "answer": "make them an offer / propose a settlement",
+      "category": "vocabulary",
+      "difficulty": "",
+      "created_date": "2026-10-07",
+      "due_date": "2026-10-08",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-10-07",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "vocab_hard_vs_demanding": {
+      "id": "vocab_hard_vs_demanding",
+      "type": "error_pattern",
+      "content": "hard (manager)",
+      "answer": "demanding",
+      "category": "vocabulary",
+      "difficulty": "",
+      "created_date": "2026-10-07",
+      "due_date": "2026-10-10",
+      "interval_days": 1,
+      "repetitions": 1,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-09",
+          "quality": 4,
+          "score": 0
+        }
+      ]
+    },
+    "calque_it_took_me": {
+      "id": "calque_it_took_me",
+      "type": "error_pattern",
+      "content": "I took three months to adapt",
+      "answer": "It took me three months to adapt",
+      "category": "grammar",
+      "difficulty": "",
+      "created_date": "2026-10-07",
+      "due_date": "2026-10-10",
+      "interval_days": 1,
+      "repetitions": 1,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-09",
+          "quality": 4,
+          "score": 0
+        }
+      ]
+    },
+    "vocab_discover_vs_find_out": {
+      "id": "vocab_discover_vs_find_out",
+      "type": "error_pattern",
+      "content": "when I discovered",
+      "answer": "when I found out",
+      "category": "vocabulary",
+      "difficulty": "",
+      "created_date": "2026-10-07",
+      "due_date": "2026-10-10",
+      "interval_days": 1,
+      "repetitions": 1,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-09",
+          "quality": 4,
+          "score": 0
+        }
+      ]
+    },
+    "grammar_past_perfect_sequence": {
+      "id": "grammar_past_perfect_sequence",
+      "type": "error_pattern",
+      "content": "I discovered I was promoted",
+      "answer": "I found out I had been promoted",
+      "category": "grammar",
+      "difficulty": "",
+      "created_date": "2026-10-07",
+      "due_date": "2026-10-08",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-10-07",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "prep_on_vacation": {
+      "id": "prep_on_vacation",
+      "type": "error_pattern",
+      "content": "out in vacation",
+      "answer": "on vacation",
+      "category": "grammar",
+      "difficulty": "",
+      "created_date": "2026-10-07",
+      "due_date": "2026-10-10",
+      "interval_days": 1,
+      "repetitions": 1,
+      "easiness_factor": 2.36,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 3,
+      "mastery_level": 0,
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-09",
+          "quality": 3,
+          "score": 0
+        }
+      ]
+    },
+    "connector_so_vs_furthermore": {
+      "id": "connector_so_vs_furthermore",
+      "type": "error_pattern",
+      "content": "I wanna earn more, furthermore I am going to negotiate",
+      "answer": "I want to earn more, so I'm going to negotiate",
+      "category": "grammar",
+      "difficulty": "",
+      "created_date": "2026-10-07",
+      "due_date": "2026-10-10",
+      "interval_days": 1,
+      "repetitions": 1,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-10-09",
+          "quality": 4,
+          "score": 0
+        }
+      ]
+    },
+    "writing_hyphen_compound_adj": {
+      "id": "writing_hyphen_compound_adj",
+      "type": "error_pattern",
+      "content": "non technical",
+      "answer": "non-technical",
+      "category": "spelling",
+      "difficulty": "",
+      "created_date": "2026-10-07",
+      "due_date": "2026-10-08",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-10-07",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "vocab_open_to_ing": {
+      "id": "vocab_open_to_ing",
+      "type": "grammar_rule",
+      "content": "be open to + -ing (open to learning)",
+      "answer": "estar aberto a + verbo",
+      "category": "business_english",
+      "difficulty": "B2",
+      "created_date": "2026-10-09",
+      "due_date": "2026-10-10",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 1,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "critical"
+    },
+    "vocab_get_up_to_speed": {
+      "id": "vocab_get_up_to_speed",
+      "type": "vocabulary",
+      "content": "get up to speed",
+      "answer": "se atualizar / pegar o ritmo",
+      "category": "business_english",
+      "difficulty": "C1",
+      "created_date": "2026-10-09",
+      "due_date": "2026-10-10",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "medium"
+    },
+    "vocab_budget_constraints": {
+      "id": "vocab_budget_constraints",
+      "type": "vocabulary",
+      "content": "budget constraints",
+      "answer": "restrições orçamentárias",
+      "category": "negotiation",
+      "difficulty": "C1",
+      "created_date": "2026-10-09",
+      "due_date": "2026-10-10",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "medium"
+    },
+    "vocab_fair_given_efforts": {
+      "id": "vocab_fair_given_efforts",
+      "type": "vocabulary",
+      "content": "it would be fair, given my efforts",
+      "answer": "seria justo, considerando meus esforços",
+      "category": "negotiation",
+      "difficulty": "C1",
+      "created_date": "2026-10-09",
+      "due_date": "2026-10-10",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "medium"
+    },
+    "grammar_appreciate_it_if": {
+      "id": "grammar_appreciate_it_if",
+      "type": "error_pattern",
+      "content": "I would appreciate if the company...",
+      "answer": "I would appreciate it if the company...",
+      "category": "grammar",
+      "difficulty": "",
+      "created_date": "2026-10-09",
+      "due_date": "2026-10-10",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "grammar_reflexive_myself": {
+      "id": "grammar_reflexive_myself",
+      "type": "error_pattern",
+      "content": "I'm proud of me",
+      "answer": "I'm proud of myself",
+      "category": "grammar",
+      "difficulty": "",
+      "created_date": "2026-10-09",
+      "due_date": "2026-10-10",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "calque_baixar_gather": {
+      "id": "calque_baixar_gather",
+      "type": "error_pattern",
+      "content": "Downloaded the team information",
+      "answer": "I gathered the information I needed",
+      "category": "vocabulary",
+      "difficulty": "",
+      "created_date": "2026-10-09",
+      "due_date": "2026-10-10",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-10-09",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    }
+  },
+  "daily_limits": {
+    "review_items_per_day": 20
+  },
+  "algorithm_notes": {
+    "SM-2": "Spaced repetition algorithm - intervals increase based on performance",
+    "quality_scale": "0=incorrect, 1=barely, 2=struggle, 3=correct_with_effort, 4=easy, 5=perfect",
+    "easiness_formula": "EF' = EF + (0.1 - (5 - quality) * (0.08 + (5 - quality) * 0.02))"
+  }
+}

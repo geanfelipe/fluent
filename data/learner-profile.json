@@ -16,10 +16,10 @@
     "occupation": "Software developer (remote, financial systems)"
   },
   "profile_created": "2026-10-05",
-  "last_updated": "2026-10-28",
-  "current_streak_days": 3,
-  "total_sessions": 22,
-  "total_study_minutes": 690,
+  "last_updated": "2026-10-30",
+  "current_streak_days": 1,
+  "total_sessions": 23,
+  "total_study_minutes": 736,
   "skills": {
     "writing": {
       "current_level": 0,
@@ -29,9 +29,9 @@
     },
     "speaking": {
       "current_level": 1,
-      "confidence": 49,
-      "last_practiced": "2026-10-28",
-      "total_practice_time": 337
+      "confidence": 54,
+      "last_practiced": "2026-10-30",
+      "total_practice_time": 383
     },
     "vocabulary": {
       "current_level": 1,

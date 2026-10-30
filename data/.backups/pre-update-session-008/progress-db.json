@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "last_updated": "2026-10-13",
+    "language": "English",
+    "tracking_started": "2026-10-05"
+  },
+  "overall_stats": {
+    "total_sessions": 7,
+    "total_exercises": 78,
+    "total_correct": 45,
+    "total_incorrect": 33,
+    "accuracy_rate": 0.577,
+    "total_study_minutes": 233,
+    "average_session_duration": 33
+  },
+  "accuracy_trend": [
+    {
+      "date": "2026-10-05",
+      "accuracy": 0.571,
+      "exercises": 7
+    },
+    {
+      "date": "2026-10-06",
+      "accuracy": 0.6,
+      "exercises": 10
+    },
+    {
+      "date": "2026-10-07",
+      "accuracy": 0.6,
+      "exercises": 22
+    },
+    {
+      "date": "2026-10-09",
+      "accuracy": 0.7,
+      "exercises": 10
+    },
+    {
+      "date": "2026-10-13",
+      "accuracy": 0.6,
+      "exercises": 29
+    }
+  ],
+  "skill_progress": {
+    "writing": {
+      "sessions": 0,
+      "accuracy": 0.0,
+      "last_practiced": null
+    },
+    "speaking": {
+      "sessions": 5,
+      "accuracy": 0.614,
+      "last_practiced": "2026-10-13",
+      "exercises_completed": 47,
+      "correct_count": 29,
+      "incorrect_count": 18
+    },
+    "vocabulary": {
+      "sessions": 2,
+      "accuracy": 0.542,
+      "last_practiced": "2026-10-13",
+      "exercises_completed": 18,
+      "correct_count": 10,
+      "incorrect_count": 8
+    },
+    "reading": {
+      "sessions": 1,
+      "accuracy": 1.0,
+      "last_practiced": "2026-10-07",
+      "exercises_completed": 2,
+      "correct_count": 2,
+      "incorrect_count": 0
+    },
+    "listening": {
+      "sessions": 0,
+      "accuracy": 0.0,
+      "last_practiced": null
+    },
+    "grammar": {
+      "sessions": 2,
+      "accuracy": 0.446,
+      "last_practiced": "2026-10-13",
+      "exercises_completed": 11,
+      "correct_count": 4,
+      "incorrect_count": 7
+    }
+  },
+  "weekly_summary": [
+    {
+      "week_start": "2026-10-05",
+      "sessions": 5,
+      "total_minutes": 188,
+      "accuracy": 0.627
+    },
+    {
+      "week_start": "2026-10-12",
+      "sessions": 2,
+      "total_minutes": 45,
+      "accuracy": 0.51
+    }
+  ]
+}

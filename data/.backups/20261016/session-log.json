@@ -1,0 +1,324 @@
+{
+  "metadata": {
+    "language": "English",
+    "learner_name": "Gean",
+    "total_sessions": 9
+  },
+  "sessions": [
+    {
+      "session_id": "session-001",
+      "date": "2026-10-05",
+      "duration_minutes": 50,
+      "skills_practiced": [
+        "speaking"
+      ],
+      "command_used": "voice-claude-chat",
+      "exercises_completed": 7,
+      "accuracy": 0.571,
+      "score_breakdown": {
+        "speaking": 0.571
+      },
+      "topics_covered": [
+        "salary_negotiation",
+        "professional_achievements",
+        "helping_colleagues",
+        "non_technical_communication",
+        "team_adaptation",
+        "daily_routine",
+        "learning_english_for_work"
+      ],
+      "breakthroughs": [
+        "Explained technical subjects in simple, non-technical language"
+      ],
+      "focus_next_session": [
+        "Do-support with 'have' in negatives",
+        "PT→EN calques: fama, me adaptar, fiquei feliz",
+        "Rapid-fire Q&A format"
+      ],
+      "notes": "Voice session in Claude chat (external), summary imported. Exercise/correct counts are estimates: voice session had no per-item scoring.",
+      "achievements_earned": [],
+      "streak_day": 1
+    },
+    {
+      "session_id": "session-002",
+      "date": "2026-10-06",
+      "duration_minutes": 8,
+      "skills_practiced": [
+        "speaking"
+      ],
+      "command_used": "voice-claude-chat",
+      "exercises_completed": 10,
+      "accuracy": 0.6,
+      "score_breakdown": {
+        "speaking": 0.6
+      },
+      "topics_covered": [
+        "salary_negotiation",
+        "ielts_speaking_part_2"
+      ],
+      "breakthroughs": [
+        "Sustained a 90-second speaking turn"
+      ],
+      "focus_next_session": [
+        "was/were agreement",
+        "PT calques: ganhar salário, ter fama, me adaptar",
+        "Reduce fillers in long turns"
+      ],
+      "notes": "Voice session in Claude chat (external), summary imported. Fluency 6/10. Exercise counts derived from fluency score (summary was truncated, no per-item scoring). 8 SR items from session-001 were due and NOT reviewed.",
+      "achievements_earned": [],
+      "streak_day": 2
+    },
+    {
+      "session_id": "session-003",
+      "date": "2026-10-07",
+      "duration_minutes": 55,
+      "skills_practiced": [
+        "speaking",
+        "reading"
+      ],
+      "command_used": "voice-claude-chat",
+      "exercises_completed": 12,
+      "accuracy": 0.667,
+      "score_breakdown": {
+        "speaking": 0.6,
+        "reading": 1.0
+      },
+      "topics_covered": [
+        "job_interview",
+        "status_meeting",
+        "negotiation",
+        "presentation",
+        "conflict",
+        "debate",
+        "stoicism_suffering",
+        "marcus_aurelius_control"
+      ],
+      "breakthroughs": [
+        "Sustained long, complex turns in an abstract debate (Stoicism)",
+        "First session hitting the 55+ min daily target"
+      ],
+      "focus_next_session": [
+        "Past-tense -ed pronunciation: /t/ /d/ /ɪd/",
+        "Finish sentences in one breath without restarting",
+        "was/were drill — fossilization risk"
+      ],
+      "notes": "Voice session in Claude chat (external), summary imported. Fluency 6/10, accuracy 6/10. Reading counted for 2 philosophy articles (no comprehension score given; assumed completed). Present perfect vs past simple slips mentioned without examples. 20 SR items due, not reviewed.",
+      "achievements_earned": [],
+      "streak_day": 3
+    },
+    {
+      "session_id": "session-004",
+      "date": "2026-10-07",
+      "duration_minutes": 15,
+      "skills_practiced": [
+        "grammar",
+        "vocabulary"
+      ],
+      "command_used": "/fluent-review",
+      "exercises_completed": 10,
+      "accuracy": 0.6,
+      "score_breakdown": {
+        "grammar": 0.75,
+        "vocabulary": 0.5
+      },
+      "topics_covered": [],
+      "breakthroughs": [
+        "was/were correct under pressure (fossilized error broken)",
+        "do-support with 'have' locked in",
+        "move forward with + build a solid reputation: 10/10"
+      ],
+      "focus_next_session": [
+        "Finish review items 11-20",
+        "PT calques: fiquei feliz, levei X tempo, me adaptar, ter fama",
+        "Connectors: so vs furthermore"
+      ],
+      "notes": "Partial review: 10/20 items (learner stopped at item 11, continues tomorrow). Accuracy 75% on 0-10 scale; 6/10 scored 8+. Clear pattern: grammar is solid when attended to; errors are Portuguese calques.",
+      "achievements_earned": [],
+      "streak_day": 3
+    },
+    {
+      "session_id": "session-005",
+      "date": "2026-10-09",
+      "duration_minutes": 60,
+      "skills_practiced": [
+        "speaking"
+      ],
+      "command_used": "voice-claude-chat",
+      "exercises_completed": 10,
+      "accuracy": 0.7,
+      "score_breakdown": {
+        "speaking": 0.7
+      },
+      "topics_covered": [
+        "warm_up",
+        "calque_killer",
+        "vocabulary_in_action",
+        "ed_pronunciation",
+        "performance_review_roleplay",
+        "stoicism_vs_romans_debate"
+      ],
+      "breakthroughs": [
+        "9 Portuguese calques fixed in one session",
+        "2-minute debate turn with clear argument",
+        "Fewer restarts than session-003"
+      ],
+      "focus_next_session": [
+        "Preposition + -ing: open to learning, instead of focusing, a reputation for being, interested in working",
+        "appreciate IT if",
+        "Clear SR backlog with /fluent-review"
+      ],
+      "notes": "Voice session in Claude chat following Day-4 lesson plan; all 6 blocks done. Fluency 7/10, accuracy 7/10. Oct 8 had no recorded session (streak reset). Learner commitment: record 4 prep+ing phrases, one take each.",
+      "achievements_earned": [],
+      "streak_day": 1
+    },
+    {
+      "session_id": "session-006",
+      "date": "2026-10-13",
+      "duration_minutes": 25,
+      "skills_practiced": [
+        "grammar",
+        "vocabulary"
+      ],
+      "command_used": "/fluent-review",
+      "exercises_completed": 19,
+      "accuracy": 0.421,
+      "score_breakdown": {
+        "grammar": 0.143,
+        "vocabulary": 0.583
+      },
+      "topics_covered": [],
+      "breakthroughs": [
+        "Spontaneous 'open to negotiating' 10 items after failing 'open to learn'",
+        "Calques fixed: adapt to, proud of myself, gathered, found out, was thrilled, so",
+        "employer vs employee 3/3"
+      ],
+      "focus_next_session": [
+        "'to' as preposition + -ing (open to, look forward to)",
+        "I would appreciate IT if",
+        "move forward with (not move on)"
+      ],
+      "notes": "Review 20/42 (item 18 pronunciation skipped, not scored). Avg 7.1/10 on 19 scored items. Returned after 4-day gap (last session Oct 9); accuracy dipped to 54% at item 5 then recovered to 71%. Learner asked 3 strong meta-questions (to-preposition rule, how/what about, appreciate it if) - good metalinguistic awareness. Avoidance strategy observed on item 2.",
+      "achievements_earned": [],
+      "streak_day": 1
+    },
+    {
+      "session_id": "session-007",
+      "date": "2026-10-13",
+      "duration_minutes": 20,
+      "skills_practiced": [
+        "speaking"
+      ],
+      "command_used": "voice-claude-chat",
+      "exercises_completed": 10,
+      "accuracy": 0.6,
+      "score_breakdown": {
+        "speaking": 0.6
+      },
+      "topics_covered": [
+        "weekend",
+        "work_project",
+        "2_kings",
+        "trip_planning"
+      ],
+      "breakthroughs": [
+        "'instead of hearing' produced spontaneously",
+        "Best answer: 2 Kings — drifting from God's law (long reflective turn)"
+      ],
+      "focus_next_session": [
+        "Preposition + -ing vs infinitive 'to' (drills skipped today)",
+        "I would appreciate it if",
+        "Plural subject-verb agreement (were)"
+      ],
+      "notes": "Voice session, ~20 min. Only Block 1 started; learner chose free conversation over drills. Fluency 7/10, accuracy 6/10. Untested: open to learning, appreciate it if, move forward with, all the information, made the decision, it took you. Commitment: 8 sentences (4 prep+ing, 4 infinitive) before next session.",
+      "achievements_earned": [],
+      "streak_day": 1
+    },
+    {
+      "session_id": "session-008",
+      "date": "2026-10-14",
+      "duration_minutes": 25,
+      "skills_practiced": [
+        "grammar",
+        "vocabulary",
+        "pronunciation"
+      ],
+      "command_used": "/fluent-review",
+      "exercises_completed": 16,
+      "accuracy": 0.438,
+      "score_breakdown": {
+        "grammar": 0.714,
+        "vocabulary": 0.25,
+        "pronunciation": 0.0
+      },
+      "topics_covered": [],
+      "breakthroughs": [
+        "Preposition vs infinitive 'to' discrimination: 3/3 (committed to delivering, want to grow, looking forward to leading)",
+        "'how about starting to work' — avoided double -ing by instinct",
+        "got to + had already started: 10/10",
+        "go out to lunch / grab a coffee / discuss (no about): native-like"
+      ],
+      "focus_next_session": [
+        "Uncountables: information, advice (repeat failure)",
+        "open to + -ing in FREE production (not fill-in)",
+        "-ed pronunciation: asked = /t/",
+        "appreciate IT if"
+      ],
+      "notes": "Review 16/44 (stopped at item 17 on learner request). Avg 7.1/10. Streak 2. Clear declarative vs procedural gap: rule correct in fill-in, fails in free translation under divided attention. Avoidance observed twice (reputation, depreciate). Typos/fatigue at end. Commitment (8 sentences) not delivered yet.",
+      "achievements_earned": [],
+      "streak_day": 2
+    },
+    {
+      "session_id": "session-009",
+      "date": "2026-10-16",
+      "duration_minutes": 46,
+      "skills_practiced": [
+        "grammar",
+        "vocabulary"
+      ],
+      "command_used": "external-assessment",
+      "exercises_completed": 60,
+      "accuracy": 0.817,
+      "score_breakdown": {
+        "grammar": 0.9,
+        "vocabulary": 0.733
+      },
+      "topics_covered": [
+        "placement_test"
+      ],
+      "breakthroughs": [
+        "Placement test: 49/60 (~82%), confirmed B2",
+        "Strong on tenses, conditionals (3rd), passives, question tags, C1 items: outweigh, broaden horizons, get point across, fill in"
+      ],
+      "focus_next_session": [
+        "Business collocations: meet a deadline, place an order, find/come up with a solution",
+        "little vs few (uncountables)",
+        "Irregular past participles"
+      ],
+      "notes": "External placement test (60 items, 45:41). Result B2. 10 wrong + 1 blank. 6 of 11 misses are collocations — the main B2→C1 gap. Q47 'few information' is the same uncountable pattern as review sessions.",
+      "achievements_earned": [],
+      "streak_day": 1
+    }
+  ],
+  "milestones": [
+    {
+      "date": "2026-10-05",
+      "milestone": "First 50-minute voice speaking session",
+      "session_id": "session-001"
+    },
+    {
+      "date": "2026-10-06",
+      "milestone": "First 90-second sustained speaking turn",
+      "session_id": "session-002"
+    },
+    {
+      "date": "2026-10-07",
+      "milestone": "First C1-style abstract debate in English",
+      "session_id": "session-003"
+    },
+    {
+      "date": "2026-10-09",
+      "milestone": "First full 60-minute structured lesson plan completed",
+      "session_id": "session-005"
+    }
+  ]
+}

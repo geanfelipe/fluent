@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 22
+    "total_sessions": 23
   },
   "sessions": [
     {
@@ -738,6 +738,45 @@
       "notes": "Second trial class with a different native teacher (48 min, recorded). Clean two-channel transcript. Talk ratio learner ~2,834 / teacher ~3,190 words (~47% / 53%). Teacher corrected live (frustrated → frustrating; made learner repeat and reuse), keeps a shared doc of corrections, assigns short stories, and asked learner to note unknown words from meetings. Learner gave positive feedback ('you let me speak'). Recommended teacher over trial 1.",
       "achievements_earned": [],
       "streak_day": 3
+    },
+    {
+      "session_id": "session-023",
+      "date": "2026-10-30",
+      "duration_minutes": 46,
+      "skills_practiced": [
+        "speaking"
+      ],
+      "command_used": "private-teacher-lesson",
+      "exercises_completed": 20,
+      "accuracy": 0.65,
+      "score_breakdown": {
+        "speaking": 0.65
+      },
+      "topics_covered": [
+        "small talk",
+        "presentation at work",
+        "history",
+        "culture",
+        "elections",
+        "age limits"
+      ],
+      "breakthroughs": [
+        "Self-corrected live: on YouTube, prison system, used",
+        "Long narrative turns on complex topics (history, election rules)",
+        "Negative question: Isn't voting mandatory in the US?",
+        "Asked the teacher follow-up questions"
+      ],
+      "focus_next_session": [
+        "be + age (I'm 17)",
+        "actual vs current",
+        "dummy it",
+        "used to + -ing",
+        "different from / between X and Y",
+        "steer the lesson: ask for pushback role-play; talk ratio back above 50%"
+      ],
+      "notes": "Paid lesson #1 with the recommended teacher (46 min). Talk ratio ~39% (trial 2: 47%) - teacher told long personal stories; no work role-play yet.",
+      "achievements_earned": [],
+      "streak_day": 1
     }
   ],
   "milestones": [

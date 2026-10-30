@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "last_updated": "2026-10-09",
+    "language": "English",
+    "tracking_started": "2026-10-05"
+  },
+  "overall_stats": {
+    "total_sessions": 5,
+    "total_exercises": 49,
+    "total_correct": 31,
+    "total_incorrect": 18,
+    "accuracy_rate": 0.633,
+    "total_study_minutes": 188,
+    "average_session_duration": 38
+  },
+  "accuracy_trend": [
+    {
+      "date": "2026-10-05",
+      "accuracy": 0.571,
+      "exercises": 7
+    },
+    {
+      "date": "2026-10-06",
+      "accuracy": 0.6,
+      "exercises": 10
+    },
+    {
+      "date": "2026-10-07",
+      "accuracy": 0.6,
+      "exercises": 22
+    },
+    {
+      "date": "2026-10-09",
+      "accuracy": 0.7,
+      "exercises": 10
+    }
+  ],
+  "skill_progress": {
+    "writing": {
+      "sessions": 0,
+      "accuracy": 0.0,
+      "last_practiced": null
+    },
+    "speaking": {
+      "sessions": 4,
+      "accuracy": 0.617,
+      "last_practiced": "2026-10-09",
+      "exercises_completed": 37,
+      "correct_count": 23,
+      "incorrect_count": 14
+    },
+    "vocabulary": {
+      "sessions": 1,
+      "accuracy": 0.5,
+      "last_practiced": "2026-10-07",
+      "exercises_completed": 6,
+      "correct_count": 3,
+      "incorrect_count": 3
+    },
+    "reading": {
+      "sessions": 1,
+      "accuracy": 1.0,
+      "last_practiced": "2026-10-07",
+      "exercises_completed": 2,
+      "correct_count": 2,
+      "incorrect_count": 0
+    },
+    "listening": {
+      "sessions": 0,
+      "accuracy": 0.0,
+      "last_practiced": null
+    },
+    "grammar": {
+      "sessions": 1,
+      "accuracy": 0.75,
+      "last_practiced": "2026-10-07",
+      "exercises_completed": 4,
+      "correct_count": 3,
+      "incorrect_count": 1
+    }
+  },
+  "weekly_summary": [
+    {
+      "week_start": "2026-10-05",
+      "sessions": 5,
+      "total_minutes": 188,
+      "accuracy": 0.627
+    }
+  ]
+}
