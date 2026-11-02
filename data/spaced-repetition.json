@@ -45,6 +45,7 @@
       "vocab_complain_about",
       "prep_get_to_place",
       "collocation_make_a_decision",
+      "grammar_uncountable_information",
       "vocab_struck_me",
       "vocab_drift_away",
       "vocab_get_going",
@@ -169,6 +170,7 @@
       "vocab_ensure_traceability",
       "vocab_register_shift",
       "vocab_makes_me_anxious",
+      "vocab_embarrassed_vs_ashamed",
       "grammar_too_vs_very",
       "calque_searching_for_job",
       "grammar_gerund_as_subject",
@@ -254,6 +256,20 @@
       "calque_the_important_is",
       "vocab_funded_founded",
       "grammar_nationality_plural"
+    ],
+    "tomorrow": [
+      "vocab_commemorate",
+      "vocab_rivalry_debate",
+      "vocab_try_as_adult",
+      "vocab_runoff_primary",
+      "vocab_train_of_thought",
+      "calque_age_be_not_have",
+      "false_friend_actual_current",
+      "grammar_expect_someone_to",
+      "prep_time_at_on",
+      "vocab_fine_vs_bill",
+      "grammar_centuries",
+      "pron_adult"
     ],
     "this_week": [
       "vocab_non_technical_stakeholders",
