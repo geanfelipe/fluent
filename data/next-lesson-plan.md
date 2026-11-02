@@ -37,7 +37,7 @@ Every lesson: warm-up drill (5) → core skill (10) → role-play as the lead or
 | Prepositions / fixed expressions (in production, the same as, need to) | 7 | Oct 23: at runtime ✅, both ✅, the same as ✅, impact on ✅ · still: on Thursday, split into, think of |
 | Word forms (refactoring, scheduled task) | 3 | Oct 19: ✅✅ |
 | Small words dropped (is, it, the, of, then) | — | Oct 23: 6 dropped in one sentence · Oct 24 voice: after (that), review (it), (an) issue |
-| Pushback with evidence | — | Oct 24 text R1: structure ✅, no fact/dates (6/10) · voice: skipped 3× · trial class Oct 26: not done |
+| Pushback with evidence | — | Oct 24 text R1: structure ✅, no fact/dates (6/10) · voice: skipped 3× · trial class Oct 26: not done · Nov 2 review: facts ✅, no proposal/date (5/10) |
 | Articles / tense in free speech | — | Trial class Oct 26: a developer, went to, didn't know, seemed |
 | Talk ratio with a human teacher | target 70% | Trial 1 (Oct 26): 19% · Trial 2 (Oct 28): 47% · Paid #1 (Oct 30): 39% |
 

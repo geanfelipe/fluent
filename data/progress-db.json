@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "last_updated": "2026-10-30",
+    "last_updated": "2026-11-02",
     "language": "English",
     "tracking_started": "2026-10-05"
   },
   "overall_stats": {
-    "total_sessions": 23,
-    "total_exercises": 450,
-    "total_correct": 263,
-    "total_incorrect": 187,
-    "accuracy_rate": 0.584,
-    "total_study_minutes": 736,
+    "total_sessions": 24,
+    "total_exercises": 470,
+    "total_correct": 274,
+    "total_incorrect": 196,
+    "accuracy_rate": 0.583,
+    "total_study_minutes": 771,
     "average_session_duration": 32
   },
   "accuracy_trend": [
@@ -93,6 +93,11 @@
       "date": "2026-10-30",
       "accuracy": 0.65,
       "exercises": 20
+    },
+    {
+      "date": "2026-11-02",
+      "accuracy": 0.55,
+      "exercises": 20
     }
   ],
   "skill_progress": {
@@ -102,20 +107,20 @@
       "last_practiced": null
     },
     "speaking": {
-      "sessions": 13,
-      "accuracy": 0.575,
-      "last_practiced": "2026-10-30",
-      "exercises_completed": 181,
+      "sessions": 14,
+      "accuracy": 0.534,
+      "last_practiced": "2026-11-02",
+      "exercises_completed": 182,
       "correct_count": 105,
-      "incorrect_count": 76
+      "incorrect_count": 77
     },
     "vocabulary": {
-      "sessions": 11,
-      "accuracy": 0.489,
-      "last_practiced": "2026-10-27",
-      "exercises_completed": 141,
-      "correct_count": 76,
-      "incorrect_count": 65
+      "sessions": 12,
+      "accuracy": 0.496,
+      "last_practiced": "2026-11-02",
+      "exercises_completed": 148,
+      "correct_count": 80,
+      "incorrect_count": 68
     },
     "reading": {
       "sessions": 1,
@@ -134,12 +139,12 @@
       "incorrect_count": 1
     },
     "grammar": {
-      "sessions": 10,
-      "accuracy": 0.527,
-      "last_practiced": "2026-10-27",
-      "exercises_completed": 108,
-      "correct_count": 64,
-      "incorrect_count": 44
+      "sessions": 11,
+      "accuracy": 0.532,
+      "last_practiced": "2026-11-02",
+      "exercises_completed": 120,
+      "correct_count": 71,
+      "incorrect_count": 49
     },
     "pronunciation": {
       "sessions": 2,
@@ -174,6 +179,12 @@
       "sessions": 5,
       "total_minutes": 174,
       "accuracy": 0.498
+    },
+    {
+      "week_start": "2026-11-02",
+      "sessions": 1,
+      "total_minutes": 35,
+      "accuracy": 0.55
     }
   ]
 }

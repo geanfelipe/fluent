@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-10-30",
-    "total_patterns_tracked": 170,
+    "last_updated": "2026-11-02",
+    "total_patterns_tracked": 175,
     "language": "English"
   },
   "error_patterns": {
@@ -632,14 +632,14 @@
       "subcategory": "missing_object",
       "description": "",
       "severity": "moderate",
-      "frequency": 3,
+      "frequency": 4,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-14",
-      "last_occurred": "2026-10-14",
-      "next_review": "2026-10-15",
+      "last_seen": "2026-11-02",
+      "last_occurred": "2026-11-02",
+      "next_review": "2026-11-03",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 3,
+      "consecutive_incorrect": 4,
       "examples": [
         {
           "incorrect": "I would appreciate if the company...",
@@ -658,9 +658,15 @@
           "correct": "I'd appreciate it if you could send me the report",
           "context": "item 4",
           "date": "2026-10-14"
+        },
+        {
+          "incorrect": "I would appreciate if we could",
+          "correct": "I'd appreciate it if we could",
+          "context": "review 19",
+          "date": "2026-11-02"
         }
       ],
-      "notes": ""
+      "notes": "also avoided 'appreciate the complexity'"
     },
     "grammar_reflexive_myself": {
       "category": "grammar",
@@ -1548,14 +1554,14 @@
       "subcategory": "subject_verb_agreement",
       "description": "",
       "severity": "moderate",
-      "frequency": 4,
+      "frequency": 5,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-27",
-      "last_occurred": "2026-10-27",
-      "next_review": "2026-10-28",
+      "last_seen": "2026-11-02",
+      "last_occurred": "2026-11-02",
+      "next_review": "2026-11-03",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 4,
+      "consecutive_incorrect": 5,
       "examples": [
         {
           "incorrect": "when the PM get back",
@@ -1580,6 +1586,12 @@
           "correct": "some words sound very Portuguese",
           "context": "trial class (-s on a plural subject)",
           "date": "2026-10-27"
+        },
+        {
+          "incorrect": "it have never supported",
+          "correct": "it has never supported it",
+          "context": "review 2",
+          "date": "2026-11-02"
         }
       ],
       "notes": ""
@@ -1919,21 +1931,15 @@
       "subcategory": "dropped_function_words",
       "description": "",
       "severity": "moderate",
-      "frequency": 10,
+      "frequency": 11,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-30",
-      "last_occurred": "2026-10-30",
-      "next_review": "2026-10-31",
+      "last_seen": "2026-11-02",
+      "last_occurred": "2026-11-02",
+      "next_review": "2026-11-03",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 10,
+      "consecutive_incorrect": 11,
       "examples": [
-        {
-          "incorrect": "by tomorrows meeting",
-          "correct": "by tomorrow's meeting",
-          "context": "word 19",
-          "date": "2026-10-24"
-        },
         {
           "incorrect": "After, I will review with the team / If issue comes up",
           "correct": "After that, I'll review it with the team / If an issue comes up",
@@ -1957,6 +1963,12 @@
           "correct": "an event / the majority of Brazilians / a Catholic holiday / go to jail / the US has",
           "context": "paid lesson #1",
           "date": "2026-10-30"
+        },
+        {
+          "incorrect": "same jail / In US / creates report",
+          "correct": "the same prison / In the US / creates a report",
+          "context": "reviews 1, 13, 18",
+          "date": "2026-11-02"
         }
       ],
       "notes": ""
@@ -2491,20 +2503,26 @@
       "subcategory": "dropped_object",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-23",
-      "last_occurred": "2026-10-23",
-      "next_review": "2026-10-24",
+      "last_seen": "2026-11-02",
+      "last_occurred": "2026-11-02",
+      "next_review": "2026-11-03",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "I will replicate on test / sent to the lead / hasn't read yet",
           "correct": "replicate it in the test / sent it to the lead / hasn't read it yet",
           "context": "items 4, 9, 19 + real meeting",
           "date": "2026-10-23"
+        },
+        {
+          "incorrect": "it have never supported",
+          "correct": "it has never supported it",
+          "context": "review 2",
+          "date": "2026-11-02"
         }
       ],
       "notes": ""
@@ -2969,23 +2987,29 @@
       "subcategory": "seniority",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-24",
-      "last_occurred": "2026-10-24",
-      "next_review": "2026-10-25",
+      "last_seen": "2026-11-02",
+      "last_occurred": "2026-11-02",
+      "next_review": "2026-11-03",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "due to the complexity of the requirement / a first initial version / after that the final package",
           "correct": "Based on what we've seen in test, [fact]. By [date], [partial]; by [date], [full].",
           "context": "Step 4 round 1: vague reason, no dates",
           "date": "2026-10-24"
+        },
+        {
+          "incorrect": "I understand but the acceptance tests are still missing and the baseline wasn't captured",
+          "correct": "I understand the urgency. However, ... hasn't been captured yet, so Friday would put production at risk. What if we deliver X by Friday and Y by next Wednesday?",
+          "context": "review 20",
+          "date": "2026-11-02"
         }
       ],
-      "notes": ""
+      "notes": "facts present (first time); no proposal/date; 1 sentence"
     },
     "prep_work_for_company": {
       "category": "grammar",
@@ -3970,37 +3994,43 @@
       "subcategory": "false_friend",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-28",
-      "last_occurred": "2026-10-28",
-      "next_review": "2026-10-29",
+      "last_seen": "2026-11-02",
+      "last_occurred": "2026-11-02",
+      "next_review": "2026-11-03",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "I'm a bit ashamed / you get a shame",
           "correct": "I feel a bit embarrassed / self-conscious",
           "context": "trial class 2 (3 times)",
           "date": "2026-10-28"
+        },
+        {
+          "incorrect": "I got shamed ... in the front of everybody",
+          "correct": "I felt embarrassed ... in front of everyone",
+          "context": "review 9",
+          "date": "2026-11-02"
         }
       ],
-      "notes": ""
+      "notes": "4th time"
     },
     "grammar_different_from": {
       "category": "grammar",
       "subcategory": "preposition",
       "description": "",
       "severity": "moderate",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-30",
-      "last_occurred": "2026-10-30",
-      "next_review": "2026-10-31",
+      "last_seen": "2026-11-02",
+      "last_occurred": "2026-11-02",
+      "next_review": "2026-11-03",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "Spanish is different in English",
@@ -4013,9 +4043,15 @@
           "correct": "different from the US / between X and Y",
           "context": "paid lesson #1",
           "date": "2026-10-30"
+        },
+        {
+          "incorrect": "very different of production",
+          "correct": "very different from production",
+          "context": "review 6",
+          "date": "2026-11-02"
         }
       ],
-      "notes": "repeat from trial 2"
+      "notes": "3rd wrong preposition: in/to/of"
     },
     "grammar_used_to_ing": {
       "category": "grammar",
@@ -4126,20 +4162,26 @@
       "subcategory": "calque",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-28",
-      "last_occurred": "2026-10-28",
-      "next_review": "2026-10-29",
+      "last_seen": "2026-11-02",
+      "last_occurred": "2026-11-02",
+      "next_review": "2026-11-03",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "I knew maybe five states",
           "correct": "I visited / got to see about five states",
           "context": "trial class 2 (conhecer = visit)",
           "date": "2026-10-28"
+        },
+        {
+          "incorrect": "I knew five states / I don't know New York yet",
+          "correct": "I visited five states / I haven't been to New York yet",
+          "context": "review 14",
+          "date": "2026-11-02"
         }
       ],
       "notes": ""
@@ -4172,23 +4214,29 @@
       "subcategory": "collocation",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-28",
-      "last_occurred": "2026-10-28",
-      "next_review": "2026-10-29",
+      "last_seen": "2026-11-02",
+      "last_occurred": "2026-11-02",
+      "next_review": "2026-11-03",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "even if I get some errors, I face some errors",
           "correct": "even if I make mistakes",
           "context": "trial class 2",
           "date": "2026-10-28"
+        },
+        {
+          "incorrect": "Everyone commits errors when it's learning",
+          "correct": "Everyone makes mistakes when they're learning",
+          "context": "review 15",
+          "date": "2026-11-02"
         }
       ],
-      "notes": ""
+      "notes": "cometer -> commit calque"
     },
     "grammar_dummy_it": {
       "category": "grammar",
@@ -4339,43 +4387,55 @@
       "subcategory": "expect + object + to",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-30",
-      "last_occurred": "2026-10-30",
-      "next_review": "2026-10-31",
+      "last_seen": "2026-11-02",
+      "last_occurred": "2026-11-02",
+      "next_review": "2026-11-03",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "everyone was expecting to the right party win / instead of everyone was expecting",
           "correct": "everyone expected the right-wing party to win / contrary to what everyone expected",
           "context": "paid lesson #1",
           "date": "2026-10-30"
+        },
+        {
+          "incorrect": "The lead waits that I finish / nobody expected the tests failed",
+          "correct": "The lead expects me to finish / nobody expected the tests to fail",
+          "context": "review 7",
+          "date": "2026-11-02"
         }
       ],
-      "notes": ""
+      "notes": "esperar -> wait vs expect"
     },
     "prep_time_at_on": {
       "category": "preposition",
       "subcategory": "time",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-30",
-      "last_occurred": "2026-10-30",
-      "next_review": "2026-10-31",
+      "last_seen": "2026-11-02",
+      "last_occurred": "2026-11-02",
+      "next_review": "2026-11-03",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "in the end of the day, in the Sunday / in 5 October",
           "correct": "at the end of the day, on Sunday / on October 5th",
           "context": "paid lesson #1",
           "date": "2026-10-30"
+        },
+        {
+          "incorrect": "In the end of the day / or November 5",
+          "correct": "At the end of the day / or on November 5th",
+          "context": "review 8",
+          "date": "2026-11-02"
         }
       ],
       "notes": ""
@@ -4408,23 +4468,29 @@
       "subcategory": "numbers",
       "description": "",
       "severity": "minor",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-30",
-      "last_occurred": "2026-10-30",
-      "next_review": "2026-10-31",
+      "last_seen": "2026-11-02",
+      "last_occurred": "2026-11-02",
+      "next_review": "2026-11-03",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "in 15th century (1500) / late 18th century (1859)",
           "correct": "in the 16th century / in the mid-19th century",
           "context": "paid lesson #1",
           "date": "2026-10-30"
+        },
+        {
+          "incorrect": "in 15 century / in 18 centuries",
+          "correct": "in the 16th century (1500) / in the 19th century (1862)",
+          "context": "review 16",
+          "date": "2026-11-02"
         }
       ],
-      "notes": "1500s = 16th c.; 1800s = 19th c."
+      "notes": "first two digits + 1"
     },
     "pron_adult": {
       "category": "pronunciation",
@@ -4448,6 +4514,121 @@
         }
       ],
       "notes": "voice only"
+    },
+    "grammar_suggest_ing": {
+      "category": "grammar",
+      "subcategory": "verb pattern",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-02",
+      "last_occurred": "2026-11-02",
+      "next_review": "2026-11-03",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I suggest you to write a test",
+          "correct": "I suggest writing a test / I suggest (that) we write",
+          "context": "review 11",
+          "date": "2026-11-02"
+        }
+      ],
+      "notes": "also recommend"
+    },
+    "grammar_be_plus_main_verb": {
+      "category": "grammar",
+      "subcategory": "auxiliary",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-02",
+      "last_occurred": "2026-11-02",
+      "next_review": "2026-11-03",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I receive ... I'm still have other thing",
+          "correct": "I got ... I still have other things",
+          "context": "review 12",
+          "date": "2026-11-02"
+        }
+      ],
+      "notes": ""
+    },
+    "calque_the_important_is": {
+      "category": "calque",
+      "subcategory": "adjective as noun",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-02",
+      "last_occurred": "2026-11-02",
+      "next_review": "2026-11-03",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "The important is not committing the same errors",
+          "correct": "The important thing is not to make the same mistake",
+          "context": "review 15",
+          "date": "2026-11-02"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_funded_founded": {
+      "category": "vocabulary",
+      "subcategory": "confusable",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-02",
+      "last_occurred": "2026-11-02",
+      "next_review": "2026-11-03",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "the church was funded",
+          "correct": "the church was founded",
+          "context": "review 16",
+          "date": "2026-11-02"
+        }
+      ],
+      "notes": "funded = financed"
+    },
+    "grammar_nationality_plural": {
+      "category": "grammar",
+      "subcategory": "plural",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-02",
+      "last_occurred": "2026-11-02",
+      "next_review": "2026-11-03",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "The Portugueses",
+          "correct": "The Portuguese",
+          "context": "review 16",
+          "date": "2026-11-02"
+        }
+      ],
+      "notes": "-ese nationalities: no -s"
     }
   }
 }

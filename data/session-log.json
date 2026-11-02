@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 23
+    "total_sessions": 24
   },
   "sessions": [
     {
@@ -775,6 +775,56 @@
         "steer the lesson: ask for pushback role-play; talk ratio back above 50%"
       ],
       "notes": "Paid lesson #1 with the recommended teacher (46 min). Talk ratio ~39% (trial 2: 47%) - teacher told long personal stories; no work role-play yet.",
+      "achievements_earned": [],
+      "streak_day": 1
+    },
+    {
+      "session_id": "session-024",
+      "date": "2026-11-02",
+      "duration_minutes": 35,
+      "skills_practiced": [
+        "grammar",
+        "vocabulary",
+        "writing",
+        "speaking"
+      ],
+      "command_used": "/fluent-review",
+      "exercises_completed": 20,
+      "accuracy": 0.55,
+      "score_breakdown": {
+        "grammar": 0.583,
+        "vocabulary": 0.571,
+        "speaking": 0.0
+      },
+      "topics_covered": [
+        "be + age",
+        "false friends",
+        "used to + -ing",
+        "dummy it",
+        "prepositions",
+        "expect + object + to",
+        "phrasal verbs (sort out, pronoun position)",
+        "centuries",
+        "pushback"
+      ],
+      "breakthroughs": [
+        "If you're 17 (calque fixed)",
+        "Instead of fixing / interested in improving (hardest item, EF 1.3)",
+        "information / advice without -s",
+        "3/3 third-person -s in one sentence",
+        "told me / didn't say why",
+        "First pushback with concrete facts",
+        "Used sort it out correctly on first try"
+      ],
+      "focus_next_session": [
+        "expect someone to do",
+        "make mistakes (not commit)",
+        "visited / been to (not know)",
+        "different from",
+        "centuries",
+        "pushback: add proposal + date"
+      ],
+      "notes": "Review after 3-day gap. 20 items, avg 6.6/10, 11/20 >= 7. Learner asked about sort out and pronoun position in phrasal verbs (end-focus).",
       "achievements_earned": [],
       "streak_day": 1
     }
