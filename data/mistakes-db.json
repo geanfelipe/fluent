@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-11-03",
-    "total_patterns_tracked": 180,
+    "last_updated": "2026-11-04",
+    "total_patterns_tracked": 186,
     "language": "English"
   },
   "error_patterns": {
@@ -272,21 +272,15 @@
       "subcategory": "preposition_plus_ing",
       "description": "",
       "severity": "minor",
-      "frequency": 10,
+      "frequency": 11,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-30",
-      "last_occurred": "2026-10-30",
-      "next_review": "2026-10-31",
+      "last_seen": "2026-11-04",
+      "last_occurred": "2026-11-04",
+      "next_review": "2026-11-05",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 10,
+      "consecutive_incorrect": 11,
       "examples": [
-        {
-          "incorrect": "what you mean by clean up",
-          "correct": "what you mean by cleaning up",
-          "context": "by + -ing",
-          "date": "2026-10-20"
-        },
         {
           "incorrect": "Instead of sound like a robotic something",
           "correct": "Instead of sounding robotic",
@@ -310,6 +304,12 @@
           "correct": "the Spanish way of conquering the region",
           "context": "paid lesson #1",
           "date": "2026-10-30"
+        },
+        {
+          "incorrect": "the only task missing is related to find this bug / the plan now is fix the problem / wrap up this fixing / until complete",
+          "correct": "is finding and fixing this bug / the plan is to fix it / wrap up this fix / until it's done",
+          "context": "teacher lesson, role-play",
+          "date": "2026-11-04"
         }
       ],
       "notes": "also: conquered by force (no 'the')"
@@ -1079,23 +1079,29 @@
       "subcategory": "false_cognate",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-14",
-      "last_occurred": "2026-10-14",
-      "next_review": "2026-10-15",
+      "last_seen": "2026-11-04",
+      "last_occurred": "2026-11-04",
+      "next_review": "2026-11-05",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "the directory decided",
           "correct": "the board decided",
           "context": "'diretoria'",
           "date": "2026-10-14"
+        },
+        {
+          "incorrect": "At last they scaled this problem to the directory",
+          "correct": "In the end, they escalated the problem to senior management",
+          "context": "teacher lesson, role-play",
+          "date": "2026-11-04"
         }
       ],
-      "notes": ""
+      "notes": "also at last -> in the end; scaled -> escalated"
     },
     "vocab_merger_vs_merge": {
       "category": "vocabulary",
@@ -1786,21 +1792,15 @@
       "subcategory": "question_formation",
       "description": "",
       "severity": "critical",
-      "frequency": 6,
+      "frequency": 7,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-30",
-      "last_occurred": "2026-10-30",
-      "next_review": "2026-10-31",
+      "last_seen": "2026-11-04",
+      "last_occurred": "2026-11-04",
+      "next_review": "2026-11-05",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 6,
+      "consecutive_incorrect": 7,
       "examples": [
-        {
-          "incorrect": "What exactly I need to talk to them about",
-          "correct": "What exactly do I need to talk to them about?",
-          "context": "role-play under pressure (correct in warm-up)",
-          "date": "2026-10-20"
-        },
         {
           "incorrect": "What exactly I need to align with the business team?",
           "correct": "What exactly do I need to align with the business team?",
@@ -1824,9 +1824,15 @@
           "correct": "Why are there two countries?",
           "context": "paid lesson #1",
           "date": "2026-10-30"
+        },
+        {
+          "incorrect": "Do your Americans measure that things are different as well?",
+          "correct": "Do Americans measure things differently too?",
+          "context": "teacher lesson",
+          "date": "2026-11-04"
         }
       ],
-      "notes": "other questions OK: Have you been to Ireland? Isn't voting mandatory?"
+      "notes": "auxiliary OK; adverb + structure"
     },
     "collocation_the_same_as": {
       "category": "vocabulary",
@@ -1937,21 +1943,15 @@
       "subcategory": "dropped_function_words",
       "description": "",
       "severity": "moderate",
-      "frequency": 11,
+      "frequency": 12,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-02",
-      "last_occurred": "2026-11-02",
-      "next_review": "2026-11-03",
+      "last_seen": "2026-11-04",
+      "last_occurred": "2026-11-04",
+      "next_review": "2026-11-05",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 11,
+      "consecutive_incorrect": 12,
       "examples": [
-        {
-          "incorrect": "After, I will review with the team / If issue comes up",
-          "correct": "After that, I'll review it with the team / If an issue comes up",
-          "context": "voice L3 small-words warm-up",
-          "date": "2026-10-24"
-        },
         {
           "incorrect": "I'll review with the lead and after send it",
           "correct": "I'll review it with the lead and then send it",
@@ -1975,6 +1975,12 @@
           "correct": "the same prison / In the US / creates a report",
           "context": "reviews 1, 13, 18",
           "date": "2026-11-02"
+        },
+        {
+          "incorrect": "related to economy / US invests / the primary education / the access to education",
+          "correct": "the economy / the US / primary education / access to education",
+          "context": "teacher lesson",
+          "date": "2026-11-04"
         }
       ],
       "notes": ""
@@ -3891,23 +3897,29 @@
       "subcategory": "preposition",
       "description": "",
       "severity": "minor",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-27",
-      "last_occurred": "2026-10-27",
-      "next_review": "2026-10-28",
+      "last_seen": "2026-11-04",
+      "last_occurred": "2026-11-04",
+      "next_review": "2026-11-05",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "What do you mean about...?",
           "correct": "What do you mean by...?",
           "context": "trial class",
           "date": "2026-10-27"
+        },
+        {
+          "incorrect": "What do you mean about this?",
+          "correct": "What do you mean by that?",
+          "context": "teacher lesson, role-play",
+          "date": "2026-11-04"
         }
       ],
-      "notes": ""
+      "notes": "repeat from trial 1"
     },
     "vocab_conversate_talk": {
       "category": "vocabulary",
@@ -4428,14 +4440,14 @@
       "subcategory": "time",
       "description": "",
       "severity": "moderate",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-02",
-      "last_occurred": "2026-11-02",
-      "next_review": "2026-11-03",
+      "last_seen": "2026-11-04",
+      "last_occurred": "2026-11-04",
+      "next_review": "2026-11-05",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "in the end of the day, in the Sunday / in 5 October",
@@ -4448,9 +4460,15 @@
           "correct": "At the end of the day / or on November 5th",
           "context": "review 8",
           "date": "2026-11-02"
+        },
+        {
+          "incorrect": "I can tell you in the end of the day / leave the school at the afternoon",
+          "correct": "at the end of the day / in the afternoon",
+          "context": "teacher lesson, role-play",
+          "date": "2026-11-04"
         }
       ],
-      "notes": ""
+      "notes": "right after the teacher's model"
     },
     "vocab_fine_vs_bill": {
       "category": "vocabulary",
@@ -4561,20 +4579,26 @@
       "subcategory": "auxiliary",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-02",
-      "last_occurred": "2026-11-02",
-      "next_review": "2026-11-03",
+      "last_seen": "2026-11-04",
+      "last_occurred": "2026-11-04",
+      "next_review": "2026-11-05",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "I receive ... I'm still have other thing",
           "correct": "I got ... I still have other things",
           "context": "review 12",
           "date": "2026-11-02"
+        },
+        {
+          "incorrect": "the return of the investments is needs to improve / teachers can felt valued / the government invest",
+          "correct": "needs to improve / can feel valued / the government invests",
+          "context": "teacher lesson",
+          "date": "2026-11-04"
         }
       ],
       "notes": ""
@@ -4762,6 +4786,144 @@
         }
       ],
       "notes": "accountable = responsible"
+    },
+    "grammar_present_perfect_duration": {
+      "category": "grammar",
+      "subcategory": "present perfect (duration)",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-04",
+      "last_occurred": "2026-11-04",
+      "next_review": "2026-11-05",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "it's one month working in this new schedule / she's not working for two weeks / I'm not having to go to Ecuador",
+          "correct": "I've been working on this schedule for a month / she hasn't worked for two weeks / I've never been to Ecuador",
+          "context": "teacher lesson, free speech",
+          "date": "2026-11-04"
+        }
+      ],
+      "notes": "PT 'faz X que' / 'nunca fui'"
+    },
+    "false_friend_journal_newspaper": {
+      "category": "false_friend",
+      "subcategory": "jornal",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-04",
+      "last_occurred": "2026-11-04",
+      "next_review": "2026-11-05",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Once I read in the journals",
+          "correct": "I once read in the newspaper",
+          "context": "teacher lesson",
+          "date": "2026-11-04"
+        }
+      ],
+      "notes": "journal = academic journal or diary"
+    },
+    "grammar_a_an_sound": {
+      "category": "grammar",
+      "subcategory": "articles",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-04",
+      "last_occurred": "2026-11-04",
+      "next_review": "2026-11-05",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "a issue / a older (an Uber)",
+          "correct": "an issue / an Uber",
+          "context": "teacher lesson",
+          "date": "2026-11-04"
+        }
+      ],
+      "notes": "taught the day before"
+    },
+    "vocab_estimate_noun": {
+      "category": "vocabulary",
+      "subcategory": "word form",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-04",
+      "last_occurred": "2026-11-04",
+      "next_review": "2026-11-05",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "give you estimation / I cannot predict you",
+          "correct": "give you an estimate / I can update you at the end of the day",
+          "context": "teacher lesson, role-play",
+          "date": "2026-11-04"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_spend_vs_spare": {
+      "category": "vocabulary",
+      "subcategory": "confusable",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-04",
+      "last_occurred": "2026-11-04",
+      "next_review": "2026-11-05",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "a good moment to spare the time",
+          "correct": "a good time to spend together",
+          "context": "teacher lesson",
+          "date": "2026-11-04"
+        }
+      ],
+      "notes": "spare time = free time"
+    },
+    "vocab_had_surgery": {
+      "category": "collocation",
+      "subcategory": "have",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-04",
+      "last_occurred": "2026-11-04",
+      "next_review": "2026-11-05",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "she did a surgery",
+          "correct": "she had surgery",
+          "context": "teacher lesson",
+          "date": "2026-11-04"
+        }
+      ],
+      "notes": "did a surgery = performed it (surgeon)"
     }
   }
 }
