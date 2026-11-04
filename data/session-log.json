@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 24
+    "total_sessions": 25
   },
   "sessions": [
     {
@@ -827,6 +827,45 @@
       "notes": "Review after 3-day gap. 20 items, avg 6.6/10, 11/20 >= 7. Learner asked about sort out and pronoun position in phrasal verbs (end-focus).",
       "achievements_earned": [],
       "streak_day": 1
+    },
+    {
+      "session_id": "session-025",
+      "date": "2026-11-03",
+      "duration_minutes": 49,
+      "skills_practiced": [
+        "speaking"
+      ],
+      "command_used": "private-teacher-lesson",
+      "exercises_completed": 20,
+      "accuracy": 0.6,
+      "score_breakdown": {
+        "speaking": 0.6
+      },
+      "topics_covered": [
+        "demonstratives",
+        "countable vs uncountable",
+        "debugging walkthrough",
+        "regression tests",
+        "-ed pronunciation",
+        "a/an by sound",
+        "word order of adjectives and possessives"
+      ],
+      "breakthroughs": [
+        "2-minute technical monologue (regression tests, debugging steps)",
+        "Transferred the pronoun-position rule to 'narrow it down'",
+        "Asked precise meta-language questions (a/an, advice, code)",
+        "Self-corrected 'chat above that' -> 'on that topic'"
+      ],
+      "focus_next_session": [
+        "make sure / ensure (not guarantee)",
+        "related to",
+        "explain X to Y",
+        "cut 'for example' as filler",
+        "pushback role-play in teacher's Wednesday lesson"
+      ],
+      "notes": "Teacher lesson (49 min). Talk ratio ~38% by words. Teacher's weekly plan: lesson 1 work fluency, lesson 2 meetings and teamwork (updates, clarification, disagreeing), lesson 3 presentation and pronunciation. Teacher said 'code' is countable; in software it's mostly uncountable.",
+      "achievements_earned": [],
+      "streak_day": 2
     }
   ],
   "milestones": [

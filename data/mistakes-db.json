@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-11-02",
-    "total_patterns_tracked": 175,
+    "last_updated": "2026-11-03",
+    "total_patterns_tracked": 180,
     "language": "English"
   },
   "error_patterns": {
@@ -864,21 +864,15 @@
       "subcategory": "uncountable_nouns",
       "description": "",
       "severity": "moderate",
-      "frequency": 11,
+      "frequency": 12,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-30",
-      "last_occurred": "2026-10-30",
-      "next_review": "2026-10-31",
+      "last_seen": "2026-11-03",
+      "last_occurred": "2026-11-03",
+      "next_review": "2026-11-04",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 11,
+      "consecutive_incorrect": 12,
       "examples": [
-        {
-          "incorrect": "calls a Java code",
-          "correct": "calls Java code / calls a Java class",
-          "context": "Step 3 explanation",
-          "date": "2026-10-24"
-        },
         {
           "incorrect": "These data with the QA",
           "correct": "this data with the QA team",
@@ -902,9 +896,15 @@
           "correct": "some stuff / all this hardware (these machines)",
           "context": "paid lesson #1",
           "date": "2026-10-30"
+        },
+        {
+          "incorrect": "some evidences / many advice / a wrong data",
+          "correct": "any evidence / much (a lot of) advice / the wrong data",
+          "context": "teacher lesson",
+          "date": "2026-11-03"
         }
       ],
-      "notes": "stuffs again (trial 2)"
+      "notes": "right in drills, wrong in free speech"
     },
     "grammar_need_to_infinitive": {
       "category": "grammar",
@@ -1554,21 +1554,15 @@
       "subcategory": "subject_verb_agreement",
       "description": "",
       "severity": "moderate",
-      "frequency": 5,
+      "frequency": 6,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-02",
-      "last_occurred": "2026-11-02",
-      "next_review": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "last_occurred": "2026-11-03",
+      "next_review": "2026-11-04",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 5,
+      "consecutive_incorrect": 6,
       "examples": [
-        {
-          "incorrect": "when the PM get back",
-          "correct": "when the PM gets back / when they're back",
-          "context": "review item 9",
-          "date": "2026-10-19"
-        },
         {
           "incorrect": "until the accounting team close the books",
           "correct": "until the accounting team closes the books",
@@ -1592,6 +1586,12 @@
           "correct": "it has never supported it",
           "context": "review 2",
           "date": "2026-11-02"
+        },
+        {
+          "incorrect": "the inputs generates the rights outputs / the system try / features that's running",
+          "correct": "the inputs generate the right outputs / the system tries / features that are running",
+          "context": "teacher lesson",
+          "date": "2026-11-03"
         }
       ],
       "notes": ""
@@ -1745,14 +1745,14 @@
       "subcategory": "verb_pattern",
       "description": "",
       "severity": "critical",
-      "frequency": 3,
+      "frequency": 4,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-26",
-      "last_occurred": "2026-10-26",
-      "next_review": "2026-10-27",
+      "last_seen": "2026-11-03",
+      "last_occurred": "2026-11-03",
+      "next_review": "2026-11-04",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 3,
+      "consecutive_incorrect": 4,
       "examples": [
         {
           "incorrect": "Could you explain me again the refactoring plan?",
@@ -1771,9 +1771,15 @@
           "correct": "to follow the ideas they explain to me",
           "context": "trial class (returned in free speech)",
           "date": "2026-10-26"
+        },
+        {
+          "incorrect": "you explain me some ideas / explain to another developer about the issue",
+          "correct": "explain the issue to another developer / give me a topic",
+          "context": "teacher lesson",
+          "date": "2026-11-03"
         }
       ],
-      "notes": ""
+      "notes": "fossil returned in free speech"
     },
     "grammar_question_inversion": {
       "category": "grammar",
@@ -2647,14 +2653,14 @@
       "subcategory": "restarts",
       "description": "",
       "severity": "critical",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-27",
-      "last_occurred": "2026-10-27",
-      "next_review": "2026-10-28",
+      "last_seen": "2026-11-03",
+      "last_occurred": "2026-11-03",
+      "next_review": "2026-11-04",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "So I believe, I don't know if I can, if we I can move.",
@@ -2667,9 +2673,15 @@
           "correct": "I've finished the fixture. Should I also test it in production?",
           "context": "item 19: translated literally instead of transforming",
           "date": "2026-10-27"
+        },
+        {
+          "incorrect": "what is the steps that what what are the steps the systems the system are perform",
+          "correct": "I check what steps the system performs",
+          "context": "teacher lesson, walkthrough",
+          "date": "2026-11-03"
         }
       ],
-      "notes": ""
+      "notes": "also indirect question order"
     },
     "fluency_double_hedging": {
       "category": "fluency",
@@ -4520,23 +4532,29 @@
       "subcategory": "verb pattern",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-02",
-      "last_occurred": "2026-11-02",
-      "next_review": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "last_occurred": "2026-11-03",
+      "next_review": "2026-11-04",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "I suggest you to write a test",
           "correct": "I suggest writing a test / I suggest (that) we write",
           "context": "review 11",
           "date": "2026-11-02"
+        },
+        {
+          "incorrect": "If may I suggest you another thing?",
+          "correct": "If I may suggest something else...",
+          "context": "teacher lesson",
+          "date": "2026-11-03"
         }
       ],
-      "notes": "also recommend"
+      "notes": "also word order"
     },
     "grammar_be_plus_main_verb": {
       "category": "grammar",
@@ -4629,6 +4647,121 @@
         }
       ],
       "notes": "-ese nationalities: no -s"
+    },
+    "calque_guarantee_ensure": {
+      "category": "calque",
+      "subcategory": "garantir",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-03",
+      "last_occurred": "2026-11-03",
+      "next_review": "2026-11-04",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "to guarantee that your feature is correct (4x)",
+          "correct": "to make sure / ensure that your feature works",
+          "context": "teacher lesson, technical explanation",
+          "date": "2026-11-03"
+        }
+      ],
+      "notes": "guarantee = formal promise/warranty"
+    },
+    "prep_related_to": {
+      "category": "preposition",
+      "subcategory": "related to",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-03",
+      "last_occurred": "2026-11-03",
+      "next_review": "2026-11-04",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "the problem is related about / related exactly about this process",
+          "correct": "related to",
+          "context": "teacher lesson (2x)",
+          "date": "2026-11-03"
+        }
+      ],
+      "notes": ""
+    },
+    "fluency_filler_for_example": {
+      "category": "fluency",
+      "subcategory": "filler",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-03",
+      "last_occurred": "2026-11-03",
+      "next_review": "2026-11-04",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "for example (dozens of times, used as filler)",
+          "correct": "drop it, or: for instance / such as / say",
+          "context": "teacher lesson",
+          "date": "2026-11-03"
+        }
+      ],
+      "notes": "teacher pointed it out"
+    },
+    "grammar_used_to_past_habit": {
+      "category": "grammar",
+      "subcategory": "used to",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-03",
+      "last_occurred": "2026-11-03",
+      "next_review": "2026-11-04",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "We use it to change the time / decided to not change anymore",
+          "correct": "We used to change the time / decided not to change it anymore",
+          "context": "teacher lesson",
+          "date": "2026-11-03"
+        }
+      ],
+      "notes": "to not -> not to"
+    },
+    "vocab_countable_accountable": {
+      "category": "vocabulary",
+      "subcategory": "confusable",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-03",
+      "last_occurred": "2026-11-03",
+      "next_review": "2026-11-04",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "words that are accountable / code is accountable",
+          "correct": "countable",
+          "context": "teacher lesson",
+          "date": "2026-11-03"
+        }
+      ],
+      "notes": "accountable = responsible"
     }
   }
 }
