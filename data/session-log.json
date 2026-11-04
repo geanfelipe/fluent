@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 25
+    "total_sessions": 26
   },
   "sessions": [
     {
@@ -866,6 +866,47 @@
       "notes": "Teacher lesson (49 min). Talk ratio ~38% by words. Teacher's weekly plan: lesson 1 work fluency, lesson 2 meetings and teamwork (updates, clarification, disagreeing), lesson 3 presentation and pronunciation. Teacher said 'code' is countable; in software it's mostly uncountable.",
       "achievements_earned": [],
       "streak_day": 2
+    },
+    {
+      "session_id": "session-026",
+      "date": "2026-11-04",
+      "duration_minutes": 51,
+      "skills_practiced": [
+        "speaking"
+      ],
+      "command_used": "private-teacher-lesson",
+      "exercises_completed": 22,
+      "accuracy": 0.591,
+      "score_breakdown": {
+        "speaking": 0.591
+      },
+      "topics_covered": [
+        "seasons and climate",
+        "measurement systems",
+        "politics and public education",
+        "sports",
+        "role-play: deadline delay and polite pushback",
+        "in/at for parts of the day",
+        "greetings: good evening vs good night"
+      ],
+      "breakthroughs": [
+        "First pushback role-play with a human teacher",
+        "Second conditional: If I were the president, my priority would be...",
+        "different from used correctly in free speech",
+        "Reused 'jeopardize the work that we have completed so far' immediately",
+        "Self-corrected to active voice: We will not meet the deadline",
+        "Asked: make or meet the deadline?"
+      ],
+      "focus_next_session": [
+        "present perfect for duration (I've been ... for)",
+        "at the end of the day",
+        "related to + -ing / the plan is to + verb",
+        "false friends: journal, directory, at last",
+        "prepare the hospital story for the next teacher lesson (past tense, had surgery)"
+      ],
+      "notes": "Teacher lesson (51 min). Talk ratio ~40% by words. First human pushback role-play: delay with a deadline. Next teacher lesson: -ed pronunciation and the learner's hospital story. Coach notes: 'at night' is the fixed exception; 'meet the deadline' is the standard business phrase.",
+      "achievements_earned": [],
+      "streak_day": 3
     }
   ],
   "milestones": [
@@ -888,6 +929,11 @@
       "date": "2026-10-09",
       "milestone": "First full 60-minute structured lesson plan completed",
       "session_id": "session-005"
+    },
+    {
+      "date": "2026-11-04",
+      "milestone": "First pushback role-play with a human teacher",
+      "session_id": "session-026"
     }
   ]
 }
