@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-04",
+    "last_updated": "2026-11-06",
     "language": "English"
   },
   "skills": {
@@ -13,9 +13,9 @@
     "speaking": {
       "mastery_level": 2,
       "confidence_score": 0.541,
-      "total_practice_time": 486,
-      "last_practiced": "2026-11-04",
-      "practice_count": 224,
+      "total_practice_time": 546,
+      "last_practiced": "2026-11-06",
+      "practice_count": 246,
       "avg_accuracy": 0.541
     },
     "vocabulary": {
@@ -44,11 +44,11 @@
     },
     "grammar": {
       "mastery_level": 2,
-      "confidence_score": 0.532,
-      "total_practice_time": 160,
-      "last_practiced": "2026-11-02",
-      "practice_count": 120,
-      "avg_accuracy": 0.532
+      "confidence_score": 0.571,
+      "total_practice_time": 165,
+      "last_practiced": "2026-11-06",
+      "practice_count": 124,
+      "avg_accuracy": 0.571
     },
     "pronunciation": {
       "mastery_level": 1,

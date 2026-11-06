@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-11-04",
-    "total_patterns_tracked": 186,
+    "last_updated": "2026-11-06",
+    "total_patterns_tracked": 193,
     "language": "English"
   },
   "error_patterns": {
@@ -864,21 +864,15 @@
       "subcategory": "uncountable_nouns",
       "description": "",
       "severity": "moderate",
-      "frequency": 12,
+      "frequency": 13,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-03",
-      "last_occurred": "2026-11-03",
-      "next_review": "2026-11-04",
+      "last_seen": "2026-11-06",
+      "last_occurred": "2026-11-06",
+      "next_review": "2026-11-07",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 12,
+      "consecutive_incorrect": 13,
       "examples": [
-        {
-          "incorrect": "These data with the QA",
-          "correct": "this data with the QA team",
-          "context": "voice L3",
-          "date": "2026-10-24"
-        },
         {
           "incorrect": "a feedback / some advices / evidences / datas",
           "correct": "feedback / some advice / evidence / data",
@@ -902,9 +896,15 @@
           "correct": "any evidence / much (a lot of) advice / the wrong data",
           "context": "teacher lesson",
           "date": "2026-11-03"
+        },
+        {
+          "incorrect": "six cup of wines / bottles for water",
+          "correct": "six glasses of wine / bottles of water",
+          "context": "teacher lesson",
+          "date": "2026-11-06"
         }
       ],
-      "notes": "right in drills, wrong in free speech"
+      "notes": "glass (not cup) for wine"
     },
     "grammar_need_to_infinitive": {
       "category": "grammar",
@@ -1560,21 +1560,15 @@
       "subcategory": "subject_verb_agreement",
       "description": "",
       "severity": "moderate",
-      "frequency": 6,
+      "frequency": 7,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-03",
-      "last_occurred": "2026-11-03",
-      "next_review": "2026-11-04",
+      "last_seen": "2026-11-06",
+      "last_occurred": "2026-11-06",
+      "next_review": "2026-11-07",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 6,
+      "consecutive_incorrect": 7,
       "examples": [
-        {
-          "incorrect": "until the accounting team close the books",
-          "correct": "until the accounting team closes the books",
-          "context": "item 6 (team = singular)",
-          "date": "2026-10-23"
-        },
         {
           "incorrect": "The lead always review... before QA test / the trade get stuck / the lead want me",
           "correct": "reviews... tests it / gets stuck / wants me",
@@ -1598,6 +1592,12 @@
           "correct": "the inputs generate the right outputs / the system tries / features that are running",
           "context": "teacher lesson",
           "date": "2026-11-03"
+        },
+        {
+          "incorrect": "some lives in... / four of them is living / my Claude criticize me / the Japanese is invading / the colony were receiving",
+          "correct": "some live / four of them live / criticizes / were invading / was receiving",
+          "context": "teacher lesson",
+          "date": "2026-11-06"
         }
       ],
       "notes": ""
@@ -1751,14 +1751,14 @@
       "subcategory": "verb_pattern",
       "description": "",
       "severity": "critical",
-      "frequency": 4,
+      "frequency": 5,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-03",
-      "last_occurred": "2026-11-03",
-      "next_review": "2026-11-04",
+      "last_seen": "2026-11-06",
+      "last_occurred": "2026-11-06",
+      "next_review": "2026-11-07",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 4,
+      "consecutive_incorrect": 5,
       "examples": [
         {
           "incorrect": "Could you explain me again the refactoring plan?",
@@ -1783,9 +1783,15 @@
           "correct": "explain the issue to another developer / give me a topic",
           "context": "teacher lesson",
           "date": "2026-11-03"
+        },
+        {
+          "incorrect": "maybe you can explain me / he started to explain me the second time / I explained her about it",
+          "correct": "explain it to me / explain it to me again / I explained it to her",
+          "context": "teacher lesson",
+          "date": "2026-11-06"
         }
       ],
-      "notes": "fossil returned in free speech"
+      "notes": "self-corrected once; 4th lesson in a row"
     },
     "grammar_question_inversion": {
       "category": "grammar",
@@ -4134,14 +4140,14 @@
       "subcategory": "negation",
       "description": "",
       "severity": "critical",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-30",
-      "last_occurred": "2026-10-30",
-      "next_review": "2026-10-31",
+      "last_seen": "2026-11-06",
+      "last_occurred": "2026-11-06",
+      "next_review": "2026-11-07",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "You even have to speak English in Orlando",
@@ -4154,9 +4160,15 @@
           "correct": "They didn't have a written language, just a spoken one",
           "context": "paid lesson #1",
           "date": "2026-10-30"
+        },
+        {
+          "incorrect": "the nurse did allow us to leave (meant didn't)",
+          "correct": "the nurse didn't allow us to leave",
+          "context": "teacher lesson, story",
+          "date": "2026-11-06"
         }
       ],
-      "notes": "meaning inverted"
+      "notes": "also live/leave vowel"
     },
     "grammar_everybody_singular": {
       "category": "grammar",
@@ -4746,23 +4758,29 @@
       "subcategory": "used to",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-03",
-      "last_occurred": "2026-11-03",
-      "next_review": "2026-11-04",
+      "last_seen": "2026-11-06",
+      "last_occurred": "2026-11-06",
+      "next_review": "2026-11-07",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "We use it to change the time / decided to not change anymore",
           "correct": "We used to change the time / decided not to change it anymore",
           "context": "teacher lesson",
           "date": "2026-11-03"
+        },
+        {
+          "incorrect": "I decided to not use my translator",
+          "correct": "I decided not to use my translator",
+          "context": "teacher lesson",
+          "date": "2026-11-06"
         }
       ],
-      "notes": "to not -> not to"
+      "notes": "2nd time"
     },
     "vocab_countable_accountable": {
       "category": "vocabulary",
@@ -4924,6 +4942,167 @@
         }
       ],
       "notes": "did a surgery = performed it (surgeon)"
+    },
+    "grammar_his_her_possessive": {
+      "category": "grammar",
+      "subcategory": "possessive gender",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-06",
+      "last_occurred": "2026-11-06",
+      "next_review": "2026-11-07",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "a mom, his brother and sister, his daughter / she consumes it with his husband / everybody was seeing his city",
+          "correct": "her brother, her daughter / her husband / their city",
+          "context": "teacher lesson, two stories",
+          "date": "2026-11-06"
+        }
+      ],
+      "notes": "PT seu/sua agrees with the thing; EN his/her agrees with the owner"
+    },
+    "grammar_ask_if": {
+      "category": "grammar",
+      "subcategory": "reported questions",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-06",
+      "last_occurred": "2026-11-06",
+      "next_review": "2026-11-07",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "asked the boatman about if he had been to school / asked his friend about if he could help / asked her about what that stuff was",
+          "correct": "asked the boatman if... / asked his friend if... / asked her what that stuff was",
+          "context": "teacher lesson (4x)",
+          "date": "2026-11-06"
+        }
+      ],
+      "notes": "embedded word order is already right"
+    },
+    "grammar_did_base_form": {
+      "category": "grammar",
+      "subcategory": "did + base form",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-06",
+      "last_occurred": "2026-11-06",
+      "next_review": "2026-11-07",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "everybody didn't noticed",
+          "correct": "nobody noticed / they didn't notice",
+          "context": "teacher lesson",
+          "date": "2026-11-06"
+        }
+      ],
+      "notes": "the teacher's topic of the day"
+    },
+    "false_friend_security_insurance": {
+      "category": "false_friend",
+      "subcategory": "seguro",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-06",
+      "last_occurred": "2026-11-06",
+      "next_review": "2026-11-07",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "we gave all security, travel insurance security / the security center sent mail",
+          "correct": "we used our travel insurance / the insurance company emailed us",
+          "context": "teacher lesson",
+          "date": "2026-11-06"
+        }
+      ],
+      "notes": "seguro = insurance; segurança = security"
+    },
+    "false_friend_affirmation_statement": {
+      "category": "false_friend",
+      "subcategory": "afirmação",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-06",
+      "last_occurred": "2026-11-06",
+      "next_review": "2026-11-07",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I believe that is his affirmation instead of a question",
+          "correct": "I think it's a statement, not a question",
+          "context": "teacher lesson",
+          "date": "2026-11-06"
+        }
+      ],
+      "notes": ""
+    },
+    "calque_know_how_to_swim": {
+      "category": "calque",
+      "subcategory": "saber + verbo",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-06",
+      "last_occurred": "2026-11-06",
+      "next_review": "2026-11-07",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Do you know swim?",
+          "correct": "Can you swim? / Do you know how to swim?",
+          "context": "teacher lesson",
+          "date": "2026-11-06"
+        }
+      ],
+      "notes": ""
+    },
+    "calque_dislocate_travel": {
+      "category": "calque",
+      "subcategory": "deslocar",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-06",
+      "last_occurred": "2026-11-06",
+      "next_review": "2026-11-07",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "dislocating from one city to the other side",
+          "correct": "traveling from one coast to the other",
+          "context": "teacher lesson",
+          "date": "2026-11-06"
+        }
+      ],
+      "notes": "dislocate = injure a joint"
     }
   }
 }
