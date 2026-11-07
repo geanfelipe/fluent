@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 26
+    "total_sessions": 27
   },
   "sessions": [
     {
@@ -907,6 +907,48 @@
       "notes": "Teacher lesson (51 min). Talk ratio ~40% by words. First human pushback role-play: delay with a deadline. Next teacher lesson: -ed pronunciation and the learner's hospital story. Coach notes: 'at night' is the fixed exception; 'meet the deadline' is the standard business phrase.",
       "achievements_earned": [],
       "streak_day": 3
+    },
+    {
+      "session_id": "session-027",
+      "date": "2026-11-06",
+      "duration_minutes": 65,
+      "skills_practiced": [
+        "speaking",
+        "grammar"
+      ],
+      "command_used": "private-teacher-lesson",
+      "exercises_completed": 26,
+      "accuracy": 0.615,
+      "score_breakdown": {
+        "speaking": 0.545,
+        "grammar": 1.0
+      },
+      "topics_covered": [
+        "reading homework (short story)",
+        "do/does/did vs am/is/are",
+        "direct questions instead of '…, right?'",
+        "hedging (I guess, I believe)",
+        "get on vs get in",
+        "personal travel story"
+      ],
+      "breakthroughs": [
+        "Teacher built the lesson from the coach feedback",
+        "Talk ratio up to ~46% (best paid lesson)",
+        "Reported questions with past perfect: he asked me if I had understood / I asked her if she had given...",
+        "Direct questions: Should we delay the deployment? Will you review the code?",
+        "Self-corrected: married to, explain to me, reached the shore, knew each other",
+        "Applied Wednesday corrections: had surgery, spent three hours",
+        "Told a story from a text read without a translator"
+      ],
+      "focus_next_session": [
+        "his/her by the owner",
+        "ask if / ask what (no 'about')",
+        "explain it to me",
+        "prepare Monday's meeting role-play: explain an issue confidently, no hesitation words"
+      ],
+      "notes": "Teacher lesson (65 min). Talk ratio ~46% by words. Teacher used the coach feedback. Includes the coach warm-up of Nov 5 (4/4 direct questions). Coach notes for the teacher: 'getting more confident' is correct; the ship's body is the 'hull'. Next teacher lesson (Mon): explain a real issue as in a meeting; homework fill-in-the-blanks without AI.",
+      "achievements_earned": [],
+      "streak_day": 1
     }
   ],
   "milestones": [
