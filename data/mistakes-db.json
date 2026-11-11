@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-11-06",
-    "total_patterns_tracked": 193,
+    "last_updated": "2026-11-11",
+    "total_patterns_tracked": 200,
     "language": "English"
   },
   "error_patterns": {
@@ -864,21 +864,15 @@
       "subcategory": "uncountable_nouns",
       "description": "",
       "severity": "moderate",
-      "frequency": 13,
+      "frequency": 14,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-06",
-      "last_occurred": "2026-11-06",
-      "next_review": "2026-11-07",
+      "last_seen": "2026-11-11",
+      "last_occurred": "2026-11-11",
+      "next_review": "2026-11-12",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 13,
+      "consecutive_incorrect": 14,
       "examples": [
-        {
-          "incorrect": "a feedback / some advices / evidences / datas",
-          "correct": "feedback / some advice / evidence / data",
-          "context": "items 6, 11, 14",
-          "date": "2026-10-27"
-        },
         {
           "incorrect": "really good foods here / pizza and other stuffs",
           "correct": "really good food here / pizza and other stuff",
@@ -902,6 +896,12 @@
           "correct": "six glasses of wine / bottles of water",
           "context": "teacher lesson",
           "date": "2026-11-06"
+        },
+        {
+          "incorrect": "some stuffs, technical stuffs / some codes are duplicated",
+          "correct": "some stuff, technical stuff / some code is duplicated",
+          "context": "teacher lesson + meeting",
+          "date": "2026-11-11"
         }
       ],
       "notes": "glass (not cup) for wine"
@@ -1560,21 +1560,15 @@
       "subcategory": "subject_verb_agreement",
       "description": "",
       "severity": "moderate",
-      "frequency": 7,
+      "frequency": 8,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-06",
-      "last_occurred": "2026-11-06",
-      "next_review": "2026-11-07",
+      "last_seen": "2026-11-11",
+      "last_occurred": "2026-11-11",
+      "next_review": "2026-11-12",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 7,
+      "consecutive_incorrect": 8,
       "examples": [
-        {
-          "incorrect": "The lead always review... before QA test / the trade get stuck / the lead want me",
-          "correct": "reviews... tests it / gets stuck / wants me",
-          "context": "items 13, 16, 19 (correct in item 20)",
-          "date": "2026-10-27"
-        },
         {
           "incorrect": "some words sounds like very Portuguese",
           "correct": "some words sound very Portuguese",
@@ -1598,6 +1592,12 @@
           "correct": "some live / four of them live / criticizes / were invading / was receiving",
           "context": "teacher lesson",
           "date": "2026-11-06"
+        },
+        {
+          "incorrect": "one of them agree / one have / trades that comes / the value come",
+          "correct": "one of them agrees / one has / trades that come / the value comes",
+          "context": "teacher lesson + meeting",
+          "date": "2026-11-11"
         }
       ],
       "notes": ""
@@ -1798,21 +1798,15 @@
       "subcategory": "question_formation",
       "description": "",
       "severity": "critical",
-      "frequency": 7,
+      "frequency": 8,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-04",
-      "last_occurred": "2026-11-04",
-      "next_review": "2026-11-05",
+      "last_seen": "2026-11-11",
+      "last_occurred": "2026-11-11",
+      "next_review": "2026-11-12",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 7,
+      "consecutive_incorrect": 8,
       "examples": [
-        {
-          "incorrect": "What exactly I need to align with the business team?",
-          "correct": "What exactly do I need to align with the business team?",
-          "context": "item 12 (same as voice lesson)",
-          "date": "2026-10-21"
-        },
         {
           "incorrect": "Why the segment is not created",
           "correct": "Why aren't the segments created?",
@@ -1836,9 +1830,15 @@
           "correct": "Do Americans measure things differently too?",
           "context": "teacher lesson",
           "date": "2026-11-04"
+        },
+        {
+          "incorrect": "So it's working in dev2? / You had dry mouth as well? / When you got there, was you okay?",
+          "correct": "Is it working in dev2? / Did you have dry mouth too? / When you got there, were you okay?",
+          "context": "real meeting + teacher lesson",
+          "date": "2026-11-11"
         }
       ],
-      "notes": "auxiliary OK; adverb + structure"
+      "notes": "prepared questions are correct; improvised fall back"
     },
     "collocation_the_same_as": {
       "category": "vocabulary",
@@ -4117,20 +4117,26 @@
       "subcategory": "reporting_verbs",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-28",
-      "last_occurred": "2026-10-28",
-      "next_review": "2026-10-29",
+      "last_seen": "2026-11-11",
+      "last_occurred": "2026-11-11",
+      "next_review": "2026-11-12",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "They said me that maybe in the future...",
           "correct": "They told me that maybe in the future...",
           "context": "trial class 2",
           "date": "2026-10-28"
+        },
+        {
+          "incorrect": "he told that he felt overwhelmed",
+          "correct": "he said that he felt overwhelmed",
+          "context": "teacher lesson",
+          "date": "2026-11-11"
         }
       ],
       "notes": ""
@@ -4279,14 +4285,14 @@
       "subcategory": "dummy_subject",
       "description": "",
       "severity": "moderate",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-30",
-      "last_occurred": "2026-10-30",
-      "next_review": "2026-10-31",
+      "last_seen": "2026-11-11",
+      "last_occurred": "2026-11-11",
+      "next_review": "2026-11-12",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "this guy will know if goes rain or not / I saw that was the same",
@@ -4299,9 +4305,15 @@
           "correct": "It was a bit of a surprise / It's mandatory here / It's always the same parties",
           "context": "paid lesson #1",
           "date": "2026-10-30"
+        },
+        {
+          "incorrect": "in that state is allowed / So is a recurring / Now make sense the Portuguese classes",
+          "correct": "it's allowed / It's a recurring meeting / Now the Portuguese classes make sense",
+          "context": "teacher lesson",
+          "date": "2026-11-11"
         }
       ],
-      "notes": "recurring"
+      "notes": "subject must come before the verb"
     },
     "grammar_past_simple_finished": {
       "category": "grammar",
@@ -4948,20 +4960,26 @@
       "subcategory": "possessive gender",
       "description": "",
       "severity": "critical",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-06",
-      "last_occurred": "2026-11-06",
-      "next_review": "2026-11-07",
+      "last_seen": "2026-11-11",
+      "last_occurred": "2026-11-11",
+      "next_review": "2026-11-12",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "a mom, his brother and sister, his daughter / she consumes it with his husband / everybody was seeing his city",
           "correct": "her brother, her daughter / her husband / their city",
           "context": "teacher lesson, two stories",
           "date": "2026-11-06"
+        },
+        {
+          "incorrect": "my mother-in-law came... so he prepared food",
+          "correct": "she made food",
+          "context": "teacher lesson",
+          "date": "2026-11-11"
         }
       ],
       "notes": "PT seu/sua agrees with the thing; EN his/her agrees with the owner"
@@ -5103,6 +5121,167 @@
         }
       ],
       "notes": "dislocate = injure a joint"
+    },
+    "fluency_i_dont_know_if": {
+      "category": "fluency",
+      "subcategory": "indirect question as hedge",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-11",
+      "last_occurred": "2026-11-11",
+      "next_review": "2026-11-12",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I don't know if you are okay with it / I don't know if you are looking for my changes / later today or tomorrow, I don't know",
+          "correct": "Are you okay with that? / Are you looking at my changes? / later today or tomorrow morning.",
+          "context": "real meetings Nov 9-10 (4x)",
+          "date": "2026-11-11"
+        }
+      ],
+      "notes": "appears when unsure whether the listener is following"
+    },
+    "grammar_present_perfect_yet": {
+      "category": "grammar",
+      "subcategory": "present perfect + yet/already",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-11",
+      "last_occurred": "2026-11-11",
+      "next_review": "2026-11-12",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I did no merge yet / I didn't finish the story yet (2x) / I removed this process (already)",
+          "correct": "I haven't merged it yet / I haven't finished the story yet / I've already removed it",
+          "context": "real meetings + teacher lesson",
+          "date": "2026-11-11"
+        }
+      ],
+      "notes": "PT pretérito covers both"
+    },
+    "vocab_discuss_about": {
+      "category": "grammar",
+      "subcategory": "transitive verb",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-11",
+      "last_occurred": "2026-11-11",
+      "next_review": "2026-11-12",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "two men discussing about if... / We discussed about the connection",
+          "correct": "discussing whether... / We discussed the connection",
+          "context": "teacher lesson (20 min after being taught) + meeting",
+          "date": "2026-11-11"
+        }
+      ],
+      "notes": "discuss is transitive; talk about"
+    },
+    "calque_make_a_question": {
+      "category": "calque",
+      "subcategory": "fazer pergunta",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-11",
+      "last_occurred": "2026-11-11",
+      "next_review": "2026-11-12",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I want to make a question / the investors making the questions",
+          "correct": "I have a question / the investors asking the questions",
+          "context": "teacher lesson",
+          "date": "2026-11-11"
+        }
+      ],
+      "notes": "ask a question; make a bet (correct)"
+    },
+    "false_friend_history_story": {
+      "category": "false_friend",
+      "subcategory": "história",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-11",
+      "last_occurred": "2026-11-11",
+      "next_review": "2026-11-12",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "explain the history to you / I didn't finish the history",
+          "correct": "the story",
+          "context": "teacher lesson",
+          "date": "2026-11-11"
+        }
+      ],
+      "notes": "history = past events of a country"
+    },
+    "grammar_short_answer_do": {
+      "category": "grammar",
+      "subcategory": "short answers",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-11",
+      "last_occurred": "2026-11-11",
+      "next_review": "2026-11-12",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "If I have a meeting today? Yes, I have.",
+          "correct": "Do I have a meeting today? Yes, I do.",
+          "context": "teacher lesson",
+          "date": "2026-11-11"
+        }
+      ],
+      "notes": "have (main verb) -> do in short answers"
+    },
+    "grammar_another_no_the": {
+      "category": "grammar",
+      "subcategory": "determiner",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-11",
+      "last_occurred": "2026-11-11",
+      "next_review": "2026-11-12",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "the another guy / the another question",
+          "correct": "the other guy / another question",
+          "context": "teacher lesson + meeting",
+          "date": "2026-11-11"
+        }
+      ],
+      "notes": ""
     }
   }
 }

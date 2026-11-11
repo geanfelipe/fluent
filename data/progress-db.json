@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_updated": "2026-11-06",
+    "last_updated": "2026-11-11",
     "language": "English",
     "tracking_started": "2026-10-05"
   },
   "overall_stats": {
-    "total_sessions": 27,
-    "total_exercises": 538,
-    "total_correct": 315,
-    "total_incorrect": 223,
-    "accuracy_rate": 0.586,
-    "total_study_minutes": 936,
-    "average_session_duration": 35
+    "total_sessions": 28,
+    "total_exercises": 582,
+    "total_correct": 347,
+    "total_incorrect": 235,
+    "accuracy_rate": 0.596,
+    "total_study_minutes": 1006,
+    "average_session_duration": 36
   },
   "accuracy_trend": [
     {
@@ -113,6 +113,11 @@
       "date": "2026-11-06",
       "accuracy": 0.615,
       "exercises": 26
+    },
+    {
+      "date": "2026-11-11",
+      "accuracy": 0.727,
+      "exercises": 44
     }
   ],
   "skill_progress": {
@@ -122,12 +127,12 @@
       "last_practiced": null
     },
     "speaking": {
-      "sessions": 17,
-      "accuracy": 0.541,
-      "last_practiced": "2026-11-06",
-      "exercises_completed": 246,
-      "correct_count": 142,
-      "incorrect_count": 104
+      "sessions": 18,
+      "accuracy": 0.544,
+      "last_practiced": "2026-11-11",
+      "exercises_completed": 268,
+      "correct_count": 155,
+      "incorrect_count": 113
     },
     "vocabulary": {
       "sessions": 12,
@@ -154,12 +159,12 @@
       "incorrect_count": 1
     },
     "grammar": {
-      "sessions": 12,
-      "accuracy": 0.571,
-      "last_practiced": "2026-11-06",
-      "exercises_completed": 124,
-      "correct_count": 75,
-      "incorrect_count": 49
+      "sessions": 13,
+      "accuracy": 0.594,
+      "last_practiced": "2026-11-11",
+      "exercises_completed": 146,
+      "correct_count": 94,
+      "incorrect_count": 52
     },
     "pronunciation": {
       "sessions": 2,
@@ -200,6 +205,12 @@
       "sessions": 4,
       "total_minutes": 200,
       "accuracy": 0.589
+    },
+    {
+      "week_start": "2026-11-09",
+      "sessions": 1,
+      "total_minutes": 70,
+      "accuracy": 0.727
     }
   ]
 }
