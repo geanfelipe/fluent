@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-11-11",
-    "total_patterns_tracked": 200,
+    "last_updated": "2026-11-13",
+    "total_patterns_tracked": 205,
     "language": "English"
   },
   "error_patterns": {
@@ -864,21 +864,15 @@
       "subcategory": "uncountable_nouns",
       "description": "",
       "severity": "moderate",
-      "frequency": 14,
+      "frequency": 15,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-11",
-      "last_occurred": "2026-11-11",
-      "next_review": "2026-11-12",
+      "last_seen": "2026-11-13",
+      "last_occurred": "2026-11-13",
+      "next_review": "2026-11-14",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 14,
+      "consecutive_incorrect": 15,
       "examples": [
-        {
-          "incorrect": "really good foods here / pizza and other stuffs",
-          "correct": "really good food here / pizza and other stuff",
-          "context": "trial class 2",
-          "date": "2026-10-28"
-        },
         {
           "incorrect": "some stuffs / all these hardware",
           "correct": "some stuff / all this hardware (these machines)",
@@ -902,9 +896,15 @@
           "correct": "some stuff, technical stuff / some code is duplicated",
           "context": "teacher lesson + meeting",
           "date": "2026-11-11"
+        },
+        {
+          "incorrect": "sharing stuffs",
+          "correct": "sharing stuff",
+          "context": "teacher lesson",
+          "date": "2026-11-13"
         }
       ],
-      "notes": "glass (not cup) for wine"
+      "notes": "stuffs: 4th week"
     },
     "grammar_need_to_infinitive": {
       "category": "grammar",
@@ -1560,21 +1560,15 @@
       "subcategory": "subject_verb_agreement",
       "description": "",
       "severity": "moderate",
-      "frequency": 8,
+      "frequency": 9,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-11",
-      "last_occurred": "2026-11-11",
-      "next_review": "2026-11-12",
+      "last_seen": "2026-11-13",
+      "last_occurred": "2026-11-13",
+      "next_review": "2026-11-14",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 8,
+      "consecutive_incorrect": 9,
       "examples": [
-        {
-          "incorrect": "some words sounds like very Portuguese",
-          "correct": "some words sound very Portuguese",
-          "context": "trial class (-s on a plural subject)",
-          "date": "2026-10-27"
-        },
         {
           "incorrect": "it have never supported",
           "correct": "it has never supported it",
@@ -1598,6 +1592,12 @@
           "correct": "one of them agrees / one has / trades that come / the value comes",
           "context": "teacher lesson + meeting",
           "date": "2026-11-11"
+        },
+        {
+          "incorrect": "the guy go to prison and spend / some countries is / the volume of crimes are / other guys says",
+          "correct": "goes, spends / some countries are / the crime rate is / other people say",
+          "context": "teacher lesson",
+          "date": "2026-11-13"
         }
       ],
       "notes": ""
@@ -2112,14 +2112,14 @@
       "subcategory": "embedded_question",
       "description": "",
       "severity": "moderate",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-21",
-      "last_occurred": "2026-10-21",
-      "next_review": "2026-10-22",
+      "last_seen": "2026-11-13",
+      "last_occurred": "2026-11-13",
+      "next_review": "2026-11-14",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "explain me what do you mean",
@@ -2132,9 +2132,15 @@
           "correct": "Can you explain to me what you mean",
           "context": "item 11",
           "date": "2026-10-21"
+        },
+        {
+          "incorrect": "I don't know what is the end of the story / I don't know what is it / he saw what is this / find out what is the ID",
+          "correct": "how the story ends / what it is / what those policies were / find out what the ID is",
+          "context": "teacher lesson + meeting",
+          "date": "2026-11-13"
         }
       ],
-      "notes": ""
+      "notes": "4x this week; 'how much you earn' was correct"
     },
     "calque_reveal_found": {
       "category": "vocabulary",
@@ -2360,23 +2366,29 @@
       "subcategory": "doubled_connector",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-21",
-      "last_occurred": "2026-10-21",
-      "next_review": "2026-10-22",
+      "last_seen": "2026-11-13",
+      "last_occurred": "2026-11-13",
+      "next_review": "2026-11-14",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "The root cause is because",
           "correct": "The root cause is that",
           "context": "60-second explanation",
           "date": "2026-10-21"
+        },
+        {
+          "incorrect": "the big problem in Brazil is because this same guy does the same thing",
+          "correct": "the big problem is that the same person commits the same crime again",
+          "context": "teacher lesson",
+          "date": "2026-11-13"
         }
       ],
-      "notes": ""
+      "notes": "taught Nov 7"
     },
     "pron_final_dg_sound": {
       "category": "pronunciation",
@@ -4822,23 +4834,29 @@
       "subcategory": "present perfect (duration)",
       "description": "",
       "severity": "critical",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-04",
-      "last_occurred": "2026-11-04",
-      "next_review": "2026-11-05",
+      "last_seen": "2026-11-13",
+      "last_occurred": "2026-11-13",
+      "next_review": "2026-11-14",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "it's one month working in this new schedule / she's not working for two weeks / I'm not having to go to Ecuador",
           "correct": "I've been working on this schedule for a month / she hasn't worked for two weeks / I've never been to Ecuador",
           "context": "teacher lesson, free speech",
           "date": "2026-11-04"
+        },
+        {
+          "incorrect": "I had a busy day since Wednesday",
+          "correct": "I've been busy since Wednesday",
+          "context": "teacher lesson",
+          "date": "2026-11-13"
         }
       ],
-      "notes": "PT 'faz X que' / 'nunca fui'"
+      "notes": "also overcorrection: 'I have watched a video' for a finished past event -> 'I watched'"
     },
     "false_friend_journal_newspaper": {
       "category": "false_friend",
@@ -4868,20 +4886,26 @@
       "subcategory": "articles",
       "description": "",
       "severity": "minor",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-04",
-      "last_occurred": "2026-11-04",
-      "next_review": "2026-11-05",
+      "last_seen": "2026-11-13",
+      "last_occurred": "2026-11-13",
+      "next_review": "2026-11-14",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "a issue / a older (an Uber)",
           "correct": "an issue / an Uber",
           "context": "teacher lesson",
           "date": "2026-11-04"
+        },
+        {
+          "incorrect": "a accounting person / he was immigrant / Wednesday was holiday",
+          "correct": "an accountant / an immigrant / a holiday",
+          "context": "teacher lesson",
+          "date": "2026-11-13"
         }
       ],
       "notes": "taught the day before"
@@ -5173,23 +5197,29 @@
       "subcategory": "transitive verb",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-11",
-      "last_occurred": "2026-11-11",
-      "next_review": "2026-11-12",
+      "last_seen": "2026-11-13",
+      "last_occurred": "2026-11-13",
+      "next_review": "2026-11-14",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "two men discussing about if... / We discussed about the connection",
           "correct": "discussing whether... / We discussed the connection",
           "context": "teacher lesson (20 min after being taught) + meeting",
           "date": "2026-11-11"
+        },
+        {
+          "incorrect": "They were discussing about the bet / a guy entered in the school",
+          "correct": "They were discussing the bet / a man entered the school",
+          "context": "teacher lesson (3rd lesson after explicit teaching)",
+          "date": "2026-11-13"
         }
       ],
-      "notes": "discuss is transitive; talk about"
+      "notes": "transitive: discuss, enter, attend, contact, answer, marry, approach"
     },
     "calque_make_a_question": {
       "category": "calque",
@@ -5242,23 +5272,29 @@
       "subcategory": "short answers",
       "description": "",
       "severity": "minor",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-11",
-      "last_occurred": "2026-11-11",
-      "next_review": "2026-11-12",
+      "last_seen": "2026-11-13",
+      "last_occurred": "2026-11-13",
+      "next_review": "2026-11-14",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "If I have a meeting today? Yes, I have.",
           "correct": "Do I have a meeting today? Yes, I do.",
           "context": "teacher lesson",
           "date": "2026-11-11"
+        },
+        {
+          "incorrect": "Is there a threshold? Yes, we have.",
+          "correct": "Yes, there is.",
+          "context": "teacher lesson",
+          "date": "2026-11-13"
         }
       ],
-      "notes": "have (main verb) -> do in short answers"
+      "notes": "'No, I haven't' was correct"
     },
     "grammar_another_no_the": {
       "category": "grammar",
@@ -5279,6 +5315,121 @@
           "correct": "the other guy / another question",
           "context": "teacher lesson + meeting",
           "date": "2026-11-11"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_negative_either": {
+      "category": "grammar",
+      "subcategory": "negative agreement",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-13",
+      "last_occurred": "2026-11-13",
+      "next_review": "2026-11-14",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "if anyone is working, I will not work as well / I don't think that someone died",
+          "correct": "if nobody is working, I won't either / I don't think anyone died",
+          "context": "teacher lesson",
+          "date": "2026-11-13"
+        }
+      ],
+      "notes": "either/anyone in negatives"
+    },
+    "calque_hire_contract": {
+      "category": "calque",
+      "subcategory": "contratar",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-13",
+      "last_occurred": "2026-11-13",
+      "next_review": "2026-11-14",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I contracted an accounting person",
+          "correct": "I hired an accountant",
+          "context": "teacher lesson",
+          "date": "2026-11-13"
+        }
+      ],
+      "notes": "self-corrected to 'I got an accountant'"
+    },
+    "calque_log_in_connect": {
+      "category": "calque",
+      "subcategory": "conectar-se",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-13",
+      "last_occurred": "2026-11-13",
+      "next_review": "2026-11-14",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "When I connected myself into the Teams",
+          "correct": "When I logged into Teams / joined the call",
+          "context": "teacher lesson",
+          "date": "2026-11-13"
+        }
+      ],
+      "notes": "reflexive overuse"
+    },
+    "calque_misc_prepositions": {
+      "category": "calque",
+      "subcategory": "prepositions/collocations",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-13",
+      "last_occurred": "2026-11-13",
+      "next_review": "2026-11-14",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "kill by purpose / a fixed percentage over what you made / pay taxes over the profit / did a good efforts / this logo is very used / self-employee",
+          "correct": "on purpose / a percentage of your revenue / pay tax on your profit / made a real effort / this slogan is widely used / self-employed",
+          "context": "teacher lesson",
+          "date": "2026-11-13"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_as_as": {
+      "category": "grammar",
+      "subcategory": "comparison",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-13",
+      "last_occurred": "2026-11-13",
+      "next_review": "2026-11-14",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I'm not so fast like you",
+          "correct": "I'm not as fast as you",
+          "context": "teacher lesson",
+          "date": "2026-11-13"
         }
       ],
       "notes": ""
