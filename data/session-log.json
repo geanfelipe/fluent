@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 28
+    "total_sessions": 29
   },
   "sessions": [
     {
@@ -988,6 +988,44 @@
         "walkthrough meeting today: zero I don't know"
       ],
       "notes": "Teacher lesson (50 min, talk ratio ~43% by words) + coach drills Nov 7-11 + real-meeting errors Nov 9-10. Coach notes for the teacher: 'thorough' is the adjective (noun: thoroughness); 'We have until February to...' is the fixed pattern, 'by' marks a deadline.",
+      "achievements_earned": [],
+      "streak_day": 1
+    },
+    {
+      "session_id": "session-029",
+      "date": "2026-11-13",
+      "duration_minutes": 49,
+      "skills_practiced": [
+        "speaking"
+      ],
+      "command_used": "private-teacher-lesson",
+      "exercises_completed": 22,
+      "accuracy": 0.545,
+      "score_breakdown": {
+        "speaking": 0.545
+      },
+      "topics_covered": [
+        "criminal justice and prison systems",
+        "crime rates and inequality",
+        "public health systems",
+        "taxes and self-employment",
+        "the presentation that worked out",
+        "Tolstoy"
+      ],
+      "breakthroughs": [
+        "Used new words immediately: threshold, released, wealth gap, got an accountant, gave a presentation, it worked out",
+        "'insurance' used correctly (false friend fixed)",
+        "Initiated topics with direct questions: Do you have any theory about it? How does tax work for you? Is there a threshold?",
+        "Embedded question correct: how do they know how much you earn",
+        "Insight: 'I have to be automatic' (declarative -> procedural knowledge)"
+      ],
+      "focus_next_session": [
+        "transitive verbs: discuss, enter, attend (no preposition)",
+        "embedded question order",
+        "finish The Bet before Monday",
+        "steer the teacher: talk ratio fell to 38%"
+      ],
+      "notes": "Teacher lesson (49 min). Talk ratio ~38% by words (down). The story was not finished (2nd lesson in a row). Coach notes for the teacher: the author is Leo Tolstoy (not Trotsky), the novel is War and Peace; 'tax regime' is standard finance English. Learner content note: Brazil does not allow life sentences (max 40 years).",
       "achievements_earned": [],
       "streak_day": 1
     }
