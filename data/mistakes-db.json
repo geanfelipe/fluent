@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-11-13",
-    "total_patterns_tracked": 205,
+    "last_updated": "2026-11-18",
+    "total_patterns_tracked": 211,
     "language": "English"
   },
   "error_patterns": {
@@ -115,20 +115,26 @@
       "subcategory": "auxiliary_do",
       "description": "",
       "severity": "critical",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-05",
-      "last_occurred": "2026-10-05",
-      "next_review": "2026-10-06",
+      "last_seen": "2026-11-18",
+      "last_occurred": "2026-11-18",
+      "next_review": "2026-11-19",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "I hadn't any knowledge.",
           "correct": "I didn't have any knowledge.",
           "context": "adapting to a new team",
           "date": "2026-10-05"
+        },
+        {
+          "incorrect": "he hasn't enough energy / he hasn't closest people",
+          "correct": "he doesn't have enough energy / he doesn't have anyone close",
+          "context": "teacher trial",
+          "date": "2026-11-18"
         }
       ],
       "notes": "'Have' as main verb needs do-support in negatives/questions."
@@ -1560,21 +1566,15 @@
       "subcategory": "subject_verb_agreement",
       "description": "",
       "severity": "moderate",
-      "frequency": 9,
+      "frequency": 10,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-13",
-      "last_occurred": "2026-11-13",
-      "next_review": "2026-11-14",
+      "last_seen": "2026-11-18",
+      "last_occurred": "2026-11-18",
+      "next_review": "2026-11-19",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 9,
+      "consecutive_incorrect": 10,
       "examples": [
-        {
-          "incorrect": "it have never supported",
-          "correct": "it has never supported it",
-          "context": "review 2",
-          "date": "2026-11-02"
-        },
         {
           "incorrect": "the inputs generates the rights outputs / the system try / features that's running",
           "correct": "the inputs generate the right outputs / the system tries / features that are running",
@@ -1598,6 +1598,12 @@
           "correct": "goes, spends / some countries are / the crime rate is / other people say",
           "context": "teacher lesson",
           "date": "2026-11-13"
+        },
+        {
+          "incorrect": "these kind of situations is very common / daily meetings wasn't in English / the people is having",
+          "correct": "these kinds of situations are / weren't / the person has",
+          "context": "teacher trial",
+          "date": "2026-11-18"
         }
       ],
       "notes": ""
@@ -4036,14 +4042,14 @@
       "subcategory": "false_friend",
       "description": "",
       "severity": "moderate",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-02",
-      "last_occurred": "2026-11-02",
-      "next_review": "2026-11-03",
+      "last_seen": "2026-11-18",
+      "last_occurred": "2026-11-18",
+      "next_review": "2026-11-19",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "I'm a bit ashamed / you get a shame",
@@ -4056,9 +4062,15 @@
           "correct": "I felt embarrassed ... in front of everyone",
           "context": "review 9",
           "date": "2026-11-02"
+        },
+        {
+          "incorrect": "Can you repeat please? Because I was so shameful",
+          "correct": "Sorry, could you repeat that? I got a bit nervous",
+          "context": "teacher trial, job interview role-play",
+          "date": "2026-11-18"
         }
       ],
-      "notes": "4th time"
+      "notes": "5th time; shameful = disgraceful"
     },
     "grammar_different_from": {
       "category": "grammar",
@@ -4447,14 +4459,14 @@
       "subcategory": "expect + object + to",
       "description": "",
       "severity": "moderate",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-02",
-      "last_occurred": "2026-11-02",
-      "next_review": "2026-11-03",
+      "last_seen": "2026-11-18",
+      "last_occurred": "2026-11-18",
+      "next_review": "2026-11-19",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "everyone was expecting to the right party win / instead of everyone was expecting",
@@ -4467,9 +4479,15 @@
           "correct": "The lead expects me to finish / nobody expected the tests to fail",
           "context": "review 7",
           "date": "2026-11-02"
+        },
+        {
+          "incorrect": "before he wanted to death, it took me",
+          "correct": "before, he wanted Death to take him",
+          "context": "teacher trial",
+          "date": "2026-11-18"
         }
       ],
-      "notes": "esperar -> wait vs expect"
+      "notes": "want/expect/ask + person + to"
     },
     "prep_time_at_on": {
       "category": "preposition",
@@ -4834,14 +4852,14 @@
       "subcategory": "present perfect (duration)",
       "description": "",
       "severity": "critical",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-13",
-      "last_occurred": "2026-11-13",
-      "next_review": "2026-11-14",
+      "last_seen": "2026-11-18",
+      "last_occurred": "2026-11-18",
+      "next_review": "2026-11-19",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "it's one month working in this new schedule / she's not working for two weeks / I'm not having to go to Ecuador",
@@ -4854,6 +4872,12 @@
           "correct": "I've been busy since Wednesday",
           "context": "teacher lesson",
           "date": "2026-11-13"
+        },
+        {
+          "incorrect": "my English got stuck in this middle level for five years / I spoke Spanish five years / studied there one month",
+          "correct": "my English has been stuck at an intermediate level for five years / I spoke Spanish for five years / for a month",
+          "context": "teacher trial",
+          "date": "2026-11-18"
         }
       ],
       "notes": "also overcorrection: 'I have watched a video' for a finished past event -> 'I watched'"
@@ -5226,20 +5250,26 @@
       "subcategory": "fazer pergunta",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-11",
-      "last_occurred": "2026-11-11",
-      "next_review": "2026-11-12",
+      "last_seen": "2026-11-18",
+      "last_occurred": "2026-11-18",
+      "next_review": "2026-11-19",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "I want to make a question / the investors making the questions",
           "correct": "I have a question / the investors asking the questions",
           "context": "teacher lesson",
           "date": "2026-11-11"
+        },
+        {
+          "incorrect": "on the spot, make the right question",
+          "correct": "ask the right question on the spot",
+          "context": "teacher trial",
+          "date": "2026-11-18"
         }
       ],
       "notes": "ask a question; make a bet (correct)"
@@ -5433,6 +5463,144 @@
         }
       ],
       "notes": ""
+    },
+    "grammar_plan_is_to": {
+      "category": "grammar",
+      "subcategory": "be + to-infinitive",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-18",
+      "last_occurred": "2026-11-18",
+      "next_review": "2026-11-19",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "the best approach for me is speak as much as I can / my plan is book three classes a week",
+          "correct": "the best approach is to speak as much as I can / my plan is to book three lessons a week",
+          "context": "teacher trial (2x) + meeting Nov 12",
+          "date": "2026-11-18"
+        }
+      ],
+      "notes": "approach/plan/strategy/goal is TO + verb"
+    },
+    "calque_caught_my_eye": {
+      "category": "calque",
+      "subcategory": "encher os olhos",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-18",
+      "last_occurred": "2026-11-18",
+      "next_review": "2026-11-19",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "that highlighted my eyes / brighten my eyes",
+          "correct": "it caught my eye / it caught my attention",
+          "context": "teacher trial",
+          "date": "2026-11-18"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_misc_prepositions_trial": {
+      "category": "preposition",
+      "subcategory": "mixed",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-18",
+      "last_occurred": "2026-11-18",
+      "next_review": "2026-11-19",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "read loudly / angry on someone / waiting the exact moment / explain complex ideas as a simple idea",
+          "correct": "read aloud / angry at someone / waiting for the moment / explain complex ideas in simple terms",
+          "context": "teacher trial",
+          "date": "2026-11-18"
+        }
+      ],
+      "notes": ""
+    },
+    "grammar_remember_ing": {
+      "category": "grammar",
+      "subcategory": "remember + -ing",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-18",
+      "last_occurred": "2026-11-18",
+      "next_review": "2026-11-19",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I remember I speak Spanish, making mistakes",
+          "correct": "I remember speaking Spanish and making mistakes",
+          "context": "teacher trial",
+          "date": "2026-11-18"
+        }
+      ],
+      "notes": ""
+    },
+    "pron_short_i_vowel": {
+      "category": "pronunciation",
+      "subcategory": "/ɪ/ vs /iː/",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-18",
+      "last_occurred": "2026-11-18",
+      "next_review": "2026-11-19",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "sticks, lift, live -> sound like 'steeks, leaf, leave'",
+          "correct": "short /ɪ/",
+          "context": "teacher trial (confirmed by a 3rd teacher)",
+          "date": "2026-11-18"
+        }
+      ],
+      "notes": "voice only"
+    },
+    "pron_work_walk": {
+      "category": "pronunciation",
+      "subcategory": "/ɜː/ vs /ɔː/",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-18",
+      "last_occurred": "2026-11-18",
+      "next_review": "2026-11-19",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "work -> 'walk' (x3), worked -> 'walked'",
+          "correct": "work /wɜːrk/",
+          "context": "teacher trial + lesson Nov 13",
+          "date": "2026-11-18"
+        }
+      ],
+      "notes": "voice only; also errors -> 'heroes'"
     }
   }
 }
