@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 29
+    "total_sessions": 30
   },
   "sessions": [
     {
@@ -1026,6 +1026,46 @@
         "steer the teacher: talk ratio fell to 38%"
       ],
       "notes": "Teacher lesson (49 min). Talk ratio ~38% by words (down). The story was not finished (2nd lesson in a row). Coach notes for the teacher: the author is Leo Tolstoy (not Trotsky), the novel is War and Peace; 'tax regime' is standard finance English. Learner content note: Brazil does not allow life sentences (max 40 years).",
+      "achievements_earned": [],
+      "streak_day": 1
+    },
+    {
+      "session_id": "session-030",
+      "date": "2026-11-18",
+      "duration_minutes": 58,
+      "skills_practiced": [
+        "speaking",
+        "reading"
+      ],
+      "command_used": "private-teacher-trial",
+      "exercises_completed": 25,
+      "accuracy": 0.56,
+      "score_breakdown": {
+        "speaking": 0.545,
+        "reading": 0.667
+      },
+      "topics_covered": [
+        "self-introduction and learning history",
+        "fable reading aloud (Aesop)",
+        "interpreting a moral",
+        "job interview role-play",
+        "singular they"
+      ],
+      "breakthroughs": [
+        "'I read the story and explained the story to him' - explain X to Y right in free speech",
+        "Clear self-introduction with goals and learning strategy (prepared notes)",
+        "Told the teacher exactly how to correct him (interrupt; 70% fluency / 30% pronunciation)",
+        "Reused at once: approached, changed his mind, caught my attention, healthier",
+        "Asked about gendered pronouns -> singular they"
+      ],
+      "focus_next_session": [
+        "plan/approach is TO + verb",
+        "shameful/ashamed -> nervous/embarrassed",
+        "ask a question (not make)",
+        "/ɪ/ and work vs walk (voice)",
+        "ask the new teacher for a meeting role-play from minute 1"
+      ],
+      "notes": "Trial with a new private teacher (58 min). Talk ratio ~35% by words. Teacher strengths: asked correction preferences, pushes elaboration and rephrasing, written notes after class, confirmed the /ɪ/ issue. Weaknesses: late start, long explanations, archaic text, chose job interview over meeting role-play.",
       "achievements_earned": [],
       "streak_day": 1
     }

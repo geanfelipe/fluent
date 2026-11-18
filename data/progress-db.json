@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_updated": "2026-11-13",
+    "last_updated": "2026-11-18",
     "language": "English",
     "tracking_started": "2026-10-05"
   },
   "overall_stats": {
-    "total_sessions": 29,
-    "total_exercises": 604,
-    "total_correct": 359,
-    "total_incorrect": 245,
-    "accuracy_rate": 0.594,
-    "total_study_minutes": 1055,
-    "average_session_duration": 36
+    "total_sessions": 30,
+    "total_exercises": 629,
+    "total_correct": 373,
+    "total_incorrect": 256,
+    "accuracy_rate": 0.593,
+    "total_study_minutes": 1113,
+    "average_session_duration": 37
   },
   "accuracy_trend": [
     {
@@ -123,6 +123,11 @@
       "date": "2026-11-13",
       "accuracy": 0.545,
       "exercises": 22
+    },
+    {
+      "date": "2026-11-18",
+      "accuracy": 0.56,
+      "exercises": 25
     }
   ],
   "skill_progress": {
@@ -132,12 +137,12 @@
       "last_practiced": null
     },
     "speaking": {
-      "sessions": 19,
+      "sessions": 20,
       "accuracy": 0.544,
-      "last_practiced": "2026-11-13",
-      "exercises_completed": 290,
-      "correct_count": 167,
-      "incorrect_count": 123
+      "last_practiced": "2026-11-18",
+      "exercises_completed": 312,
+      "correct_count": 179,
+      "incorrect_count": 133
     },
     "vocabulary": {
       "sessions": 12,
@@ -148,12 +153,12 @@
       "incorrect_count": 68
     },
     "reading": {
-      "sessions": 1,
-      "accuracy": 1.0,
-      "last_practiced": "2026-10-07",
-      "exercises_completed": 2,
-      "correct_count": 2,
-      "incorrect_count": 0
+      "sessions": 2,
+      "accuracy": 0.833,
+      "last_practiced": "2026-11-18",
+      "exercises_completed": 5,
+      "correct_count": 4,
+      "incorrect_count": 1
     },
     "listening": {
       "sessions": 2,
@@ -216,6 +221,12 @@
       "sessions": 2,
       "total_minutes": 119,
       "accuracy": 0.636
+    },
+    {
+      "week_start": "2026-11-16",
+      "sessions": 1,
+      "total_minutes": 58,
+      "accuracy": 0.56
     }
   ]
 }
