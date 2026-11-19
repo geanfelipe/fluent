@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 30
+    "total_sessions": 31
   },
   "sessions": [
     {
@@ -1068,6 +1068,49 @@
       "notes": "Trial with a new private teacher (58 min). Talk ratio ~35% by words. Teacher strengths: asked correction preferences, pushes elaboration and rephrasing, written notes after class, confirmed the /ɪ/ issue. Weaknesses: late start, long explanations, archaic text, chose job interview over meeting role-play.",
       "achievements_earned": [],
       "streak_day": 1
+    },
+    {
+      "session_id": "session-031",
+      "date": "2026-11-19",
+      "duration_minutes": 20,
+      "skills_practiced": [
+        "grammar",
+        "vocabulary",
+        "speaking"
+      ],
+      "command_used": "/fluent-review",
+      "exercises_completed": 12,
+      "accuracy": 0.833,
+      "score_breakdown": {
+        "grammar": 0.875,
+        "vocabulary": 0.667,
+        "speaking": 1.0
+      },
+      "topics_covered": [
+        "transitive verbs",
+        "direct questions",
+        "present perfect + yet",
+        "his/her",
+        "uncountables",
+        "embedded questions",
+        "preposition + -ing",
+        "appreciate it if",
+        "pushback with a date"
+      ],
+      "breakthroughs": [
+        "Pushback with acknowledgement + proposal + date (Nov 2: 5/10 -> 8/10)",
+        "discussed the plan / attend the meeting with no preposition",
+        "Can you see the right file? (no 'I don't know if')",
+        "My plan is to go... / I felt a bit embarrassed and nervous"
+      ],
+      "focus_next_session": [
+        "preposition + -ing: open to testing, reputation for delivering",
+        "phrasal verb + it: figure it out",
+        "pushback: use the concrete fact"
+      ],
+      "notes": "Review of 10 items (avg 8.3/10, 9/10 >= 7), plus 2 micro-drills (plan is to, embarrassed). 319 items overdue; the learner chose 10 per day.",
+      "achievements_earned": [],
+      "streak_day": 2
     }
   ],
   "milestones": [
