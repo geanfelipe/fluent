@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-11-18",
-    "total_patterns_tracked": 211,
+    "last_updated": "2026-11-19",
+    "total_patterns_tracked": 212,
     "language": "English"
   },
   "error_patterns": {
@@ -725,14 +725,14 @@
       "subcategory": "preposition_to_plus_ing",
       "description": "",
       "severity": "critical",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-14",
-      "last_occurred": "2026-10-14",
-      "next_review": "2026-10-15",
+      "last_seen": "2026-11-19",
+      "last_occurred": "2026-11-19",
+      "next_review": "2026-11-20",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "I'm open to learn new tools and I'm looking forward to work with you",
@@ -745,9 +745,15 @@
           "correct": "he's open to negotiating a higher salary",
           "context": "free translation (item 14); fill-in item 1 was 3/3",
           "date": "2026-10-14"
+        },
+        {
+          "incorrect": "I am open to test both options",
+          "correct": "I'm open to testing both options",
+          "context": "review 7",
+          "date": "2026-11-19"
         }
       ],
-      "notes": "Declarative OK, not yet automatized under divided attention."
+      "notes": "test: can a noun follow? then -ing"
     },
     "vocab_complain_about": {
       "category": "vocabulary",
@@ -1039,20 +1045,26 @@
       "subcategory": "preposition_plus_ing",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-14",
-      "last_occurred": "2026-10-14",
-      "next_review": "2026-10-15",
+      "last_seen": "2026-11-19",
+      "last_occurred": "2026-11-19",
+      "next_review": "2026-11-20",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "He's known to solve hard issues",
           "correct": "He's known for solving difficult problems",
           "context": "item 3",
           "date": "2026-10-14"
+        },
+        {
+          "incorrect": "has a reputation to deliver fast",
+          "correct": "has a reputation for delivering fast",
+          "context": "review 8",
+          "date": "2026-11-19"
         }
       ],
       "notes": ""
@@ -1566,21 +1578,15 @@
       "subcategory": "subject_verb_agreement",
       "description": "",
       "severity": "moderate",
-      "frequency": 10,
+      "frequency": 11,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-18",
-      "last_occurred": "2026-11-18",
-      "next_review": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "last_occurred": "2026-11-19",
+      "next_review": "2026-11-20",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 10,
+      "consecutive_incorrect": 11,
       "examples": [
-        {
-          "incorrect": "the inputs generates the rights outputs / the system try / features that's running",
-          "correct": "the inputs generate the right outputs / the system tries / features that are running",
-          "context": "teacher lesson",
-          "date": "2026-11-03"
-        },
         {
           "incorrect": "some lives in... / four of them is living / my Claude criticize me / the Japanese is invading / the colony were receiving",
           "correct": "some live / four of them live / criticizes / were invading / was receiving",
@@ -1604,9 +1610,15 @@
           "correct": "these kinds of situations are / weren't / the person has",
           "context": "teacher trial",
           "date": "2026-11-18"
+        },
+        {
+          "incorrect": "after the tests passes",
+          "correct": "after the tests pass",
+          "context": "review 3",
+          "date": "2026-11-19"
         }
       ],
-      "notes": ""
+      "notes": "overcorrection: -s on a plural subject"
     },
     "vocab_band_aid_vs_fallback": {
       "category": "vocabulary",
@@ -5601,6 +5613,29 @@
         }
       ],
       "notes": "voice only; also errors -> 'heroes'"
+    },
+    "grammar_phrasal_pronoun_middle": {
+      "category": "grammar",
+      "subcategory": "phrasal verb object",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-19",
+      "last_occurred": "2026-11-19",
+      "next_review": "2026-11-20",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I will figure out",
+          "correct": "I'll figure it out",
+          "context": "review 6",
+          "date": "2026-11-19"
+        }
+      ],
+      "notes": "sort it out / narrow it down / figure it out"
     }
   }
 }
