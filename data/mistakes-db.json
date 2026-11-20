@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-11-19",
-    "total_patterns_tracked": 212,
+    "last_updated": "2026-11-20",
+    "total_patterns_tracked": 218,
     "language": "English"
   },
   "error_patterns": {
@@ -1578,21 +1578,15 @@
       "subcategory": "subject_verb_agreement",
       "description": "",
       "severity": "moderate",
-      "frequency": 11,
+      "frequency": 12,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-19",
-      "last_occurred": "2026-11-19",
-      "next_review": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "last_occurred": "2026-11-20",
+      "next_review": "2026-11-21",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 11,
+      "consecutive_incorrect": 12,
       "examples": [
-        {
-          "incorrect": "some lives in... / four of them is living / my Claude criticize me / the Japanese is invading / the colony were receiving",
-          "correct": "some live / four of them live / criticizes / were invading / was receiving",
-          "context": "teacher lesson",
-          "date": "2026-11-06"
-        },
         {
           "incorrect": "one of them agree / one have / trades that comes / the value come",
           "correct": "one of them agrees / one has / trades that come / the value comes",
@@ -1616,6 +1610,12 @@
           "correct": "after the tests pass",
           "context": "review 3",
           "date": "2026-11-19"
+        },
+        {
+          "incorrect": "decisions that depends / the thoughts needs / the team spend / more than enough water were",
+          "correct": "decisions that depend / people need to think faster / the team spends / there was more than enough water",
+          "context": "teacher lesson",
+          "date": "2026-11-20"
         }
       ],
       "notes": "overcorrection: -s on a plural subject"
@@ -1816,21 +1816,15 @@
       "subcategory": "question_formation",
       "description": "",
       "severity": "critical",
-      "frequency": 8,
+      "frequency": 9,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-11",
-      "last_occurred": "2026-11-11",
-      "next_review": "2026-11-12",
+      "last_seen": "2026-11-20",
+      "last_occurred": "2026-11-20",
+      "next_review": "2026-11-21",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 8,
+      "consecutive_incorrect": 9,
       "examples": [
-        {
-          "incorrect": "Why the segment is not created",
-          "correct": "Why aren't the segments created?",
-          "context": "warm-up #2 (10/10 overall, trap caught)",
-          "date": "2026-10-21"
-        },
         {
           "incorrect": "You mean about this kind of confidence?",
           "correct": "Do you mean this kind of confidence?",
@@ -1854,6 +1848,12 @@
           "correct": "Is it working in dev2? / Did you have dry mouth too? / When you got there, were you okay?",
           "context": "real meeting + teacher lesson",
           "date": "2026-11-11"
+        },
+        {
+          "incorrect": "Why the goat approached the well? / Why is not the sentence 'slipped'?",
+          "correct": "Why did the goat approach the well? / Why doesn't it say 'slipped'?",
+          "context": "teacher lesson",
+          "date": "2026-11-20"
         }
       ],
       "notes": "prepared questions are correct; improvised fall back"
@@ -2384,14 +2384,14 @@
       "subcategory": "doubled_connector",
       "description": "",
       "severity": "moderate",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-13",
-      "last_occurred": "2026-11-13",
-      "next_review": "2026-11-14",
+      "last_seen": "2026-11-20",
+      "last_occurred": "2026-11-20",
+      "next_review": "2026-11-21",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "The root cause is because",
@@ -2404,9 +2404,15 @@
           "correct": "the big problem is that the same person commits the same crime again",
           "context": "teacher lesson",
           "date": "2026-11-13"
+        },
+        {
+          "incorrect": "the advantage in this case is because we are now having a good approach",
+          "correct": "the advantage is that we now have a clear process",
+          "context": "teacher lesson, role-play",
+          "date": "2026-11-20"
         }
       ],
-      "notes": "taught Nov 7"
+      "notes": "3rd time since Nov 7"
     },
     "pron_final_dg_sound": {
       "category": "pronunciation",
@@ -4124,14 +4130,14 @@
       "subcategory": "be_used_to",
       "description": "",
       "severity": "moderate",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-30",
-      "last_occurred": "2026-10-30",
-      "next_review": "2026-10-31",
+      "last_seen": "2026-11-20",
+      "last_occurred": "2026-11-20",
+      "next_review": "2026-11-21",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "something that you are not using to hear yet",
@@ -4144,6 +4150,12 @@
           "correct": "I'm getting used to giving presentations / speaking English",
           "context": "paid lesson #1",
           "date": "2026-10-30"
+        },
+        {
+          "incorrect": "the people are used to get a long meeting",
+          "correct": "people are used to having long meetings",
+          "context": "teacher lesson, role-play",
+          "date": "2026-11-20"
         }
       ],
       "notes": "teacher fixed 'used', not the -ing"
@@ -4645,14 +4657,14 @@
       "subcategory": "auxiliary",
       "description": "",
       "severity": "moderate",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-04",
-      "last_occurred": "2026-11-04",
-      "next_review": "2026-11-05",
+      "last_seen": "2026-11-20",
+      "last_occurred": "2026-11-20",
+      "next_review": "2026-11-21",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "I receive ... I'm still have other thing",
@@ -4665,6 +4677,12 @@
           "correct": "needs to improve / can feel valued / the government invests",
           "context": "teacher lesson",
           "date": "2026-11-04"
+        },
+        {
+          "incorrect": "We are now have some productivity / The decision will successful",
+          "correct": "We're now more productive / The decision will be successful",
+          "context": "teacher lesson, role-play",
+          "date": "2026-11-20"
         }
       ],
       "notes": ""
@@ -4922,14 +4940,14 @@
       "subcategory": "articles",
       "description": "",
       "severity": "minor",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-13",
-      "last_occurred": "2026-11-13",
-      "next_review": "2026-11-14",
+      "last_seen": "2026-11-20",
+      "last_occurred": "2026-11-20",
+      "next_review": "2026-11-21",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "a issue / a older (an Uber)",
@@ -4942,6 +4960,12 @@
           "correct": "an accountant / an immigrant / a holiday",
           "context": "teacher lesson",
           "date": "2026-11-13"
+        },
+        {
+          "incorrect": "Crafty is a adjective / you are a mischievous / it will be a challenging",
+          "correct": "an adjective / you're mischievous / it will be challenging",
+          "context": "teacher lesson",
+          "date": "2026-11-20"
         }
       ],
       "notes": "taught the day before"
@@ -5636,6 +5660,144 @@
         }
       ],
       "notes": "sort it out / narrow it down / figure it out"
+    },
+    "false_friend_doubt_question": {
+      "category": "false_friend",
+      "subcategory": "dúvida",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-20",
+      "last_occurred": "2026-11-20",
+      "next_review": "2026-11-21",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "if someone has some doubt on a decision",
+          "correct": "if someone has a question about a decision",
+          "context": "teacher lesson, meeting role-play",
+          "date": "2026-11-20"
+        }
+      ],
+      "notes": "doubt = uncertainty/disbelief; 'I have a question'"
+    },
+    "grammar_superlative": {
+      "category": "grammar",
+      "subcategory": "comparative vs superlative",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-20",
+      "last_occurred": "2026-11-20",
+      "next_review": "2026-11-21",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "the better in the whole country",
+          "correct": "the best in the whole country",
+          "context": "teacher lesson (reading)",
+          "date": "2026-11-20"
+        }
+      ],
+      "notes": "reused correctly minutes later"
+    },
+    "calque_half_the_time": {
+      "category": "calque",
+      "subcategory": "metade do tempo",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-20",
+      "last_occurred": "2026-11-20",
+      "next_review": "2026-11-21",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "a half of time / half of the time",
+          "correct": "half the time",
+          "context": "teacher lesson",
+          "date": "2026-11-20"
+        }
+      ],
+      "notes": ""
+    },
+    "calque_trust_in": {
+      "category": "calque",
+      "subcategory": "confiança em",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-20",
+      "last_occurred": "2026-11-20",
+      "next_review": "2026-11-21",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "He has so much confidence on the fox",
+          "correct": "He trusted the fox / He fell for the fox's lies",
+          "context": "teacher lesson",
+          "date": "2026-11-20"
+        }
+      ],
+      "notes": "confidence = self-confidence; trust/faith IN someone"
+    },
+    "false_friend_phrase_sentence": {
+      "category": "false_friend",
+      "subcategory": "frase",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-20",
+      "last_occurred": "2026-11-20",
+      "next_review": "2026-11-21",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "while I'm trying to understand the previous phrase",
+          "correct": "while I'm still processing the previous sentence",
+          "context": "teacher lesson",
+          "date": "2026-11-20"
+        }
+      ],
+      "notes": "also whether -> while"
+    },
+    "calque_expose_share": {
+      "category": "calque",
+      "subcategory": "expor",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-20",
+      "last_occurred": "2026-11-20",
+      "next_review": "2026-11-21",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "we need to expose the subjects that will be handled",
+          "correct": "we need to share the agenda / list the topics we'll address",
+          "context": "teacher lesson, role-play",
+          "date": "2026-11-20"
+        }
+      ],
+      "notes": ""
     }
   }
 }

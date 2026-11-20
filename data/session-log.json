@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 31
+    "total_sessions": 32
   },
   "sessions": [
     {
@@ -1111,6 +1111,44 @@
       "notes": "Review of 10 items (avg 8.3/10, 9/10 >= 7), plus 2 micro-drills (plan is to, embarrassed). 319 items overdue; the learner chose 10 per day.",
       "achievements_earned": [],
       "streak_day": 2
+    },
+    {
+      "session_id": "session-032",
+      "date": "2026-11-20",
+      "duration_minutes": 51,
+      "skills_practiced": [
+        "speaking",
+        "reading"
+      ],
+      "command_used": "private-teacher-lesson",
+      "exercises_completed": 24,
+      "accuracy": 0.583,
+      "score_breakdown": {
+        "speaking": 0.6,
+        "reading": 0.5
+      },
+      "topics_covered": [
+        "fable reading (The Fox and the Goat)",
+        "crafty vs astute vs mischievous",
+        "-ed pronunciation (begged)",
+        "meeting role-play: too many meetings -> proposal, risks, success metric"
+      ],
+      "breakthroughs": [
+        "The teacher ran the meeting role-play the learner asked for",
+        "10-minute improvised role-play: problem -> solution -> risks -> success metric ('worked on the fly pretty well')",
+        "Reused at once: the best in the whole country, astute, approached, get used to this new approach",
+        "Precise questions: Why 'crafty'? Is there a word like 'astucious'? Is the goat 'he' or 'it'?",
+        "Emphatic do: I do think this approach is good"
+      ],
+      "focus_next_session": [
+        "I have a question (not a doubt)",
+        "X is that... (not 'is because')",
+        "be used to + -ing",
+        "listening: teacher explains 2 min -> learner summarizes + asks 2 questions"
+      ],
+      "notes": "Second lesson with the new teacher (51 min). Talk ratio ~35% by words; the story took ~37 min, the role-play ~14 min. Learner's stated problem: processing speed when listening in meetings. Teacher proposes a listening-then-summarize drill.",
+      "achievements_earned": [],
+      "streak_day": 3
     }
   ],
   "milestones": [

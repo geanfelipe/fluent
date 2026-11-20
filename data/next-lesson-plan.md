@@ -79,3 +79,15 @@ Talk ratio 39% (down). Topics were small talk and culture only, so steer the nex
 
 ## Domain vocabulary
 Domain-specific terms are kept in the conversation only (privacy). Generic dev terms: baseline, regression, fixture, suite, toggle, rollback, backfill, fallback, band-aid, edge case, SLA.
+
+## Social English module (added 2026-11-19) — one micro-skill per lesson
+Goal: turn social-confidence goals into trainable English skills. Train with role-plays (teacher or voice coach), 10 min per lesson.
+
+| # | Goal | Micro-skill in English | Drill | Evidence |
+|---|---|---|---|---|
+| S1 | Strong first impression | 30-second intro: name → what I do (one concrete detail) → question back | Say it 3× (4/3/2 style), then use it with a new person | First impressions form in seconds; warmth is judged before competence (Ambady & Rosenthal 1993; Fiske, Cuddy & Glick 2007) |
+| S2 | Command attention | Take the floor: "Quick update from my side…", "Can I add one thing?", "One more detail:" | Speak first in 3 dailies in a row | — |
+| S3 | Conversation that flows | Follow-up questions: echo a detail + ask ("Brazil? What brought you there?") | 5-minute chat with ≥3 follow-ups and no yes/no questions | Asking follow-up questions increases liking (Huang et al. 2017, JPSP) |
+| S4 | Connect with successful people | Curiosity questions: "How did you get into…?", "What are you most excited about right now?" | Prepare 3 questions before any networking event | — |
+| S5 | Never draw a blank | Bridges: "That reminds me of…", "Speaking of…", "How does that work?", "What's the hardest part?" | Teacher stops mid-chat; learner restarts with a bridge in <3 s | — |
+| S6 | Parties without a crutch | Openers and exits: "How do you know the host?" · "It was great talking to you — I'll let you mingle." | Role-play: open, sustain for 2 min, exit politely | — |
