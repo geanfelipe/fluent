@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "last_updated": "2026-11-19",
+    "last_updated": "2026-11-20",
     "language": "English",
     "tracking_started": "2026-10-05"
   },
   "overall_stats": {
-    "total_sessions": 31,
-    "total_exercises": 641,
-    "total_correct": 383,
-    "total_incorrect": 258,
-    "accuracy_rate": 0.598,
-    "total_study_minutes": 1133,
+    "total_sessions": 32,
+    "total_exercises": 665,
+    "total_correct": 397,
+    "total_incorrect": 268,
+    "accuracy_rate": 0.597,
+    "total_study_minutes": 1184,
     "average_session_duration": 37
   },
   "accuracy_trend": [
@@ -133,6 +133,11 @@
       "date": "2026-11-19",
       "accuracy": 0.833,
       "exercises": 12
+    },
+    {
+      "date": "2026-11-20",
+      "accuracy": 0.583,
+      "exercises": 24
     }
   ],
   "skill_progress": {
@@ -142,12 +147,12 @@
       "last_practiced": null
     },
     "speaking": {
-      "sessions": 21,
-      "accuracy": 0.566,
-      "last_practiced": "2026-11-19",
-      "exercises_completed": 313,
-      "correct_count": 180,
-      "incorrect_count": 133
+      "sessions": 22,
+      "accuracy": 0.568,
+      "last_practiced": "2026-11-20",
+      "exercises_completed": 333,
+      "correct_count": 192,
+      "incorrect_count": 141
     },
     "vocabulary": {
       "sessions": 13,
@@ -158,12 +163,12 @@
       "incorrect_count": 69
     },
     "reading": {
-      "sessions": 2,
-      "accuracy": 0.833,
-      "last_practiced": "2026-11-18",
-      "exercises_completed": 5,
-      "correct_count": 4,
-      "incorrect_count": 1
+      "sessions": 3,
+      "accuracy": 0.722,
+      "last_practiced": "2026-11-20",
+      "exercises_completed": 9,
+      "correct_count": 6,
+      "incorrect_count": 3
     },
     "listening": {
       "sessions": 2,
@@ -229,9 +234,9 @@
     },
     {
       "week_start": "2026-11-16",
-      "sessions": 2,
-      "total_minutes": 78,
-      "accuracy": 0.697
+      "sessions": 3,
+      "total_minutes": 129,
+      "accuracy": 0.659
     }
   ]
 }

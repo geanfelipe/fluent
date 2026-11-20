@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-19",
+    "last_updated": "2026-11-20",
     "language": "English"
   },
   "skills": {
@@ -12,11 +12,11 @@
     },
     "speaking": {
       "mastery_level": 2,
-      "confidence_score": 0.566,
-      "total_practice_time": 698,
-      "last_practiced": "2026-11-19",
-      "practice_count": 313,
-      "avg_accuracy": 0.566
+      "confidence_score": 0.568,
+      "total_practice_time": 713,
+      "last_practiced": "2026-11-20",
+      "practice_count": 333,
+      "avg_accuracy": 0.568
     },
     "vocabulary": {
       "mastery_level": 2,
@@ -27,12 +27,12 @@
       "avg_accuracy": 0.509
     },
     "reading": {
-      "mastery_level": 1,
-      "confidence_score": 0.833,
-      "total_practice_time": 18,
-      "last_practiced": "2026-11-18",
-      "practice_count": 5,
-      "avg_accuracy": 0.833
+      "mastery_level": 2,
+      "confidence_score": 0.722,
+      "total_practice_time": 54,
+      "last_practiced": "2026-11-20",
+      "practice_count": 9,
+      "avg_accuracy": 0.722
     },
     "listening": {
       "mastery_level": 1,
