@@ -16,10 +16,10 @@
     "occupation": "Software developer (remote, financial systems)"
   },
   "profile_created": "2026-10-05",
-  "last_updated": "2026-11-20",
-  "current_streak_days": 3,
-  "total_sessions": 32,
-  "total_study_minutes": 1184,
+  "last_updated": "2026-11-23",
+  "current_streak_days": 1,
+  "total_sessions": 33,
+  "total_study_minutes": 1244,
   "skills": {
     "writing": {
       "current_level": 0,
@@ -30,8 +30,8 @@
     "speaking": {
       "current_level": 1,
       "confidence": 65,
-      "last_practiced": "2026-11-20",
-      "total_practice_time": 713
+      "last_practiced": "2026-11-23",
+      "total_practice_time": 743
     },
     "vocabulary": {
       "current_level": 1,
@@ -41,15 +41,15 @@
     },
     "reading": {
       "current_level": 1,
-      "confidence": 44,
-      "last_practiced": "2026-11-20",
-      "total_practice_time": 54
+      "confidence": 51,
+      "last_practiced": "2026-11-23",
+      "total_practice_time": 74
     },
     "listening": {
       "current_level": 1,
-      "confidence": 47,
-      "last_practiced": "2026-10-28",
-      "total_practice_time": 25
+      "confidence": 33,
+      "last_practiced": "2026-11-23",
+      "total_practice_time": 35
     },
     "grammar": {
       "current_level": 1,
@@ -107,6 +107,12 @@
       "name": "First pushback role-play with a human teacher",
       "earned_date": "2026-11-04",
       "description": "First pushback role-play with a human teacher"
+    },
+    {
+      "id": "session_session-033_0_first_learner_led_explanation",
+      "name": "First learner-led explanation of an abstract topic (~10 min) with a private teacher",
+      "earned_date": "2026-11-23",
+      "description": "First learner-led explanation of an abstract topic (~10 min) with a private teacher"
     }
   ],
   "preferences": {

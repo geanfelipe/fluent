@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 32
+    "total_sessions": 33
   },
   "sessions": [
     {
@@ -1149,6 +1149,48 @@
       "notes": "Second lesson with the new teacher (51 min). Talk ratio ~35% by words; the story took ~37 min, the role-play ~14 min. Learner's stated problem: processing speed when listening in meetings. Teacher proposes a listening-then-summarize drill.",
       "achievements_earned": [],
       "streak_day": 3
+    },
+    {
+      "session_id": "session-033",
+      "date": "2026-11-23",
+      "duration_minutes": 60,
+      "skills_practiced": [
+        "speaking",
+        "reading",
+        "listening"
+      ],
+      "command_used": "private-teacher-lesson",
+      "exercises_completed": 26,
+      "accuracy": 0.615,
+      "score_breakdown": {
+        "speaking": 0.636,
+        "reading": 0.667,
+        "listening": 0.0
+      },
+      "topics_covered": [
+        "review: grow, better/best, clever/astute/crafty",
+        "resourceful",
+        "fable: The Ass and His Masters",
+        "word stress and silent e",
+        "listening drill: project update",
+        "Jung's archetypes (learner-led explanation)"
+      ],
+      "breakthroughs": [
+        "Retained last week's forms: the best beach (superlative), better than, astute, crafty, personify, bear",
+        "Used new words at once: resourceful, though, despite my English level, disclaimer",
+        "Led a ~10-minute explanation of an abstract idea (four archetypes) with a personal example: 'in this class, you are the magician for me'",
+        "Meta-awareness: Portuguese marks stress with accents, English doesn't",
+        "Teacher noticed he talked too much and proposed more back-and-forth"
+      ],
+      "focus_next_session": [
+        "listening: catch options, decision rule and action item (who/what/by when), then confirm",
+        "specific past time -> past simple",
+        "present/explain (not expose)",
+        "talk to each other / married to"
+      ],
+      "notes": "Third lesson with the new teacher (recording cut at 60:00, the end is missing). Talk ratio ~37% by words. The teacher reviewed last week's vocabulary at the start. Listening drill: gist OK, but the learner missed the deadline (tomorrow afternoon) and the condition; the teacher accepted it as 'pretty much'. The learner led the last ~10 min.",
+      "achievements_earned": [],
+      "streak_day": 1
     }
   ],
   "milestones": [
@@ -1176,6 +1218,11 @@
       "date": "2026-11-04",
       "milestone": "First pushback role-play with a human teacher",
       "session_id": "session-026"
+    },
+    {
+      "date": "2026-11-23",
+      "milestone": "First learner-led explanation of an abstract topic (~10 min) with a private teacher",
+      "session_id": "session-033"
     }
   ]
 }
