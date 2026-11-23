@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-11-20",
-    "total_patterns_tracked": 218,
+    "last_updated": "2026-11-23",
+    "total_patterns_tracked": 223,
     "language": "English"
   },
   "error_patterns": {
@@ -2130,14 +2130,14 @@
       "subcategory": "embedded_question",
       "description": "",
       "severity": "moderate",
-      "frequency": 3,
+      "frequency": 4,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-13",
-      "last_occurred": "2026-11-13",
-      "next_review": "2026-11-14",
+      "last_seen": "2026-11-23",
+      "last_occurred": "2026-11-23",
+      "next_review": "2026-11-24",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 3,
+      "consecutive_incorrect": 4,
       "examples": [
         {
           "incorrect": "explain me what do you mean",
@@ -2156,9 +2156,15 @@
           "correct": "how the story ends / what it is / what those policies were / find out what the ID is",
           "context": "teacher lesson + meeting",
           "date": "2026-11-13"
+        },
+        {
+          "incorrect": "I need to understand what do you mean / What is this important about his master's occupation?",
+          "correct": "what you mean / Why is his master's occupation important?",
+          "context": "teacher lesson",
+          "date": "2026-11-23"
         }
       ],
-      "notes": "4x this week; 'how much you earn' was correct"
+      "notes": "'what it was about' was correct"
     },
     "calque_reveal_found": {
       "category": "vocabulary",
@@ -3870,20 +3876,26 @@
       "subcategory": "word_form",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-27",
-      "last_occurred": "2026-10-27",
-      "next_review": "2026-10-28",
+      "last_seen": "2026-11-23",
+      "last_occurred": "2026-11-23",
+      "next_review": "2026-11-24",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "you don't have any fluence / a bit ashamed to speak",
           "correct": "you don't have any fluency / a bit embarrassed to speak",
           "context": "trial class",
           "date": "2026-10-27"
+        },
+        {
+          "incorrect": "My fluence is growing",
+          "correct": "My fluency is growing",
+          "context": "teacher lesson",
+          "date": "2026-11-23"
         }
       ],
       "notes": ""
@@ -4165,14 +4177,14 @@
       "subcategory": "reporting_verbs",
       "description": "",
       "severity": "moderate",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-11",
-      "last_occurred": "2026-11-11",
-      "next_review": "2026-11-12",
+      "last_seen": "2026-11-23",
+      "last_occurred": "2026-11-23",
+      "next_review": "2026-11-24",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "They said me that maybe in the future...",
@@ -4185,6 +4197,12 @@
           "correct": "he said that he felt overwhelmed",
           "context": "teacher lesson",
           "date": "2026-11-11"
+        },
+        {
+          "incorrect": "You told that your girlfriend...",
+          "correct": "You said (that) your girlfriend... / You told me...",
+          "context": "teacher lesson",
+          "date": "2026-11-23"
         }
       ],
       "notes": ""
@@ -5505,23 +5523,29 @@
       "subcategory": "be + to-infinitive",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-18",
-      "last_occurred": "2026-11-18",
-      "next_review": "2026-11-19",
+      "last_seen": "2026-11-23",
+      "last_occurred": "2026-11-23",
+      "next_review": "2026-11-24",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "the best approach for me is speak as much as I can / my plan is book three classes a week",
           "correct": "the best approach is to speak as much as I can / my plan is to book three lessons a week",
           "context": "teacher trial (2x) + meeting Nov 12",
           "date": "2026-11-18"
+        },
+        {
+          "incorrect": "the first plan is release some features on Friday",
+          "correct": "the first plan is to release the basic features on Friday",
+          "context": "teacher lesson",
+          "date": "2026-11-23"
         }
       ],
-      "notes": "approach/plan/strategy/goal is TO + verb"
+      "notes": "3rd time"
     },
     "calque_caught_my_eye": {
       "category": "calque",
@@ -5781,20 +5805,141 @@
       "subcategory": "expor",
       "description": "",
       "severity": "minor",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-20",
-      "last_occurred": "2026-11-20",
-      "next_review": "2026-11-21",
+      "last_seen": "2026-11-23",
+      "last_occurred": "2026-11-23",
+      "next_review": "2026-11-24",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "we need to expose the subjects that will be handled",
           "correct": "we need to share the agenda / list the topics we'll address",
           "context": "teacher lesson, role-play",
           "date": "2026-11-20"
+        },
+        {
+          "incorrect": "a book exposing the idea of the main archetypes",
+          "correct": "a book presenting / explaining the four main archetypes",
+          "context": "teacher lesson (2x)",
+          "date": "2026-11-23"
+        }
+      ],
+      "notes": "expose = reveal something hidden or bad"
+    },
+    "grammar_past_simple_specific_time": {
+      "category": "grammar",
+      "subcategory": "present perfect overcorrection",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-23",
+      "last_occurred": "2026-11-23",
+      "next_review": "2026-11-24",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I've been to London in 2019 for one month / I have watched a video (finished)",
+          "correct": "I went to London in 2019 / I was in London for a month in 2019 / I watched a video",
+          "context": "teacher lesson (2nd time)",
+          "date": "2026-11-23"
+        }
+      ],
+      "notes": "specific past time (in 2019, yesterday) -> past simple"
+    },
+    "vocab_talk_to_each_other": {
+      "category": "preposition",
+      "subcategory": "to each other / married to",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-23",
+      "last_occurred": "2026-11-23",
+      "next_review": "2026-11-24",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "both are talking each other / a woman married with his warrior",
+          "correct": "talking to each other / married to one of his soldiers",
+          "context": "teacher lesson",
+          "date": "2026-11-23"
+        }
+      ],
+      "notes": "regressions"
+    },
+    "calque_pass_confidence": {
+      "category": "calque",
+      "subcategory": "passar confiança",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-23",
+      "last_occurred": "2026-11-23",
+      "next_review": "2026-11-24",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "you need to pass her some confidence",
+          "correct": "you need to make her feel secure / reassure her",
+          "context": "teacher lesson",
+          "date": "2026-11-23"
+        }
+      ],
+      "notes": ""
+    },
+    "listening_action_item_detail": {
+      "category": "listening",
+      "subcategory": "meeting details",
+      "description": "",
+      "severity": "critical",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-23",
+      "last_occurred": "2026-11-23",
+      "next_review": "2026-11-24",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I can contact the support team and understand if they can finish by Wednesday",
+          "correct": "I'll contact support today and find out whether they can finish by tomorrow afternoon; if not, we delay and inform management",
+          "context": "teacher listening drill",
+          "date": "2026-11-23"
+        }
+      ],
+      "notes": "got the gist, missed deadline + condition; understand -> find out"
+    },
+    "grammar_decide_to": {
+      "category": "grammar",
+      "subcategory": "decide + to / get married",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-23",
+      "last_occurred": "2026-11-23",
+      "next_review": "2026-11-24",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "we decided married",
+          "correct": "we decided to get married",
+          "context": "teacher lesson",
+          "date": "2026-11-23"
         }
       ],
       "notes": ""
