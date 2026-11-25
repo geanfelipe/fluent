@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 33
+    "total_sessions": 34
   },
   "sessions": [
     {
@@ -1189,6 +1189,44 @@
         "talk to each other / married to"
       ],
       "notes": "Third lesson with the new teacher (recording cut at 60:00, the end is missing). Talk ratio ~37% by words. The teacher reviewed last week's vocabulary at the start. Listening drill: gist OK, but the learner missed the deadline (tomorrow afternoon) and the condition; the teacher accepted it as 'pretty much'. The learner led the last ~10 min.",
+      "achievements_earned": [],
+      "streak_day": 1
+    },
+    {
+      "session_id": "session-034",
+      "date": "2026-11-25",
+      "duration_minutes": 39,
+      "skills_practiced": [
+        "listening",
+        "speaking"
+      ],
+      "command_used": "private-teacher-lesson",
+      "exercises_completed": 21,
+      "accuracy": 0.524,
+      "score_breakdown": {
+        "listening": 0.333,
+        "speaking": 0.556
+      },
+      "topics_covered": [
+        "listening drill: simulated meeting (two speakers, options, decision rule, action items)",
+        "agent vs agency",
+        "respond to / answer",
+        "anonymized"
+      ],
+      "breakthroughs": [
+        "Paused the meeting himself: 'Hold on, I got lost. Can I explain what I've heard so far?'",
+        "Stayed in character: 'Mike, can you please repeat what I need to do?'",
+        "Reused: 'I didn't catch...', 'disclosure', 'misleading', 'on behalf of'",
+        "Took notes while listening",
+        "Reported question correct: I was asking you if X is where the airport is located"
+      ],
+      "focus_next_session": [
+        "note template: OPTIONS | DECIDES ON | MY TASK (what / to whom / by when / format)",
+        "confirm the action item with deadline + recipients",
+        "hear vs listen",
+        "my job is TO + verb"
+      ],
+      "notes": "Fourth lesson with the new teacher (39 min). Talk ratio ~33% by words (listening drill by design). The teacher saw the answer key and generated a new script. Rounds 2 (3 interruptions) and 3 (confirm the action item) did not happen. The teacher explained 'agents' as AI agents; in customer support they are human representatives. The teacher's proposal: give a one-line context before the script.",
       "achievements_earned": [],
       "streak_day": 1
     }

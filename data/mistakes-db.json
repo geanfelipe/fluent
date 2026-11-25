@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-11-23",
-    "total_patterns_tracked": 223,
+    "last_updated": "2026-11-25",
+    "total_patterns_tracked": 227,
     "language": "English"
   },
   "error_patterns": {
@@ -2014,14 +2014,14 @@
       "subcategory": "word_order",
       "description": "",
       "severity": "moderate",
-      "frequency": 3,
+      "frequency": 4,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-27",
-      "last_occurred": "2026-10-27",
-      "next_review": "2026-10-28",
+      "last_seen": "2026-11-25",
+      "last_occurred": "2026-11-25",
+      "next_review": "2026-11-26",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 3,
+      "consecutive_incorrect": 4,
       "examples": [
         {
           "incorrect": "the Job scheduled run / a buffer of 2 days in the scheduled",
@@ -2040,6 +2040,12 @@
           "correct": "The test environment / the scheduled job failed last night",
           "context": "item 14 (2nd time 'environment test')",
           "date": "2026-10-27"
+        },
+        {
+          "incorrect": "a house beach / different point of views",
+          "correct": "a beach house / different points of view",
+          "context": "teacher lesson",
+          "date": "2026-11-25"
         }
       ],
       "notes": ""
@@ -4212,14 +4218,14 @@
       "subcategory": "negation",
       "description": "",
       "severity": "critical",
-      "frequency": 3,
+      "frequency": 4,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-06",
-      "last_occurred": "2026-11-06",
-      "next_review": "2026-11-07",
+      "last_seen": "2026-11-25",
+      "last_occurred": "2026-11-25",
+      "next_review": "2026-11-26",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 3,
+      "consecutive_incorrect": 4,
       "examples": [
         {
           "incorrect": "You even have to speak English in Orlando",
@@ -4238,9 +4244,15 @@
           "correct": "the nurse didn't allow us to leave",
           "context": "teacher lesson, story",
           "date": "2026-11-06"
+        },
+        {
+          "incorrect": "I was writing down because otherwise I can capture everything",
+          "correct": "...because otherwise I can't capture everything",
+          "context": "teacher lesson",
+          "date": "2026-11-25"
         }
       ],
-      "notes": "also live/leave vowel"
+      "notes": "meaning flipped"
     },
     "grammar_everybody_singular": {
       "category": "grammar",
@@ -4351,14 +4363,14 @@
       "subcategory": "dummy_subject",
       "description": "",
       "severity": "moderate",
-      "frequency": 3,
+      "frequency": 4,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-11",
-      "last_occurred": "2026-11-11",
-      "next_review": "2026-11-12",
+      "last_seen": "2026-11-25",
+      "last_occurred": "2026-11-25",
+      "next_review": "2026-11-26",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 3,
+      "consecutive_incorrect": 4,
       "examples": [
         {
           "incorrect": "this guy will know if goes rain or not / I saw that was the same",
@@ -4377,6 +4389,12 @@
           "correct": "it's allowed / It's a recurring meeting / Now the Portuguese classes make sense",
           "context": "teacher lesson",
           "date": "2026-11-11"
+        },
+        {
+          "incorrect": "the weather is raining a lot",
+          "correct": "it's raining a lot",
+          "context": "teacher lesson",
+          "date": "2026-11-25"
         }
       ],
       "notes": "subject must come before the verb"
@@ -5523,14 +5541,14 @@
       "subcategory": "be + to-infinitive",
       "description": "",
       "severity": "moderate",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-23",
-      "last_occurred": "2026-11-23",
-      "next_review": "2026-11-24",
+      "last_seen": "2026-11-25",
+      "last_occurred": "2026-11-25",
+      "next_review": "2026-11-26",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "the best approach for me is speak as much as I can / my plan is book three classes a week",
@@ -5543,9 +5561,15 @@
           "correct": "the first plan is to release the basic features on Friday",
           "context": "teacher lesson",
           "date": "2026-11-23"
+        },
+        {
+          "incorrect": "my job in this scenario is looking for 30 tickets",
+          "correct": "my job is to review 30 tickets",
+          "context": "teacher lesson",
+          "date": "2026-11-25"
         }
       ],
-      "notes": "3rd time"
+      "notes": "4th time"
     },
     "calque_caught_my_eye": {
       "category": "calque",
@@ -5575,23 +5599,29 @@
       "subcategory": "mixed",
       "description": "",
       "severity": "minor",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-18",
-      "last_occurred": "2026-11-18",
-      "next_review": "2026-11-19",
+      "last_seen": "2026-11-25",
+      "last_occurred": "2026-11-25",
+      "next_review": "2026-11-26",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "read loudly / angry on someone / waiting the exact moment / explain complex ideas as a simple idea",
           "correct": "read aloud / angry at someone / waiting for the moment / explain complex ideas in simple terms",
           "context": "teacher trial",
           "date": "2026-11-18"
+        },
+        {
+          "incorrect": "read loudly / in the beginning of this year / between the client with the company / respond a form / answer to some questions",
+          "correct": "read aloud / at the beginning of this year / between the client and the company / respond to a form / answer some questions",
+          "context": "teacher lesson",
+          "date": "2026-11-25"
         }
       ],
-      "notes": ""
+      "notes": "read aloud: regression"
     },
     "grammar_remember_ing": {
       "category": "grammar",
@@ -5903,23 +5933,29 @@
       "subcategory": "meeting details",
       "description": "",
       "severity": "critical",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-23",
-      "last_occurred": "2026-11-23",
-      "next_review": "2026-11-24",
+      "last_seen": "2026-11-25",
+      "last_occurred": "2026-11-25",
+      "next_review": "2026-11-26",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "I can contact the support team and understand if they can finish by Wednesday",
           "correct": "I'll contact support today and find out whether they can finish by tomorrow afternoon; if not, we delay and inform management",
           "context": "teacher listening drill",
           "date": "2026-11-23"
+        },
+        {
+          "incorrect": "review the last 30 tickets, find the main cause, put other issues in a separate category",
+          "correct": "...plus: short summary with counts, 3 anonymized examples, tickets from different agents, send to Product + Support by Thursday 2 p.m. (decision meeting Friday)",
+          "context": "teacher listening drill (2nd lesson in a row)",
+          "date": "2026-11-25"
         }
       ],
-      "notes": "got the gist, missed deadline + condition; understand -> find out"
+      "notes": "gist 3/10 -> 7/10 after 2nd listen; misses deadline, recipients, deliverable format; heard 'three' for 'thirty' once"
     },
     "grammar_decide_to": {
       "category": "grammar",
@@ -5943,6 +5979,98 @@
         }
       ],
       "notes": ""
+    },
+    "vocab_listen_vs_hear": {
+      "category": "vocabulary",
+      "subcategory": "listen vs hear",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-25",
+      "last_occurred": "2026-11-25",
+      "next_review": "2026-11-26",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "explain what I have listened so far / I don't know if you are listening to this wind noise / I listen to someone saying 'though'",
+          "correct": "what I've heard so far / if you can hear the wind / I hear people say 'though'",
+          "context": "teacher lesson (3x)",
+          "date": "2026-11-25"
+        }
+      ],
+      "notes": "listen = pay attention; hear = sound reaches you"
+    },
+    "calque_draw_a_conclusion": {
+      "category": "calque",
+      "subcategory": "tirar conclusão",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-25",
+      "last_occurred": "2026-11-25",
+      "next_review": "2026-11-26",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "try take this conclusion",
+          "correct": "try to draw a conclusion",
+          "context": "teacher lesson",
+          "date": "2026-11-25"
+        }
+      ],
+      "notes": "also try + to"
+    },
+    "grammar_state_verb_ing": {
+      "category": "grammar",
+      "subcategory": "state verbs",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-25",
+      "last_occurred": "2026-11-25",
+      "next_review": "2026-11-26",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "I was understanding agencies",
+          "correct": "I thought he said 'agencies' / I understood 'agencies'",
+          "context": "teacher lesson",
+          "date": "2026-11-25"
+        }
+      ],
+      "notes": "understand, know, see, hear: no -ing"
+    },
+    "vocab_cause_vs_purpose": {
+      "category": "vocabulary",
+      "subcategory": "word choice",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-25",
+      "last_occurred": "2026-11-25",
+      "next_review": "2026-11-26",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "identify what is the main purpose of these issues",
+          "correct": "identify what the main cause of these issues is",
+          "context": "teacher lesson",
+          "date": "2026-11-25"
+        }
+      ],
+      "notes": "also embedded order"
     }
   }
 }
