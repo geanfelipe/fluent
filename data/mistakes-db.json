@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-11-25",
-    "total_patterns_tracked": 227,
+    "last_updated": "2026-11-27",
+    "total_patterns_tracked": 231,
     "language": "English"
   },
   "error_patterns": {
@@ -876,21 +876,15 @@
       "subcategory": "uncountable_nouns",
       "description": "",
       "severity": "moderate",
-      "frequency": 15,
+      "frequency": 16,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-13",
-      "last_occurred": "2026-11-13",
-      "next_review": "2026-11-14",
+      "last_seen": "2026-11-27",
+      "last_occurred": "2026-11-27",
+      "next_review": "2026-11-28",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 15,
+      "consecutive_incorrect": 16,
       "examples": [
-        {
-          "incorrect": "some stuffs / all these hardware",
-          "correct": "some stuff / all this hardware (these machines)",
-          "context": "paid lesson #1",
-          "date": "2026-10-30"
-        },
         {
           "incorrect": "some evidences / many advice / a wrong data",
           "correct": "any evidence / much (a lot of) advice / the wrong data",
@@ -914,9 +908,15 @@
           "correct": "sharing stuff",
           "context": "teacher lesson",
           "date": "2026-11-13"
+        },
+        {
+          "incorrect": "give you a feedback",
+          "correct": "give you some feedback",
+          "context": "teacher lesson",
+          "date": "2026-11-27"
         }
       ],
-      "notes": "stuffs: 4th week"
+      "notes": "2nd time"
     },
     "grammar_need_to_infinitive": {
       "category": "grammar",
@@ -958,20 +958,26 @@
       "subcategory": "infinitive_vs_gerund_mix",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-10-13",
-      "last_occurred": "2026-10-13",
-      "next_review": "2026-10-14",
+      "last_seen": "2026-11-27",
+      "last_occurred": "2026-11-27",
+      "next_review": "2026-11-28",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "I will start to working",
           "correct": "I will start working / I will start to work",
           "context": "free conversation",
           "date": "2026-10-13"
+        },
+        {
+          "incorrect": "I have to start watch movies in English",
+          "correct": "I have to start watching movies in English",
+          "context": "teacher lesson",
+          "date": "2026-11-27"
         }
       ],
       "notes": "Overcorrection of the prep+ing rule: 'start' takes EITHER to+base OR -ing, never both."
@@ -1816,21 +1822,15 @@
       "subcategory": "question_formation",
       "description": "",
       "severity": "critical",
-      "frequency": 9,
+      "frequency": 10,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-20",
-      "last_occurred": "2026-11-20",
-      "next_review": "2026-11-21",
+      "last_seen": "2026-11-27",
+      "last_occurred": "2026-11-27",
+      "next_review": "2026-11-28",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 9,
+      "consecutive_incorrect": 10,
       "examples": [
-        {
-          "incorrect": "You mean about this kind of confidence?",
-          "correct": "Do you mean this kind of confidence?",
-          "context": "trial class (missing auxiliary)",
-          "date": "2026-10-27"
-        },
         {
           "incorrect": "Why they have both countries?",
           "correct": "Why are there two countries?",
@@ -1854,9 +1854,15 @@
           "correct": "Why did the goat approach the well? / Why doesn't it say 'slipped'?",
           "context": "teacher lesson",
           "date": "2026-11-20"
+        },
+        {
+          "incorrect": "The Miller means the name of this person or its job? / why your son is riding the donkey?",
+          "correct": "Is 'the miller' his name or his job? / Why is your son riding the donkey?",
+          "context": "teacher lesson",
+          "date": "2026-11-27"
         }
       ],
-      "notes": "prepared questions are correct; improvised fall back"
+      "notes": "later correct: Why is the young kid walking? / Why are you both riding...?"
     },
     "collocation_the_same_as": {
       "category": "vocabulary",
@@ -4866,14 +4872,14 @@
       "subcategory": "used to",
       "description": "",
       "severity": "moderate",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-06",
-      "last_occurred": "2026-11-06",
-      "next_review": "2026-11-07",
+      "last_seen": "2026-11-27",
+      "last_occurred": "2026-11-27",
+      "next_review": "2026-11-28",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "We use it to change the time / decided to not change anymore",
@@ -4886,9 +4892,15 @@
           "correct": "I decided not to use my translator",
           "context": "teacher lesson",
           "date": "2026-11-06"
+        },
+        {
+          "incorrect": "he decided to not ride on the donkey",
+          "correct": "he decided not to ride the donkey",
+          "context": "teacher lesson",
+          "date": "2026-11-27"
         }
       ],
-      "notes": "2nd time"
+      "notes": "3rd time"
     },
     "vocab_countable_accountable": {
       "category": "vocabulary",
@@ -5599,14 +5611,14 @@
       "subcategory": "mixed",
       "description": "",
       "severity": "minor",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-25",
-      "last_occurred": "2026-11-25",
-      "next_review": "2026-11-26",
+      "last_seen": "2026-11-27",
+      "last_occurred": "2026-11-27",
+      "next_review": "2026-11-28",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "read loudly / angry on someone / waiting the exact moment / explain complex ideas as a simple idea",
@@ -5619,6 +5631,12 @@
           "correct": "read aloud / at the beginning of this year / between the client and the company / respond to a form / answer some questions",
           "context": "teacher lesson",
           "date": "2026-11-25"
+        },
+        {
+          "incorrect": "she came to here / because wars / near to the market / outraged on politics",
+          "correct": "she came here / because of the wars / near the market / outraged about politics",
+          "context": "teacher lesson",
+          "date": "2026-11-27"
         }
       ],
       "notes": "read aloud: regression"
@@ -5743,23 +5761,29 @@
       "subcategory": "comparative vs superlative",
       "description": "",
       "severity": "minor",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-11-20",
-      "last_occurred": "2026-11-20",
-      "next_review": "2026-11-21",
+      "last_seen": "2026-11-27",
+      "last_occurred": "2026-11-27",
+      "next_review": "2026-11-28",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "the better in the whole country",
           "correct": "the best in the whole country",
           "context": "teacher lesson (reading)",
           "date": "2026-11-20"
+        },
+        {
+          "incorrect": "this is not the better option / the better iPhone / have the better car, the better travel to Europe",
+          "correct": "not the best option / the latest iPhone / the best car, the best trip to Europe",
+          "context": "teacher lesson (4x, regression)",
+          "date": "2026-11-27"
         }
       ],
-      "notes": "reused correctly minutes later"
+      "notes": "the + best = superlative; better = comparing two"
     },
     "calque_half_the_time": {
       "category": "calque",
@@ -6071,6 +6095,98 @@
         }
       ],
       "notes": "also embedded order"
+    },
+    "vocab_show_off": {
+      "category": "vocabulary",
+      "subcategory": "phrasal verb",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-27",
+      "last_occurred": "2026-11-27",
+      "next_review": "2026-11-28",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "choose something to show up to someone / you show to everybody that you can afford it",
+          "correct": "to show off / you show everybody that you can afford it",
+          "context": "teacher lesson",
+          "date": "2026-11-27"
+        }
+      ],
+      "notes": "show up = appear/arrive; show off = exibir-se"
+    },
+    "false_friend_discussion_argument": {
+      "category": "false_friend",
+      "subcategory": "discussão",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-27",
+      "last_occurred": "2026-11-27",
+      "next_review": "2026-11-28",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "once I had a little discussion... the people got angry / any discussion with your uncle about politics",
+          "correct": "I once had an argument... / any arguments with your uncle",
+          "context": "teacher lesson",
+          "date": "2026-11-27"
+        }
+      ],
+      "notes": "discussion = calm exchange; argument = heated disagreement"
+    },
+    "grammar_although_but": {
+      "category": "grammar",
+      "subcategory": "connectors",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-27",
+      "last_occurred": "2026-11-27",
+      "next_review": "2026-11-28",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "So, but although I really know this is very clear, but...",
+          "correct": "Although it isn't very clear, I could move forward... (although OR but, never both)",
+          "context": "teacher lesson",
+          "date": "2026-11-27"
+        }
+      ],
+      "notes": "PT 'embora... mas'"
+    },
+    "calque_along_the_way": {
+      "category": "calque",
+      "subcategory": "ao longo do caminho",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-11-27",
+      "last_occurred": "2026-11-27",
+      "next_review": "2026-11-28",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "throughout the way they faced a lot of situations",
+          "correct": "along the way, they faced...",
+          "context": "teacher lesson",
+          "date": "2026-11-27"
+        }
+      ],
+      "notes": ""
     }
   }
 }
