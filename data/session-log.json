@@ -2,7 +2,7 @@
   "metadata": {
     "language": "English",
     "learner_name": "Gean",
-    "total_sessions": 33
+    "total_sessions": 35
   },
   "sessions": [
     {
@@ -1189,6 +1189,86 @@
         "talk to each other / married to"
       ],
       "notes": "Third lesson with the new teacher (recording cut at 60:00, the end is missing). Talk ratio ~37% by words. The teacher reviewed last week's vocabulary at the start. Listening drill: gist OK, but the learner missed the deadline (tomorrow afternoon) and the condition; the teacher accepted it as 'pretty much'. The learner led the last ~10 min.",
+      "achievements_earned": [],
+      "streak_day": 1
+    },
+    {
+      "session_id": "session-034",
+      "date": "2026-11-25",
+      "duration_minutes": 39,
+      "skills_practiced": [
+        "listening",
+        "speaking"
+      ],
+      "command_used": "private-teacher-lesson",
+      "exercises_completed": 21,
+      "accuracy": 0.524,
+      "score_breakdown": {
+        "listening": 0.333,
+        "speaking": 0.556
+      },
+      "topics_covered": [
+        "listening drill: simulated meeting (two speakers, options, decision rule, action items)",
+        "agent vs agency",
+        "respond to / answer",
+        "anonymized"
+      ],
+      "breakthroughs": [
+        "Paused the meeting himself: 'Hold on, I got lost. Can I explain what I've heard so far?'",
+        "Stayed in character: 'Mike, can you please repeat what I need to do?'",
+        "Reused: 'I didn't catch...', 'disclosure', 'misleading', 'on behalf of'",
+        "Took notes while listening",
+        "Reported question correct: I was asking you if X is where the airport is located"
+      ],
+      "focus_next_session": [
+        "note template: OPTIONS | DECIDES ON | MY TASK (what / to whom / by when / format)",
+        "confirm the action item with deadline + recipients",
+        "hear vs listen",
+        "my job is TO + verb"
+      ],
+      "notes": "Fourth lesson with the new teacher (39 min). Talk ratio ~33% by words (listening drill by design). The teacher saw the answer key and generated a new script. Rounds 2 (3 interruptions) and 3 (confirm the action item) did not happen. The teacher explained 'agents' as AI agents; in customer support they are human representatives. The teacher's proposal: give a one-line context before the script.",
+      "achievements_earned": [],
+      "streak_day": 1
+    },
+    {
+      "session_id": "session-035",
+      "date": "2026-11-27",
+      "duration_minutes": 63,
+      "skills_practiced": [
+        "speaking",
+        "reading",
+        "grammar"
+      ],
+      "command_used": "private-teacher-lesson",
+      "exercises_completed": 28,
+      "accuracy": 0.714,
+      "score_breakdown": {
+        "speaking": 0.636,
+        "reading": 1.0,
+        "grammar": 1.0
+      },
+      "topics_covered": [
+        "holidays",
+        "colonization (comparing histories)",
+        "fable: The Miller, His Son and the Donkey (read in advance)",
+        "people-pleasing and status (personal application)",
+        "give way / give away / yield / pass by",
+        "uproar, outrage, pity, perch, turnstile"
+      ],
+      "breakthroughs": [
+        "Read the story in advance, highlighted unknown words and inferred from context without translating",
+        "4-minute coherent retelling with correct direct questions (Why are you not riding the donkey? Why are you both riding a poor donkey?)",
+        "Abstract personal application: choosing based on other people's opinions, showing off, ending up in a bad situation",
+        "Uptake: bought -> brought, its (animal), figured out, different from, discuss it, 'not a waste of time', give away (correct use)",
+        "Coach drill: 5/5 prepositional vs transitive verbs (wait for, discuss, answer, respond to, listen to)"
+      ],
+      "focus_next_session": [
+        "the best (superlative) vs better",
+        "show off vs show up",
+        "argument (not discussion)",
+        "talk ratio: ask the teacher to stay silent during the retelling"
+      ],
+      "notes": "Fifth lesson with the new teacher (58 min). Talk ratio ~32% by words, the lowest so far (lessons with this teacher: 35, 35, 37, 33, 32). The opening chat was ~11 min, mostly the teacher. The video clip failed (homework for Monday). The teacher committed to reviewing earlier material at the start of each lesson. Coach notes: 'give away my salary' was correct; 'the bridge gave way' = collapsed.",
       "achievements_earned": [],
       "streak_day": 1
     }
